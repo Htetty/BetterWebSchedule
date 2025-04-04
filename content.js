@@ -43,9 +43,9 @@ chrome.runtime.onMessage.addListener((message) => {
 });
 
 Promise.all([
-  fetch(chrome.runtime.getURL("all_professors_Skyline.json")).then(res => res.json()),
-  fetch(chrome.runtime.getURL("all_professors_CSM.json")).then(res => res.json()),
-  fetch(chrome.runtime.getURL("all_professors_Canada.json")).then(res => res.json())
+  fetch(chrome.runtime.getURL("ScrapedData/all_professors_Skyline.json")).then(res => res.json()),
+  fetch(chrome.runtime.getURL("ScrapedData/all_professors_CSM.json")).then(res => res.json()),
+  fetch(chrome.runtime.getURL("ScrapedData/all_professors_Canada.json")).then(res => res.json())
 ])
 .then(([skyline, csm, canada]) => {
   const professors = [...skyline, ...csm, ...canada];

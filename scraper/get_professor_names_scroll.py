@@ -1,3 +1,7 @@
+import os
+
+os.makedirs("ScrapedData", exist_ok=True)
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -63,7 +67,7 @@ def get_professor_names_scroll():
         seen = set()
 
         # Change the school name to create different txt files
-        with open("professors_School.txt", "w", encoding="utf-8") as f:
+        with open("ScrapedData/professors_School.txt", "w", encoding="utf-8") as f:
             for card in cards:
                 try:
                     name_elem = card.find_element(By.CSS_SELECTOR, "div[class*='CardName__StyledCardName']")

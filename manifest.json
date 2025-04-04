@@ -22,9 +22,9 @@
       "resources": [
         "darkmode.css",
         "lightmode.css",
-        "all_professors_Skyline.json",
-        "all_professors_CSM.json",
-        "all_professors_Canada.json"
+        "ScrapedData/all_professors_Skyline.json",
+        "ScrapedData/all_professors_CSM.json",
+        "ScrapedData/all_professors_Canada.json"
       ],
       "matches": ["*://phx-ban-apps.smccd.edu/*"]
     }

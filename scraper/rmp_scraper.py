@@ -1,3 +1,5 @@
+import os
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -5,6 +7,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from urllib.parse import quote
 import json
+
+os.makedirs("ScrapedData", exist_ok=True)
 
 def setup_driver():
     chrome_options = Options()
@@ -81,7 +85,7 @@ def main():
     all_data = []
     
     # Change the school name to get access to the teachers names
-    with open("professors_CSM.txt", "r", encoding="utf-8") as f:
+    with open("Scraped_Data/professors_CSM.txt", "r", encoding="utf-8") as f:
         names = [line.strip() for line in f if line.strip()]
 
     try:
@@ -94,7 +98,7 @@ def main():
 
     if all_data:
         # Correspond the above school name next to professors with _ to create json data files
-        with open("all_professors.json", "w", encoding="utf-8") as f:
+        with open("ScrapedData/all_professors.json", "w", encoding="utf-8") as f:
             json.dump(all_data, f, indent=2)
             print(f"\nSaved {len(all_data)} professors to all_professors.json")
     else:
