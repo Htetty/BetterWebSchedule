@@ -1,0 +1,12 @@
+.profileCard {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    border-radius: 12px !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2) !important;
+    border: 1px solid #ccc !important;
+  }
+  
+  .profileCard *:not([style]) {
+    color: #000000 !important;
+  }
+  

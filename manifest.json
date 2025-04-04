@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "SMCCD WebSchedule RMP Ratings",
+  "version": "1.0",
+  "description": "Inject RateMyProfessors data into SMCCD WebSchedule.",
+  "permissions": ["storage", "tabs", "scripting"],
+  "host_permissions": [
+    "https://phx-ban-apps.smccd.edu/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://phx-ban-apps.smccd.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "darkmode.css",
+        "lightmode.css",
+        "all_professors_Skyline.json",
+        "all_professors_CSM.json",
+        "all_professors_Canada.json"
+      ],
+      "matches": ["*://phx-ban-apps.smccd.edu/*"]
+    }
+  ]
+}
