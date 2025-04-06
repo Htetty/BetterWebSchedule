@@ -102,40 +102,50 @@ Promise.all([
       const ratingEmoji = prof.avgRating >= 3.0 ? "😁" : prof.avgRating >= 2.0 ? "😅" : "😰";
       const difficultyEmoji = prof.avgDifficulty >= 3.0 ? "🤕" : "😌";
       const wouldTakeColor = prof.wouldTakeAgainPercent >= 50 ? "green" : "red";
+      
+      const isDarkMode = document.getElementById(DARK_STYLE_ID) !== null;
+      const borderColor = isDarkMode ? "#333" : "#ccc";
 
       card.innerHTML = `
-        <div style="
-          font-family: 'Segoe UI', sans-serif;
-          font-size: 13px;
-          padding: 10px 14px;
-          margin-top: 8px;
-          display: flex;
-          flex-direction: column;
-          gap: 6px;
-          border: 1px solid #ccc;
-          color: #000;
-        ">
-          <div style="display: flex; align-items: center; gap: 6px;">
-            <span style="font-size: 14px;">${ratingEmoji}</span>
-            <span><strong>${prof.avgRating}</strong> / 5 (${prof.numRatings} ratings)</span>
-          </div>
-          <div style="display: flex; align-items: center; gap: 6px;">
-            <span style="font-size: 14px;">${difficultyEmoji}</span>
-            <span>Difficulty: <strong>${prof.avgDifficulty}</strong></span>
-          </div>
-          <div style="display: flex; align-items: center; gap: 6px;">
-            <span style="font-size: 14px;">👍</span>
-            <span style="color: ${wouldTakeColor};">Would take again: <strong>${prof.wouldTakeAgainPercent}%</strong></span>
-          </div>
-          <div style="margin-top: 4px;">
-            <a href="${prof.profileUrl}" target="_blank" style="
-              color: #0073e6;
-              text-decoration: none;
-              font-weight: bold;
-            ">🔗 View on Rate My Professor</a>
-          </div>
+      <div style="
+        font-family: 'Segoe UI', sans-serif;
+        font-size: 13px;
+        padding: 10px 14px;
+        margin-top: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        border: 1px solid ${borderColor};
+        color: #e0e0e0;
+      ">
+        <div style="display: flex; align-items: center; gap: 6px;">
+          <span style="font-size: 14px;">${ratingEmoji}</span>
+          <span><strong>${prof.avgRating}</strong> / 5 (${prof.numRatings} ratings)</span>
         </div>
-      `;
+        <div style="display: flex; align-items: center; gap: 6px;">
+          <span style="font-size: 14px;">${difficultyEmoji}</span>
+          <span>Difficulty: <strong>${prof.avgDifficulty}</strong></span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 6px;">
+          <span style="font-size: 14px;">👍</span>
+          <span style="color: ${wouldTakeColor};">Would take again: <strong>${prof.wouldTakeAgainPercent}%</strong></span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 6px;">
+          <span style="font-size: 14px;">🔗</span>
+          <a href="${prof.profileUrl}" target="_blank" style="
+            color: #0073e6;
+            text-decoration: none;
+            font-weight: bold;
+          ">View on Rate My Professor</a>
+        </div>
+        <div style="display: flex; align-items: center; gap: 6px; font-size: 12px; color: #aaa;">
+          <span style="font-size: 14px;">📅</span>
+          <span>Data Last Updated: 04/01/2025</span>
+        </div>
+      </div>
+    `;
+
+
     } else {
       console.log(`Match not found for ${normalized}`);
       card.innerHTML = `
@@ -154,13 +164,13 @@ Promise.all([
             <span style="font-size: 14px;">🧐</span>
             <span><strong>This professor was not found in existing data for this school.</strong></span>
           </div>
-          <div style="margin-top: 4px;">
-            <a href="https://www.google.com/search?q=${encodeURIComponent(fullName + ' rate my professor')}" target="_blank" style="
-              color: #0073e6;
-              text-decoration: none;
-              font-weight: bold;
-            ">🔍 Search for ${fullName} on Rate My Professor</a>
-          </div>
+          <div style="display: flex; align-items: center; gap: 6px; margin-top: 6px;">
+            <span style="font-size: 14px;">🔍</span>
+            <a href="https://www.google.com/search?q=${encodeURIComponent(fullName + ' rate my professor')}" 
+              target="_blank" 
+              style="color: #0073e6; text-decoration: none; font-weight: bold;">
+            Search for ${fullName} on Rate My Professor
+            </a>
         </div>
       `;
     }
