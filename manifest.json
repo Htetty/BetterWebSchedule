@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "SMCCD WebSchedule RMP Ratings",
+  "name": "BetterWebSchedule",
   "version": "1.0",
-  "description": "Inject RateMyProfessors data into SMCCD WebSchedule.",
+  "description": "Enhances WebSchedule to better help community college students from SMCCCD",
   "permissions": ["storage", "tabs", "scripting"],
   "host_permissions": [
     "https://phx-ban-apps.smccd.edu/*"
