@@ -2,8 +2,8 @@ console.log("Hello from content.js");
 
 const DARK_STYLE_ID = "custom-darkmode-style";
 const LIGHT_STYLE_ID = "custom-lightmode-style";
-const DARK_CSS_PATH = chrome.runtime.getURL("darkmode.css");
-const LIGHT_CSS_PATH = chrome.runtime.getURL("lightmode.css");
+const DARK_CSS_PATH = chrome.runtime.getURL("src/styles/darkmode.css");
+const LIGHT_CSS_PATH = chrome.runtime.getURL("src/styles/lightmode.css");
 
 function setDarkMode(enabled) {
   const darkStyle = document.getElementById(DARK_STYLE_ID);
@@ -39,6 +39,15 @@ chrome.runtime.onMessage.addListener((message) => {
     setDarkMode(true);
   } else if (message.action === "disable-dark") {
     setDarkMode(false);
+  } else if (message.action === "enable-color-blocks") {
+    setTimeout(colorDaysByTime, 100);
+    scheduleObserver.observe(document.body, { childList: true, subtree: true });
+  } else if (message.action === "disable-color-blocks") {
+    scheduleObserver.disconnect();
+    document.querySelectorAll("li.ui-state-default.ui-state-highlight").forEach(day => {
+      day.style.backgroundColor = "";
+      day.style.color = "";
+    });
   }
 });
 
@@ -80,14 +89,14 @@ Promise.all([
     const infoBox = profileCard.querySelector(".info");
     const card = document.createElement("div");
     card.className = "rmpCard";
-    
+
     if (prof) {
       console.log(`Match found for ${normalized}`);
 
       const deptLine = document.createElement("div");
       deptLine.textContent = prof.department;
       deptLine.className = "injectedDept";
-      deptLine.style.cssText = `font-size: 12px; color: #666; margin-top: 4px;`;
+      deptLine.style.cssText = "font-size: 12px; color: #666; margin-top: 4px;";
       nameElem.insertAdjacentElement("afterend", deptLine);
 
       const ratingEmoji = prof.avgRating >= 3.0 ? "😁" : prof.avgRating >= 2.0 ? "😅" : "😰";
@@ -103,7 +112,8 @@ Promise.all([
           display: flex;
           flex-direction: column;
           gap: 6px;
-          color: #000000;
+          border: 1px solid #ccc;
+          color: #000;
         ">
           <div style="display: flex; align-items: center; gap: 6px;">
             <span style="font-size: 14px;">${ratingEmoji}</span>
@@ -138,11 +148,18 @@ Promise.all([
           display: flex;
           flex-direction: column;
           gap: 6px;
-          color: #000000;
+          color: #000;
         ">
           <div style="display: flex; align-items: center; gap: 6px;">
             <span style="font-size: 14px;">🧐</span>
             <span><strong>This professor was not found in existing data for this school.</strong></span>
+          </div>
+          <div style="margin-top: 4px;">
+            <a href="https://www.google.com/search?q=${encodeURIComponent(fullName + ' rate my professor')}" target="_blank" style="
+              color: #0073e6;
+              text-decoration: none;
+              font-weight: bold;
+            ">🔍 Search for ${fullName} on Rate My Professor</a>
           </div>
         </div>
       `;
@@ -155,4 +172,46 @@ Promise.all([
 })
 .catch(err => {
   console.error("Failed to load RMP data:", err);
+});
+
+function parseTime(str) {
+  const [time, period] = str.split(" ");
+  let [hours, minutes] = time.split(":").map(Number);
+  if (period === "PM" && hours !== 12) hours += 12;
+  if (period === "AM" && hours === 12) hours = 0;
+  return hours + minutes / 60;
+}
+
+function colorDaysByTime() {
+  const dayBlocks = document.querySelectorAll("li.ui-state-default.ui-state-highlight");
+
+  dayBlocks.forEach(day => {
+    const container = day.closest("tr, div");
+    const text = container?.innerText || "";
+    const timeMatches = text.match(/(\d{1,2}:\d{2} [AP]M)/g);
+    if (!timeMatches || timeMatches.length < 2) return;
+
+    const endTime = parseTime(timeMatches[1]);
+
+    let color = "#f4ae61"; //morning
+    if (endTime >= 12 && endTime < 17) {
+      color = "#8ec8ea"; //afternoon
+    } else if (endTime >= 17) {
+      color = "#328ee9"; //evening
+    }
+
+    day.style.backgroundColor = color;
+    day.style.color = "#000";
+  });
+}
+
+chrome.storage.sync.get("colorBlocks", (data) => {
+  if (data.colorBlocks) {
+    setTimeout(colorDaysByTime, 1000);
+    scheduleObserver.observe(document.body, { childList: true, subtree: true });
+  }
+});
+
+const scheduleObserver = new MutationObserver(() => {
+  colorDaysByTime();
 });
