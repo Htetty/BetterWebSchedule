@@ -31,6 +31,7 @@ body {
 .popup-header-row h1 {
   font-size: 18px;
   margin: 0;
+  font-family: 'Segoe UI', sans-serif; 
 }
 
 .popup-icon {
@@ -42,6 +43,7 @@ body {
   font-size: 12px;
   margin-top: 4px;
   color: #e0e0e0;
+  font-family: 'Segoe UI', sans-serif; 
 }
 
 .popup-section {
@@ -50,20 +52,21 @@ body {
 }
 
 .popup-section h2 {
-  font-size: 15px;
   margin-bottom: 12px;
   color: #5B9279;
   font-weight: 600;
-  text-decoration: underline;
+  text-decoration: none;
+  font-family: 'Segoe UI', sans-serif; 
 }
 
 .switch-label {
+  font-family: 'Segoe UI', sans-serif; 
+  font-size: 15px;
+  font-weight: 700;
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin: 10px 0;
-  font-size: 14px;
-  font-weight: 500;
   color: #444;
 }
 
@@ -101,9 +104,173 @@ input[type="checkbox"]:checked + .slider::before {
   transform: translateX(24px);
 }
 
-.popup-footer {
+.popup-footer, .icsNote {
   font-size: 11px;
   text-align: center;
   color: #777;
-  padding: 10px 12px;
+  font-family: 'Segoe UI', sans-serif; 
+}
+
+#exportIcsButton {
+  appearance: button;
+  background-color: #47735f;
+  border: solid transparent;
+  border-radius: 12px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Segoe UI', sans-serif; 
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .8px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 100%;
+  position: relative;
+}
+
+#exportIcsButton:after {
+  background-clip: padding-box;
+  background-color: #5B9279;
+  border: solid transparent;
+  border-radius: 12px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+#exportIcsButton,
+#exportIcsButton:focus {
+  user-select: auto;
+}
+
+#exportIcsButton:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
+}
+
+#exportIcsButton:disabled {
+  cursor: auto;
+}
+
+#exportIcsButton:active {
+  border-width: 4px 0 0;
+  background: none;
+  transform: translateY(0); 
+  box-shadow: none;
+}
+
+#webschedule {
+  appearance: button;
+  background-color: #47735f;
+  border: solid transparent;
+  border-radius: 12px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Segoe UI', sans-serif; 
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .8px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 100%;
+  position: relative;
+}
+
+#webschedule:after {
+  background-clip: padding-box;
+  background-color: #5B9279;
+  border: solid transparent;
+  border-radius: 12px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+#webschedule,
+#webschedule:focus {
+  user-select: auto;
+}
+
+#webschedule:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
+}
+
+#webschedule:disabled {
+  cursor: auto;
+}
+
+#webschedule:active {
+  border-width: 4px 0 0;
+  background: none;
+  transform: translateY(0); 
+  box-shadow: none;
+}
+
+.popup-section #status {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-sizing: border-box;
+  color: #333333;
+  display: inline-block;
+  font-family: 'Segoe UI', sans-serif; 
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 0.3px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: hidden;
+  padding: 13px 16px;
+  text-align: left;
+  text-transform: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 100%;
+  border-left: 6px solid #f5b700;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 }
