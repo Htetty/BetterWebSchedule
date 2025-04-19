@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BetterWebSchedule</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="popup-wrapper">
+    <div class="popup-header">
+      <div class="popup-header-row">
+        <img src="iconpopup400.png" alt="Calendar Icon" class="popup-icon">
+        <div class="popup-title-container">
+          <h1>BetterWebSchedule</h1>
+          <p class="subtitle">Enhance Your WebSchedule Experience</p>
+        </div>
+      </div>
+      <button id="webschedule">Go To WebSchedule</button>
+    </div>
+
+    <div class="popup-section">
+      <h2>Features</h2>
+      <label class="switch-label">
+        <span>Toggle night theme</span>
+        <input type="checkbox" id="darkToggle">
+        <span class="slider"></span>
+      </label>
+      <label class="switch-label">
+        <span>Highlight course blocks by time</span>
+        <input type="checkbox" id="colorBlockToggle">
+        <span class="slider"></span>
+      </label>
+    </div>
+
+    <div class="popup-section">
+      <h2>Export Schedule</h2>
+      <button id="exportIcsButton">Export (.ics)</button>
+      <p class="icsNote"> Can be used for <span class="tooltip">Apple<span class="tooltiptext">double click on the downloaded file</span></span> Calendar and 
+        <a href="https://support.google.com/calendar/answer/37118?hl=en&co=GENIE.Platform%3DDesktop" target="_blank">Google</a> 
+        Calendar
+      </p>    
+    </div>
+    
+
+    <div class="popup-section">
+      <h2 id="status">Hope you enjoy!</h2>
+    </div>
+
+    <div class="popup-footer">
+      <p class="note">This extension is not affiliated with SMCCD</p>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

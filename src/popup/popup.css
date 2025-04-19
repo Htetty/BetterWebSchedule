@@ -1,0 +1,324 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #ffffff;
+  padding: 0;
+  margin: 0;
+  width: 320px;
+}
+
+.popup-wrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: #f9f9f9;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.popup-header {
+  background: linear-gradient(135deg, #5B9279, #6E89A1, #6F3B36);
+  color: white;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.popup-header-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.popup-title-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.popup-header-row h1 {
+  font-size: 22px;
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif; 
+}
+
+.popup-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.subtitle {
+  font-size: 12px;
+  margin: 2px 0 0;
+  color: #f3f3f3;
+  font-family: 'Segoe UI', sans-serif;
+  opacity: 0.95;
+}
+
+.popup-section {
+  background-color: #ffffff;
+  padding: 16px;
+}
+
+.popup-section h2 {
+  margin-bottom: 12px;
+  color: #5B9279;
+  font-weight: 600;
+  text-decoration: none;
+  font-family: 'Segoe UI', sans-serif; 
+}
+
+.switch-label {
+  font-family: 'Segoe UI', sans-serif; 
+  font-size: 15px;
+  font-weight: 700;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+  color: #444;
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+.slider {
+  width: 48px;
+  height: 24px;
+  background-color: #ccc;
+  border-radius: 24px;
+  position: relative;
+  transition: background-color 0.3s;
+  cursor: pointer;
+}
+
+.slider::before {
+  content: "";
+  position: absolute;
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  border-radius: 50%;
+  transition: transform 0.3s;
+}
+
+input[type="checkbox"]:checked + .slider {
+  background-color: #5B9279;
+}
+
+input[type="checkbox"]:checked + .slider::before {
+  transform: translateX(24px);
+}
+
+.popup-footer, .icsNote {
+  font-size: 11px;
+  text-align: center;
+  color: #777;
+  font-family: 'Segoe UI', sans-serif; 
+}
+
+#exportIcsButton {
+  appearance: button;
+  background-color: #47735f;
+  border: solid transparent;
+  border-radius: 12px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Segoe UI', sans-serif; 
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .8px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 100%;
+  position: relative;
+}
+
+#exportIcsButton:after {
+  background-clip: padding-box;
+  background-color: #5B9279;
+  border: solid transparent;
+  border-radius: 12px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+#exportIcsButton,
+#exportIcsButton:focus {
+  user-select: auto;
+}
+
+#exportIcsButton:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
+}
+
+#exportIcsButton:disabled {
+  cursor: auto;
+}
+
+#exportIcsButton:active {
+  border-width: 4px 0 0;
+  background: none;
+  transform: translateY(0); 
+  box-shadow: none;
+}
+
+#webschedule {
+  appearance: button;
+  background-color: #47735f;
+  border: solid transparent;
+  border-radius: 12px;
+  border-width: 0 0 3px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Segoe UI', sans-serif; 
+  font-size: 13px; 
+  font-weight: 700;
+  letter-spacing: .6px;
+  line-height: 16px;
+  margin-top: 16px;
+  outline: none;
+  overflow: visible;
+  padding: 8px 12px; 
+  text-align: left;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: auto; 
+  position: relative;
+}
+
+#webschedule:after {
+  background-clip: padding-box;
+  background-color: #5B9279;
+  border: solid transparent;
+  border-radius: 12px;
+  border-width: 0 0 3px;
+  bottom: -3px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+#webschedule,
+#webschedule:focus {
+  user-select: auto;
+}
+
+#webschedule:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
+}
+
+#webschedule:disabled {
+  cursor: auto;
+}
+
+#webschedule:active {
+  border-width: 4px 0 0;
+  background: none;
+  transform: translateY(0); 
+  box-shadow: none;
+}
+
+.popup-section #status {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-sizing: border-box;
+  color: #333333;
+  display: inline-block;
+  font-family: 'Segoe UI', sans-serif; 
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 0.3px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: hidden;
+  padding: 13px 16px;
+  text-align: left;
+  text-transform: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 100%;
+  border-left: 6px solid #f5b700;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.tooltip {
+  position: relative;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: max-content;
+  max-width: 220px;
+  background-color: #444;
+  color: #fff;
+  text-align: center;
+  padding: 8px 12px;
+  border-radius: 8px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 6px;
+  border-style: solid;
+  border-color: #444 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
