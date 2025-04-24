@@ -87,6 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
         icsButton.disabled = false;
       }, 3000);
     });
+
   }
 
   if (webScheduleBtn) {
@@ -108,3 +109,26 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 });
+
+document.getElementById('createTransferPlan').addEventListener('click', async() => {
+  const currentSchool = document.getElementById('currentSchool').value;
+  const major = document.getElementById('major').value;
+  const transferSchool = document.getElementById('transferSchool').value;
+  
+  try{
+      const response = await fetch('http://localhost:3000/transfer-plan',{
+          method: 'POST',
+          headers: {
+            'Content-Type' : 'application/json',
+          },
+          body: JSON.stringify({
+            currentSchool: currentSchool,
+            transferSchool: transferSchool,
+            major: major
+          })
+      })
+
+  } catch (error){
+    console.log(error);
+  }
+}); 

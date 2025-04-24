@@ -41,6 +41,39 @@
     </div>
 
     <div class="popup-section">
+      <h2>Chatbot</h2>
+      <h3>Ask me anything about WebSchedule</h3>
+      <input id="chatbotPrompt"></input>
+      <button id="chatbotButton">Chat with AI</button>
+      <div id="chatbotResponse"></div>
+    </div>
+
+    <div class="popup-section">
+      <h2>What school will you be transferring from?</h2>
+      <select id="currentSchool">
+        <option>Select School</option>
+        <option>Skyline</option>
+        <option>Canada</option>
+        <option>CSM</option>
+      </select>
+      <h2>What is your major?</h2>
+      <select id="major">
+        <option>Select Major</option>
+        <option>Computer Science B.S</option>
+        <option>Biology</option>
+        <option>Chemistry</option>
+      </select>
+      <h2>Where do you want to transfer to?</h2>
+      <select id="transferSchool">
+        <option>Select School</option>
+        <option>Davis</option>
+        <option>San Francisco State</option>
+        <option>UCLA</option>
+      </select>
+      <button id="createTransferPlan">Create My Transfer Plan</button>
+    </div>
+
+    <div class="popup-section"> 
       <h2 id="status">Hope you enjoy!</h2>
     </div>
 
@@ -48,6 +81,6 @@
       <p class="note">This extension is not affiliated with SMCCCD.</p>
     </div>
   </div>
-  <script src="popup.js"></script>
+  <script type="module" src="popup.js"></script>
 </body>
 </html>
