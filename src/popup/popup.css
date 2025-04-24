@@ -9,13 +9,13 @@ body {
 .popup-wrapper {
   display: flex;
   flex-direction: column;
-  background-color: #f9f9f9;
+  background-color: #f6f6f6;
   overflow: hidden;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .popup-header {
-  background: linear-gradient(135deg, #5B9279, #6E89A1, #6F3B36);
+  background: linear-gradient(150deg,rgba(51, 182, 141, 1) 0%, rgba(51, 182, 141, 1) 0%, rgba(2, 116, 231, 1) 50%, rgba(229, 46, 28, 1) 100%);
   color: white;
   padding: 16px;
   display: flex;
@@ -61,7 +61,7 @@ body {
 
 .popup-section h2 {
   margin-bottom: 12px;
-  color: #5B9279;
+  color: black;
   font-weight: 600;
   text-decoration: none;
   font-family: 'Segoe UI', sans-serif; 
@@ -105,7 +105,7 @@ input[type="checkbox"] {
 }
 
 input[type="checkbox"]:checked + .slider {
-  background-color: #5B9279;
+  background-color: #415370;
 }
 
 input[type="checkbox"]:checked + .slider::before {
@@ -119,9 +119,10 @@ input[type="checkbox"]:checked + .slider::before {
   font-family: 'Segoe UI', sans-serif; 
 }
 
+/* Export ICS Button */
 #exportIcsButton {
   appearance: button;
-  background-color: #47735f;
+  background-color: #012147;
   border: solid transparent;
   border-radius: 12px;
   border-width: 0 0 4px;
@@ -153,7 +154,7 @@ input[type="checkbox"]:checked + .slider::before {
 
 #exportIcsButton:after {
   background-clip: padding-box;
-  background-color: #5B9279;
+  background-color: #003270;
   border: solid transparent;
   border-radius: 12px;
   border-width: 0 0 4px;
@@ -189,9 +190,10 @@ input[type="checkbox"]:checked + .slider::before {
   box-shadow: none;
 }
 
+/* Webschedule Button */
 #webschedule {
   appearance: button;
-  background-color: #47735f;
+  background-color: #012147;
   border: solid transparent;
   border-radius: 12px;
   border-width: 0 0 3px;
@@ -223,7 +225,7 @@ input[type="checkbox"]:checked + .slider::before {
 
 #webschedule:after {
   background-clip: padding-box;
-  background-color: #5B9279;
+  background-color: #003270;
   border: solid transparent;
   border-radius: 12px;
   border-width: 0 0 3px;
@@ -253,6 +255,77 @@ input[type="checkbox"]:checked + .slider::before {
 }
 
 #webschedule:active {
+  border-width: 4px 0 0;
+  background: none;
+  transform: translateY(0); 
+  box-shadow: none;
+}
+
+/* AI Chat Button */
+#aichat {
+  appearance: button;
+  background-color: #012147;
+  border: solid transparent;
+  border-radius: 12px;
+  border-width: 0 0 3px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Segoe UI', sans-serif; 
+  font-size: 13px; 
+  font-weight: 700;
+  letter-spacing: .6px;
+  line-height: 16px;
+  margin-top: 16px;
+  outline: none;
+  overflow: visible;
+  padding: 8px 12px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: auto; 
+  position: relative;
+}
+
+#aichat:after {
+  background-clip: padding-box;
+  background-color: #003270;
+  border: solid transparent;
+  border-radius: 12px;
+  border-width: 0 0 3px;
+  bottom: -3px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+#aichat,
+#aichat:focus {
+  user-select: auto;
+}
+
+#aichat:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
+}
+
+#aichat:disabled {
+  cursor: auto;
+}
+
+#aichat:active {
   border-width: 4px 0 0;
   background: none;
   transform: translateY(0); 
