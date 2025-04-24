@@ -89,6 +89,22 @@ Promise.all([
     const infoBox = profileCard.querySelector(".info");
     const card = document.createElement("div");
     card.className = "rmpCard";
+Giankyles-Branch
+    card.style.opacity = "0";
+    card.style.transform = "translateY(10px)";  
+    card.style.transition = "opacity 0.4s ease, transform 0.4s ease";
+    
+    if (infoBox) {
+      infoBox.appendChild(card);
+      requestAnimationFrame(() => {
+        card.style.opacity = "1";
+        card.style.transform = "translateY(0)";
+      });
+    }
+    
+
+
+main
 
     if (prof) {
       console.log(`Match found for ${normalized}`);
@@ -106,6 +122,13 @@ Promise.all([
       const isDarkMode = document.getElementById(DARK_STYLE_ID) !== null;
       const borderColor = isDarkMode ? "#333" : "#ccc";
 
+Giankyles-Branch
+      requestAnimationFrame(() => {
+        card.style.opacity = "1";
+      });      
+      
+=======
+main
       card.innerHTML = `
       <div style="
         font-family: 'Segoe UI', sans-serif;
@@ -224,4 +247,8 @@ chrome.storage.sync.get("colorBlocks", (data) => {
 
 const scheduleObserver = new MutationObserver(() => {
   colorDaysByTime();
+Giankyles-Branch
 });
+
+});
+main

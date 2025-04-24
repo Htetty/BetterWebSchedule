@@ -7,7 +7,7 @@ html, body {
 #title-panel h1,
 #breadcrumb-panel,
 .banner-footer {
-  background-color: #1e1e1e !important;
+  background-color: #121212 !important;
   color: #ffffff !important;
 }
 
@@ -20,12 +20,12 @@ html, body {
 .custom-css-class,
 #class-search-center-content,
 .search-inner {
-  background-color: #121212 !important;
+  background-color: #1e1e1e !important;
   color: #e0e0e0 !important;
 }
 
 #breadcrumb-panel {
-  border-bottom: 1px solid #333 !important;
+  border-bottom: 1px solid #1e1e1e !important;
 }
 
 
@@ -50,7 +50,7 @@ col,
 }
 
 * {
-  scrollbar-color: #555 #121212;
+  scrollbar-color: #555 #101218;
   border-color: #2a2a2a !important;
   outline-color: #2a2a2a !important;
   box-shadow: none !important;
@@ -122,7 +122,7 @@ span.accordion-title {
 }
 
 .ui-widget-content {
-    background: #121212 !important;
+    background: #1e1e1e !important;
     color: white;
   
 }
@@ -235,9 +235,9 @@ table.grid > thead > tr > th {
 }
 
 .form-button {
-  background: #1e1e1e !important;
+  background: linear-gradient(0deg, rgba(88, 88, 88, 1) 0%, rgba(152, 152, 152, 1) 100%) !important;
   color: white !important;
-  border: none !important;
+  border: 1px solid black !important;
 }
 
 .vertical-form select {
@@ -254,7 +254,8 @@ table.grid > thead > tr > th {
 }
 
 .meetingTimes {
-  background-color: #1e1e1e !important;
+  background-color: red !important;
+  border-radius: 5px 5px 5px 5px;
   color: white !important;
 }
 
@@ -263,5 +264,27 @@ table.grid > thead > tr > th {
 }
 
 .list-view-crn-schedule, .list-view-subj-course-section {
-  color: white !important;
+  color: gold !important;
+}
+
+.profileCard,
+.profileCard *:not([style]),
+body,
+html {
+  transition: background-color 1s ease, color 1s ease, border-color 1s ease, box-shadow 1s ease;
+}
+
+@keyframes fadeSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.rmpCard {
+  animation: fadeSlideIn 0.3s ease forwards;
 }
