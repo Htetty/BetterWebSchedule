@@ -10,3 +10,24 @@
     color: #000000 !important;
   }
   
+.profileCard,
+.profileCard *:not([style]),
+body,
+html {
+  transition: background-color 1s ease, color 1s ease, border-color 1s ease, box-shadow 1s ease;
+}
+
+@keyframes fadeSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.rmpCard {
+  animation: fadeSlideIn 0.3s ease forwards;
+}

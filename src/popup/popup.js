@@ -120,6 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
           }, 1000);
         });
       });
+
       setTimeout(() => {
         icsButton.disabled = false;
       }, 3000);
@@ -127,6 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // === OPEN WEB SCHEDULE ===
+
   if (webScheduleBtn) {
     webScheduleBtn.addEventListener("click", () => {
       window.open("https://phx-ban-apps.smccd.edu/StudentRegistrationSsb/ssb/registration", "_blank");
@@ -579,4 +581,3 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 });
-

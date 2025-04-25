@@ -90,6 +90,21 @@ Promise.all([
     const card = document.createElement("div");
     card.className = "rmpCard";
 
+    card.style.opacity = "0";
+    card.style.transform = "translateY(10px)";  
+    card.style.transition = "opacity 0.4s ease, transform 0.4s ease";
+    
+    if (infoBox) {
+      infoBox.appendChild(card);
+      requestAnimationFrame(() => {
+        card.style.opacity = "1";
+        card.style.transform = "translateY(0)";
+      });
+    }
+    
+
+
+  main
     if (prof) {
       console.log(`Match found for ${normalized}`);
 
@@ -106,6 +121,11 @@ Promise.all([
       const isDarkMode = document.getElementById(DARK_STYLE_ID) !== null;
       const borderColor = isDarkMode ? "#333" : "#ccc";
 
+      requestAnimationFrame(() => {
+        card.style.opacity = "1";
+      });      
+      
+    main
       card.innerHTML = `
       <div style="
         font-family: 'Segoe UI', sans-serif;
@@ -144,7 +164,6 @@ Promise.all([
         </div>
       </div>
     `;
-
 
     } else {
       console.log(`Match not found for ${normalized}`);
@@ -228,21 +247,3 @@ const scheduleObserver = new MutationObserver(() => {
   colorDaysByTime();
 });
 
-const openPanelButton = document.createElement('button');
-openPanelButton.textContent = 'Open Side Panel';
-openPanelButton.style.position = 'fixed';
-openPanelButton.style.bottom = '20px';
-openPanelButton.style.right = '20px';
-openPanelButton.style.zIndex = 9999;
-openPanelButton.style.padding = '10px';
-openPanelButton.style.background = '#0066cc';
-openPanelButton.style.color = 'white';
-openPanelButton.style.border = 'none';
-openPanelButton.style.borderRadius = '5px';
-openPanelButton.style.cursor = 'pointer';
-
-openPanelButton.addEventListener('click', () => {
-  chrome.runtime.sendMessage({ type: 'open_side_panel' });
-});
-
-document.body.appendChild(openPanelButton);
