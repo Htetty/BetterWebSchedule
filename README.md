@@ -103,6 +103,39 @@ _Powered by Google Cloud, Gemini AI, and Chrome Extensions_
 
 ---
 
+## 🚀 Getting Started
+
+### 1. Cloning and Loading the Repository
+
+- Open a terminal and run:
+  git clone https://github.com/Htetty/BetterWebSchedule.git
+  cd BetterWebSchedule
+
+- Open Google Chrome and go to:
+  chrome://extensions/
+
+- Enable Developer Mode (toggle in the top-right corner)
+
+- Click "Load unpacked"
+
+- Select the BetterWebSchedule/ folder you just cloned
+
+---
+
+### 2. How to Use
+
+- Visit WebSchedule: https://phx-ban-apps.smccd.edu/StudentRegistrationSsb/ssb/registration
+
+- Browse classes and click on a professor’s name to view their RateMyProfessors ratings
+
+- Click the BetterWebSchedule extension icon to open the side panel
+
+- In the side panel, use the buttons to:
+  - View a campus map with class locations
+  - Export your class schedule as a .ics calendar file
+  - Toggle Dark Mode for nighttime readability
+
+
 ## 🤝 Credits & Motivation
 
 **By students, for students. Built with ❤️ to make college life a little easier.**
