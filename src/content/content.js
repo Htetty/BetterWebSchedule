@@ -102,9 +102,6 @@ Promise.all([
       });
     }
     
-
-
-  main
     if (prof) {
       console.log(`Match found for ${normalized}`);
 
@@ -125,7 +122,6 @@ Promise.all([
         card.style.opacity = "1";
       });      
       
-    main
       card.innerHTML = `
       <div style="
         font-family: 'Segoe UI', sans-serif;
