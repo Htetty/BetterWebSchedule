@@ -1,0 +1,265 @@
+{
+  "major_title": "Communication/B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Los Angeles",
+  "options": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "COMM  1",
+              "title": "Principles of Oral Communication",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "COMM 110",
+                "title": "Public Speaking",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "COMM  10",
+              "title": "Introduction to Communication",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ANTHRO 4",
+              "title": "Culture and Communication",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "LING 1",
+              "title": "Introduction to Study of Language",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHILOS 23",
+              "title": "Meaning and Communication",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECON 41",
+              "title": "Probability and Statistics for Economists",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STATS 10",
+              "title": "Introduction to Statistical Reasoning",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BUS. 123",
+                "title": "Business Statistics",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Introductory Statistics Courses",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "PSYC 121",
+                "title": "Basic Statistical Concepts",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "Complete at least 3 courses fromA,B,C,orD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 40",
+              "title": "Introduction to American Politics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 200",
+                "title": "National, State and Local Governments",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "PLSC 210",
+                "title": "American Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "4",
+        "instructions": "Complete at least 3 courses fromA,B,C,orD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SOCIOL 1",
+              "title": "Introductory Sociology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "4",
+        "instructions": "Complete at least 3 courses fromA,B,C,orD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PSYCH 10",
+              "title": "Introductory Psychology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PSYC 100",
+                "title": "General Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "4",
+        "instructions": "Complete at least 3 courses fromA,B,C,orD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECON 1",
+              "title": "Principles of Economics(Microeconomics)",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Microeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 5",
+              "title": "Economics for Everyone",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 30",
+              "title": "Politics and Strategy",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

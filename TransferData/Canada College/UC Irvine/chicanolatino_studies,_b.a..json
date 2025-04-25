@@ -1,0 +1,301 @@
+{
+  "major_title": "Chicano/Latino Studies, B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Irvine",
+  "options": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHC/LAT 61",
+              "title": "Introduction to Chicano/Latino Studies I",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHC/LAT 62",
+              "title": "Introduction to Chicano/Latino Studies II",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHC/LAT 63",
+              "title": "Introduction to Chicano/Latino Studies III",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Chicano/Latino Studies",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 246",
+                "title": "History of Latinos in the US",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 371",
+                "title": "Mexican-American Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 372",
+                "title": "Myth and Folklore of La Raza",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "African-American or Asian American Studies",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "LIT. 266",
+                "title": "Black Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Introductory courses in Social Sciences for Chicano/Latino Studies",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 110",
+                "title": "Cultural Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ANTH 125",
+                "title": "Biological Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Micro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LING 200",
+                "title": "Introduction to Linguistics: A Survey of Language",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "GEOG 100",
+                "title": "Physical Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "GEOG 110",
+                "title": "Cultural Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 100",
+                "title": "General Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "E",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 2A",
+              "title": "Intermediate Spanish",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 121",
+                "title": "Advanced Elementary Spanish I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "MATHEMATICS REQUIREMENT": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "School of Social Sciences Math Requirement",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Analytical Geometry and Calculus I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SOC SCI 10A",
+              "title": "Probability and Statistics in the Social Sciences I",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "I&C SCI 31",
+              "title": "Introduction to Programming",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 122",
+                "title": "Introduction to Programming: Python",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "3",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SOC SCI 3A",
+              "title": "Computer-Based Research in the Social Sciences",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

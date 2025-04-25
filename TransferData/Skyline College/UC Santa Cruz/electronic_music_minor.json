@@ -1,0 +1,99 @@
+{
+  "major_title": "Electronic Music Minor",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "PREPARATION FOR THE MINOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MUSC 80C",
+              "title": "History, Literature and Technology of Electronic Music",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MUSC 11A",
+              "title": "Introduction to Western Classical Music",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 11B",
+              "title": "Introduction to Jazz",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 11C",
+              "title": "Popular Music in the United States",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 11D",
+              "title": "Introduction to World Music",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MUSC 14",
+              "title": "Beginning Western Theory and Musicianship",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 30A",
+              "title": "Theory, Literature, and Musicianship I",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

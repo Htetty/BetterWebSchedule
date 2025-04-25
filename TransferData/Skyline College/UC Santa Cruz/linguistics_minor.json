@@ -1,0 +1,36 @@
+{
+  "major_title": "Linguistics Minor",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "PREPARATION FOR THE MINOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "LING 50",
+              "title": "Introduction to Linguistics",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "LING 53",
+              "title": "Semantics I",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

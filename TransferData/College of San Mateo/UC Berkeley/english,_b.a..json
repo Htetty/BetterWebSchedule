@@ -1,0 +1,103 @@
+{
+  "major_title": "English, B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ENGLISH 17",
+              "title": "Shakespeare",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "LIT. 151",
+                "title": "Shakespeare",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGLISH 45A",
+              "title": "Literature in English (Through Milton)",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "LIT. 231",
+                "title": "Survey of English Literature I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGLISH 45B",
+              "title": "Literature in English (Late 17th through the mid-19th Century)",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "LIT. 201",
+                "title": "American Literature I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "LIT. 232",
+                "title": "Survey of English Literature II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGLISH 45C",
+              "title": "Literature in English (Mid-19th through the 20th Century)",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "LIT. 202",
+                "title": "American Literature II",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "LIT. 232",
+                "title": "Survey of English Literature II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGLISH 90",
+              "title": "Practices of Literary Study",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

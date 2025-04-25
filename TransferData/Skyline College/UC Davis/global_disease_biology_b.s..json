@@ -1,0 +1,381 @@
+{
+  "major_title": "Global Disease Biology B.S.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Davis",
+  "options": {
+    "BIOLOGICAL SCIENCE": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "BIS 002A",
+              "title": "Introduction to Biology: Essentials of Life on Earth",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 215",
+                "title": "Organismal Biology: Core I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "BIOL 230",
+                "title": "Introduction to Cell Biology: Core II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "CHEMISTRY": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHE 002A",
+              "title": "General Chemistry",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 220",
+                "title": "General Chemistry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHE 008A",
+              "title": "Organic Chemistry: Brief Course",
+              "units": "2.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 234",
+                "title": "Organic Chemistry I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHE 008B",
+              "title": "Organic Chemistry: Brief Course",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 235",
+                "title": "Organic Chemistry II",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 237",
+                "title": "Organic Chemistry Lab I",
+                "units": "2.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 238",
+                "title": "Organic Chemistry Lab II",
+                "units": "2.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "3",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHE 118A",
+              "title": "Organic Chemistry for Health & Life Sciences",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 234",
+                "title": "Organic Chemistry I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 237",
+                "title": "Organic Chemistry Lab I",
+                "units": "2.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHE 118B",
+              "title": "Organic Chemistry for Health & Life Sciences",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 234",
+                "title": "Organic Chemistry I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 237",
+                "title": "Organic Chemistry Lab I",
+                "units": "2.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 235",
+                "title": "Organic Chemistry II",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 238",
+                "title": "Organic Chemistry Lab II",
+                "units": "2.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "GLOBAL DISEASE BIOLOGY": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "GDB 090",
+              "title": "Introduction to Global Disease Biology",
+              "units": "1.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "MATHEMATICS": [
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT 017A",
+              "title": "Calculus for Biology & Medicine",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 017B",
+              "title": "Calculus for Biology & Medicine",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 017C",
+              "title": "Calculus for Biology & Medicine",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "PHYSICS": [
+      {
+        "label": "A",
+        "block_number": "6",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHY 007A",
+              "title": "General Physics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 210",
+                "title": "General Physics I",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 211",
+                "title": "General Physics I-Calculus Supplement",
+                "units": "1.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 220",
+                "title": "General Physics II",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 221",
+                "title": "General Physics II - Calculus Supplement",
+                "units": "1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHY 007B",
+              "title": "General Physics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 210",
+                "title": "General Physics I",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 211",
+                "title": "General Physics I-Calculus Supplement",
+                "units": "1.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 220",
+                "title": "General Physics II",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 221",
+                "title": "General Physics II - Calculus Supplement",
+                "units": "1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "SCIENCE & SOCIETY": [
+      {
+        "label": "A",
+        "block_number": "7",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SAS 013",
+              "title": "Disease & Society",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "STATISTICS": [
+      {
+        "label": "A",
+        "block_number": "8",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "STA 013",
+              "title": "Elementary Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability & Statistics",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "PSYC 171",
+                "title": "Quantitative Reasoning in Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

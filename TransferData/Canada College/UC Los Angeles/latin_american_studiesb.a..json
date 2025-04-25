@@ -1,0 +1,389 @@
+{
+  "major_title": "Latin American Studies/B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Los Angeles",
+  "options": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "I A STD 1",
+              "title": "Introduction to International and Area Studies",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "COM LIT 1D",
+              "title": "Great Books from World at Large",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ANTHRO 3",
+              "title": "CULTURE AND SOCIETY",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 110",
+                "title": "Cultural Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ETHNMUS 5",
+              "title": "Music Around World",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ETHNMUS M25",
+              "title": "Global Pop",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 3",
+              "title": "Cultural Geography",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "GEOG 110",
+                "title": "Cultural Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 2B",
+              "title": "Social Knowledge and Social Power",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 22",
+              "title": "Contemporary World History, 1760 to Present",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 106",
+                "title": "World History II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "WL ARTS 20",
+              "title": "Culture: Introduction",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "WL ARTS 33",
+              "title": "Colonialism and Resistance",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 50",
+              "title": "Introduction to Comparative Politics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 170",
+                "title": "Introduction to Comparative Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 1",
+              "title": "Principles of Economics(Microeconomics)",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Micro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 2",
+              "title": "Principles of Economics(Macroeconomics)",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 4",
+              "title": "Globalization: Regional Development and World Economy",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 6",
+              "title": "World Regions: Concepts and Contemporary Issues",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "GEOG 150",
+                "title": "World Regional Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCIOL 1",
+              "title": "Introductory Sociology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HIST 8A",
+              "title": "Colonial Latin America",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 8B",
+              "title": "Modern Latin America",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 8C",
+              "title": "Latin American Social History",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 97E",
+              "title": "Introduction to Historical Practice: Variable Topics in Latin American History",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "I A STD 50",
+              "title": "Introduction to Latin America",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PORTGSE 40B",
+              "title": "Portuguese, Brazilian, and African Literature in Translation: Brazilian Literature",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PORTGSE 46",
+              "title": "Brazil and Portuguese-Speaking World",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPAN 44",
+              "title": "Latin American Cultures",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "Complete  1 course fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Elementary and Intermediate Levels (Six Terms) Of One Foreign Language",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPAN 5",
+              "title": "Intermediate Spanish",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPAN 7A",
+              "title": "Introductory Spanish for Heritage Speakers",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "5",
+        "instructions": "Complete  1 course fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Elementary and Intermediate Levels (Six Terms) Of One Foreign Language",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PORTGSE 3",
+              "title": "Intermediate Portuguese",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PORTGSE 11B",
+              "title": "Intensive Portuguese",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

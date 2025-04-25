@@ -1,0 +1,467 @@
+{
+  "major_title": "Physics, B.A. & B.S.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Santa Barbara",
+  "options": {
+    "MAJOR PREPARATION COURSES REQUIRED FOR TRANSFER": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYS 21",
+              "title": "General Physics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 250",
+                "title": "Physics with Calculus I",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 260",
+                "title": "Physics with Calculus II",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 270",
+                "title": "Physics with Calculus III",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,D,andE",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 3A",
+              "title": "Calculus with Applications, First Course",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Analytical Geometry and Calculus I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,D,andE",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 3B",
+              "title": "Calculus with Applications, Second Course",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Analytical Geometry and Calculus II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,D,andE",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 4A",
+              "title": "Linear Algebra with Applications",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,D,andE",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 4B",
+              "title": "Differential Equations",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 275",
+                "title": "Ordinary Differential Equations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "E",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,D,andE",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 6A",
+              "title": "Vector Calculus with Applications, First Course",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Analytical Geometry and Calculus III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 6B",
+              "title": "Vector Calculus with Applications, Second Course",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Analytical Geometry and Calculus III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYS 29",
+              "title": "Introduction to Computer Programming for the Physical Sciences",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ASTRO 1",
+              "title": "Basic Astronomy",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ASTR 100",
+                "title": "Introduction to Astronomy",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "5",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ASTRO 2",
+              "title": "History of the Universe",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "5",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 1A",
+              "title": "General Chemistry",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "5",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 1B",
+              "title": "General Chemistry",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 220",
+                "title": "General Chemistry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "E",
+        "block_number": "5",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "EARTH 2",
+              "title": "Principles of Physical Geology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "GEOL 100",
+                "title": "Introduction to Geology",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "GEOL 101",
+                "title": "Geology Laboratory",
+                "units": "1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "F",
+        "block_number": "5",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "EARTH 9",
+              "title": "Giant Earthquakes",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "G",
+        "block_number": "5",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "EARTH 11",
+              "title": "Volcanoes and Humans",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "H",
+        "block_number": "5",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "EARTH 20",
+              "title": "Geological Catastrophes",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "I",
+        "block_number": "5",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "EEMB 22",
+              "title": "Concepts and Controversies in the Biological Sciences",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "J",
+        "block_number": "5",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MCDB 20",
+              "title": "Concepts of Biology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 100",
+                "title": "Introduction to the Life Sciences",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "BIOL 110",
+                "title": "Principles of Biology",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "K",
+        "block_number": "5",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PSTAT 10",
+              "title": "Principles of Data Science with R",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

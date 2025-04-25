@@ -1,0 +1,90 @@
+{
+  "major_title": "Russian Language and Literature/B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Los Angeles",
+  "options": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete  1 course fromA",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "RUSSN 6",
+              "title": "Intermediate Russian",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RUSSN 20",
+              "title": "Intensive Intermediate Russian",
+              "units": "12.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  1 course fromA",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "RUSSN 25",
+              "title": "Great Russian Novel",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RUSSN 25W",
+              "title": "Great Russian Novel",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RUSSN 90A",
+              "title": "Introduction to Russian Civilization",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RUSSN 90B",
+              "title": "Russian Civilization in 20th Century",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RUSSN 90BW",
+              "title": "Russian Civilization in 20th Century",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

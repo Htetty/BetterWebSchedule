@@ -1,0 +1,270 @@
+{
+  "major_title": "Design A.B.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Davis",
+  "options": {
+    "DESIGN": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "DES 001",
+              "title": "Introduction to Design",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 015",
+              "title": "Form & Color",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 016",
+              "title": "Graphic Design & Computer Technology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MART 314",
+                "title": "Introduction to Computer Graphics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "DES 014",
+              "title": "Design Drawing",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 021",
+              "title": "Drafting & Perspective",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "DES 040A",
+              "title": "Energy, Materials, & Design Over Time",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 040B",
+              "title": "Ideologies of Design",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 040C",
+              "title": "Design for Aesthetics & Experience",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 040D",
+              "title": "Designed Geographies: Environment, Containment, Sanctuary",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ART 012",
+              "title": "Beginning Video",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 021",
+              "title": "Drafting & Perspective",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 040A",
+              "title": "Energy, Materials, & Design Over Time",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 040B",
+              "title": "Ideologies of Design",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 040C",
+              "title": "Design for Aesthetics & Experience",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 040D",
+              "title": "Designed Geographies: Environment, Containment, Sanctuary",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 050",
+              "title": "Introduction to Three-Dimensional Design",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 051",
+              "title": "Computer-Assisted Drawing for Designers",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 070",
+              "title": "Introduction to Textile Design Structures",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DES 077",
+              "title": "Introduction to Structural Design for Fashion",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "WRITING REQUIREMENT": [
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "UWP 011",
+              "title": "Popular Science & Technology Writing",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "UWP 012",
+              "title": "Writing & Visual Rhetoric",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "UWP 048",
+              "title": "Style in the Essay",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "UWP 049",
+              "title": "Writing Research Papers",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

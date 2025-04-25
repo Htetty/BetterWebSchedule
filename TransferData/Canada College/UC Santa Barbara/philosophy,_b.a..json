@@ -1,0 +1,255 @@
+{
+  "major_title": "Philosophy, B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Santa Barbara",
+  "options": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete up to 3 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHIL 1",
+              "title": "Short Introduction to Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 100",
+                "title": "Introduction to Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 3",
+              "title": "Critical Thinking",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 200",
+                "title": "Introduction to Logic",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 4",
+              "title": "Introduction to Ethics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 240",
+                "title": "Introduction to Ethics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 7",
+              "title": "Biomedical Ethics",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 12",
+              "title": "Introduction to the Philosophy of Religion",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 312",
+                "title": "Introduction to Philosophy of Religion",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 20A",
+              "title": "History of Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 160",
+                "title": "History of Philosophy: Ancient and Medieval",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 20B",
+              "title": "History of Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 160",
+                "title": "History of Philosophy: Ancient and Medieval",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHIL 175",
+                "title": "Modern Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 20C",
+              "title": "History of Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 175",
+                "title": "Modern Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "CORE PHILOSOPHY CONCENTRATION": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHIL 20A",
+              "title": "History of Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 160",
+                "title": "History of Philosophy: Ancient and Medieval",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 20B",
+              "title": "History of Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 160",
+                "title": "History of Philosophy: Ancient and Medieval",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHIL 175",
+                "title": "Modern Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 20C",
+              "title": "History of Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 175",
+                "title": "Modern Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "ETHICS AND PUBLIC POLICY CONCENTRATION": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "CompleteAorB",
+        "attribute": "Recommended; Not required for the major",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHIL 4",
+              "title": "Introduction to Ethics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 240",
+                "title": "Introduction to Ethics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "3",
+        "instructions": "CompleteAorB",
+        "attribute": "Recommended; Not required for the major",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHIL 7",
+              "title": "Biomedical Ethics",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

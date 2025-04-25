@@ -1,0 +1,45 @@
+{
+  "major_title": "Portuguese, B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Santa Barbara",
+  "options": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PORT 1",
+              "title": "Elementary Portuguese",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PORT 4",
+              "title": "Intermediate Portuguese",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

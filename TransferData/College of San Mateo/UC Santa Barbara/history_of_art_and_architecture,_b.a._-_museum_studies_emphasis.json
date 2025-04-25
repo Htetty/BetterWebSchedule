@@ -1,0 +1,210 @@
+{
+  "major_title": "History of Art and Architecture, B.A. - Museum Studies Emphasis",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Santa Barbara",
+  "options": {
+    "AREA A": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 5B",
+              "title": "Introduction to Museum Studies",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "AREA B": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  4 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 5A",
+              "title": "Introduction to Architecture and Environment",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6A",
+              "title": "Art Survey I: Ancient-Medieval Art",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 101",
+                "title": "Art and Architecture from the Ancient World to Medieval Times, (c. 1400)",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6B",
+              "title": "Art Survey II: Renaissance-Baroque Art",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 102",
+                "title": "Art of Renaissance and Baroque (c.1300-1700)",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6C",
+              "title": "Art Survey III: Modern-Contemporary Art",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 103",
+                "title": "Art of Europe and America:  Neoclassical (c. 1750 to the Present)",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6DL",
+              "title": "Survey: Landscape in China",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6DS",
+              "title": "Survey: History of Art in China",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6DW",
+              "title": "Survey: Art of Japan and Korea",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6E",
+              "title": "Survey: Arts of Africa, Oceania, and Native North America",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6F",
+              "title": "Survey: Architecture and Planning",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6G",
+              "title": "Survey: History of Photography",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 347",
+                "title": "The History of Photography (1900 - present)",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6H",
+              "title": "Survey: Arts of the Ancient Americas",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6J",
+              "title": "Survey: Contemporary Architecture",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6K",
+              "title": "Survey: Islamic Art and Architecture",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6L",
+              "title": "Playful Spaces: A Cultural History of Games",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6M",
+              "title": "Survey: Eccentric Images",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI W 6R",
+              "title": "Rome: The Game",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

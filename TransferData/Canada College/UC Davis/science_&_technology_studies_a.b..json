@@ -1,0 +1,135 @@
+{
+  "major_title": "Science & Technology Studies A.B.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Davis",
+  "options": {
+    "PREPARATION COURSES FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "STS 001",
+              "title": "Introduction to Science, Technology & Medicine Studies",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  3 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHI 030",
+              "title": "Introduction to Philosophy of Science",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHI 031",
+              "title": "Appraising Scientific Reasoning",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHI 032",
+              "title": "Understanding Scientific Change",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STS 002",
+              "title": "Introduction to the History of Science & Technology",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STS 011",
+              "title": "Science on Trial: Law, Science, & Technology in the United States",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STS 016",
+              "title": "Sex, Science, & Society",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STS 032",
+              "title": "Drugs, Science & Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STS 040A",
+              "title": "Media History 1, Guttenberg to Oppenheimer",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STS 040B",
+              "title": "Media History 2 1945-Present",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STS 050",
+              "title": "Ancient Science",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STS 051",
+              "title": "Ancient Medicine",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

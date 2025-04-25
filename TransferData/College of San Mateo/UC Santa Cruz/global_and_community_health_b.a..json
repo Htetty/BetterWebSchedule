@@ -1,0 +1,445 @@
+{
+  "major_title": "Global and Community Health B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "GCH 1",
+              "title": "Foundations for Global and Community Health",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ANTH 1",
+              "title": "Introduction to Biological Anthropology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 125",
+                "title": "Biological Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "BIOL 20A",
+              "title": "Cell and Molecular Biology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 230",
+                "title": "Introductory Cell Biology",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "BME 5",
+              "title": "Introduction to Biotechnology",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "BME 18",
+              "title": "Scientific Principles of Life",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "BME 80H",
+              "title": "The Human Genome",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHEM 3A",
+              "title": "General Chemistry",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHEM 4A",
+              "title": "Advanced General Chemistry: Molecular Structure and Reactivity",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 220",
+                "title": "General Chemistry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHEM 8A",
+              "title": "Organic Chemistry",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 231",
+                "title": "Organic Chemistry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 80A",
+              "title": "Universal Access: Disability, Technology, and Society",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENVS 24",
+              "title": "General Ecology",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENVS 25",
+              "title": "Environmental Politics, Economics and Justice",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENVS 80F",
+              "title": "Introduction to Agroecology and Sustainable Food Systems",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ANTH 2",
+              "title": "Introduction to Cultural Anthropology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 110",
+                "title": "Cultural Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "BME 80G",
+              "title": "Bioethics in the 21st Century: Science, Business, and Society",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CMMU 10",
+              "title": "Introduction to Community Activism",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 1",
+              "title": "Introductory Microeconomics: Resource Allocation and Market Structure",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Microeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FMST 10",
+              "title": "Feminisms of/and the Global South",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FMST 30",
+              "title": "Feminism and Science",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FMST 31",
+              "title": "Disability Studies",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FMST 41",
+              "title": "Trans Gender Bodies",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIS 60",
+              "title": "Medical and Scientific Terminology",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POLI 17",
+              "title": "U.S. and the World Economy",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POLI 61",
+              "title": "Politics of Social Policy",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PSYC 1",
+              "title": "Introduction to Psychology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PSYC 100",
+                "title": "General Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCY 1",
+              "title": "Introduction to Sociology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCY 10",
+              "title": "Issues and Problems in American Society",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 105",
+                "title": "Social Problems",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCY 15",
+              "title": "World Society",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "STAT 5",
+              "title": "Statistics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BUS. 123",
+                "title": "Business Statistics",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "4",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "STAT 7",
+              "title": "Statistical Methods for the Biological, Environmental, and Health Sciences",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BUS. 123",
+                "title": "Business Statistics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "4",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "STAT 17",
+              "title": "Statistical Methods for Business and Economics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BUS. 123",
+                "title": "Business Statistics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "major_title": "Linguistics and Psychology/B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Los Angeles",
+  "options": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "LING 20",
+              "title": "Introduction to Linguistics Analysis",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PSYCH 10",
+              "title": "Introductory Psychology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PSYC 100",
+                "title": "General Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PSYCH 85",
+              "title": "Introduction to Cognitive Science",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PSYCH 100A",
+              "title": "Psychological Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PSYCH 100B",
+              "title": "Research Methods in Psychology",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "COMPTNG 10A",
+              "title": "Introduction to Programming",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Elementary and Intermediate Levels (Six Terms) Of One Foreign Language",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Equivalent of level three of two foreign languages",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

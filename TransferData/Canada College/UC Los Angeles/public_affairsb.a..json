@@ -1,0 +1,134 @@
+{
+  "major_title": "Public Affairs/B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Los Angeles",
+  "options": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete at least 3 courses fromA",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PUB AFF 40",
+              "title": "Microeconomics for Public Affairs",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Micro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PUB AFF 60",
+              "title": "Using Data to Learn about Society: Introduction to Empirical Research and Statistics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PUB AFF 80",
+              "title": "How Social Environments Shape Human Development",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete at least 3 courses fromA",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PUB AFF 10",
+              "title": "Social Problems and Social Change",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PUB AFF 20",
+              "title": "Power, Politics, and Policy Change",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 210",
+                "title": "American Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PUB AFF 30",
+              "title": "Comparative Analysis of Wealth, Policy, and Power",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 170",
+                "title": "Introduction to Comparative Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PUB AFF 50",
+              "title": "Foundations and Debates in Public Thought",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 150",
+                "title": "Introduction to Political Theory",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PUB AFF 70",
+              "title": "Information, Evidence, and Persuasion",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

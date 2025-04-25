@@ -1,0 +1,107 @@
+{
+  "major_title": "Literature B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete  2 courses fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "LIT 1",
+              "title": "Literary Interpretation",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGL 110",
+                "title": "Composition, Literature, and Critical Thinking",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "Complete  2 courses fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Literature courses",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "LIT. 101",
+                "title": "Twentieth-Century Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 105",
+                "title": "The Bible as Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 113",
+                "title": "The Novel",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 151",
+                "title": "Shakespeare",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 201",
+                "title": "American Literature I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 202",
+                "title": "American Literature II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 231",
+                "title": "Survey of English Literature I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 232",
+                "title": "Survey of English Literature II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 430",
+                "title": "Greek Mythology and Classical Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

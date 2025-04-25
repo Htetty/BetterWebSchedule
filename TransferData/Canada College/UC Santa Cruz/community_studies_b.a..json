@@ -1,0 +1,27 @@
+{
+  "major_title": "Community Studies B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CMMU 10",
+              "title": "Introduction to Community Activism",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

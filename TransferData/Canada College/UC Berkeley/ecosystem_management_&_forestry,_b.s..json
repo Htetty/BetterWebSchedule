@@ -1,0 +1,458 @@
+{
+  "major_title": "Ecosystem Management & Forestry, B.S.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "major requirements": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ENGLISH R1A",
+              "title": "Reading and Composition",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGL 100",
+                "title": "Reading and Composition",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ENGL 105",
+                "title": "Reading and Composition with Support",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGLISH R1B",
+              "title": "Reading and Composition",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGL 110",
+                "title": "Composition, Literature and Critical Thinking",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ENGL 165",
+                "title": "Advanced Composition",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 1A",
+              "title": "General Chemistry",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "BIOLOGY 1A",
+              "title": "General Biology Lecture (Cells, Genetics, Animal Form & Function)",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 225",
+                "title": "Biology of Organisms",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "BIOL 230",
+                "title": "Cell and Molecular Biology",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 16A",
+              "title": "Analytic Geometry and Calculus",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 241",
+                "title": "Business Calculus I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 16B",
+              "title": "Analytic Geometry and Calculus",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 243",
+                "title": "Business Calculus II with Trigonometry",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 1A",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Analytical Geometry and Calculus I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 1B",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Analytical Geometry and Calculus II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "HIGHLY RECOMMENDED": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,D,E,andF",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ESPM 2",
+              "title": "The Biosphere",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM 6",
+              "title": "Environmental Biology",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM C10",
+              "title": "Environmental Issues",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM 15",
+              "title": "Introduction to Environmental Sciences",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENVS 115",
+                "title": "Environmental Science",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM C46",
+              "title": "Climate Change and the Future of California",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,D,E,andF",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ESPM C11",
+              "title": "Americans and the Global Forest",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM C22AC",
+              "title": "Fire: Past, Present and Future Interactions with the People and Ecosystems of California",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM 50AC",
+              "title": "Introduction to Culture and Natural Resource Management",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM 52",
+              "title": "History of Native American Land, Colonialism, and Heritage Preservation",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM 60",
+              "title": "Environmental Policy, Administration, and Law",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,D,E,andF",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "EPS 50",
+              "title": "The Planet Earth (includes lab)",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "GEOL 100",
+                "title": "Introduction to Geology",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "GEOL 101",
+                "title": "Geology Laboratory",
+                "units": "1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 1",
+              "title": "Global Environmental Change",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 40",
+              "title": "Introduction to Earth System Science",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "GEOG 100",
+                "title": "Physical Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,D,E,andF",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECON 1",
+              "title": "Introduction to Economics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macro Economics",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Micro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 2",
+              "title": "Introduction to Economics, Lecture Format",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON C3",
+              "title": "Introduction to Environmental Economics and Policy",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "E",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,D,E,andF",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "STAT 20",
+              "title": "Introduction to Probability and Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STAT 21",
+              "title": "Introductory Probability and Statistics for Business",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "F",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,D,E,andF",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ESPM 72",
+              "title": "Introduction to Geographic Information Systems",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

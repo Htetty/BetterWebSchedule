@@ -1,0 +1,54 @@
+{
+  "major_title": "French, B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "important major information": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "FRENCH 1",
+              "title": "Elementary French",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FRENCH 2",
+              "title": "Elementary French",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FRENCH 3",
+              "title": "Intermediate French",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FRENCH 4",
+              "title": "Advanced Intermediate French",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

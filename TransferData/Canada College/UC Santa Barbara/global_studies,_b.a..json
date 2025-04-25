@@ -1,0 +1,602 @@
+{
+  "major_title": "Global Studies, B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Santa Barbara",
+  "options": {
+    "PRE-MAJOR REQUIREMENTS - AREA I": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "GLOBL 1",
+              "title": "Global History, Culture and Ideology",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "GLOBL 2",
+              "title": "Global Socioeconomic and Political Processes",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "PRE-MAJOR REQUIREMENTS - AREA II": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  3 courses from up to 2 of the following areas",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HIST 2A",
+              "title": "World History",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 104",
+                "title": "World History I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 2B",
+              "title": "World History",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 104",
+                "title": "World History I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "HIST 106",
+                "title": "World History II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 2C",
+              "title": "World History",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 106",
+                "title": "World History II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 4A",
+              "title": "The Ancient Mediterranean and West Asia",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "Complete  3 courses from up to 2 of the following areas",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HIST 2A",
+              "title": "World History",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 104",
+                "title": "World History I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 4A",
+              "title": "The Ancient Mediterranean and West Asia",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 4B",
+              "title": "Medieval and Early Modern Europe",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "HIST 101",
+                "title": "History of Western Civilization II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 4C",
+              "title": "Modern Europe",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 101",
+                "title": "History of Western Civilization II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "2",
+        "instructions": "Complete  3 courses from up to 2 of the following areas",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HIST 49A",
+              "title": "Survey of African History",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 49B",
+              "title": "Survey of African History",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 49C",
+              "title": "Survey of African History",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "2",
+        "instructions": "Complete  3 courses from up to 2 of the following areas",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HIST 8A",
+              "title": "Latin American History: Pre-Columbian and Colonial Periods",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 8B",
+              "title": "Latin American History: Independence and National Period",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 17A",
+              "title": "The American People",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 201",
+                "title": "U.S. History through 1877",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 17B",
+              "title": "The American People",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 201",
+                "title": "U.S. History through 1877",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "HIST 202",
+                "title": "U.S. History from 1877 to the Present",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 17C",
+              "title": "The American People",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 202",
+                "title": "U.S. History from 1877 to the Present",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 56",
+              "title": "Introduction to Mexican History",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "E",
+        "block_number": "2",
+        "instructions": "Complete  3 courses from up to 2 of the following areas",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HIST 46A",
+              "title": "The Middle East from Muhammad to the Nineteenth Century",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 46B",
+              "title": "The Middle East: From the Nineteenth Century to the Present",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 46MI",
+              "title": "Modern Iran and Global Politics",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 80",
+              "title": "Chinese Civilization",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 87",
+              "title": "Japanese History Through Art and Literature",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 88",
+              "title": "Survey of South Asian History",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "PREPARATION FOR THE MAJOR - AREA I": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ANTH 2",
+              "title": "Introductory Cultural Anthropology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 110",
+                "title": "Cultural Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 1",
+              "title": "Principles of Economics-Micro",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Micro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 2",
+              "title": "Principles of Economics-Macro",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENV S 1",
+              "title": "Introduction to Environmental Studies",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENV S 3",
+              "title": "Introduction to the Social and Cultural Environment",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FEMST 20",
+              "title": "Gender and Power: Introduction to Feminist Studies",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FEMST 30",
+              "title": "Women, Development, and Globalization",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 5",
+              "title": "People, Place and Environment",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "GEOG 110",
+                "title": "Cultural Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL S 6",
+              "title": "Introduction to Comparative Politics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 170",
+                "title": "Introduction to Comparative Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL S 7",
+              "title": "Introduction to International Relations",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 130",
+                "title": "Introduction to International Relations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 1",
+              "title": "Introduction to the Study of Religion",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOC 1",
+              "title": "Introduction to Sociology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "PREPARATION FOR THE MAJOR - AREA II": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Two years of a modern foreign language",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "PREPARATION FOR THE MAJOR - AREA III": [
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Additional year of a modern foreign language",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

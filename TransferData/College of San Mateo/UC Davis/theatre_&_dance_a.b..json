@@ -1,0 +1,196 @@
+{
+  "major_title": "Theatre & Dance A.B.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Davis",
+  "options": {
+    "PREPARATION COURSES FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "DRA 021A",
+              "title": "Fundamentals of Acting",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "DRA 040A",
+              "title": "Beginning Modern Dance",
+              "units": "2.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "DANC 121.1",
+                "title": "Modern Dance I",
+                "units": "0.50 - 1.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "DANC 121.2",
+                "title": "Modern Dance II",
+                "units": "0.50 - 1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DRA 040B",
+              "title": "Intermediate Modern Dance",
+              "units": "2.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "DANC 121.3",
+                "title": "Modern Dance III",
+                "units": "0.50 - 1.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "DANC 121.4",
+                "title": "Modern Dance IV",
+                "units": "0.50 - 1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DRA 042A",
+              "title": "Beginning Ballet",
+              "units": "2.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "DANC 140.1",
+                "title": "Ballet I",
+                "units": "0.50 - 1.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "DANC 140.2",
+                "title": "Ballet II",
+                "units": "0.50 - 1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DRA 042B",
+              "title": "Intermediate Ballet",
+              "units": "2.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "DANC 140.3",
+                "title": "Ballet III",
+                "units": "0.50 - 1.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "DANC 140.4",
+                "title": "Ballet IV",
+                "units": "0.50 - 1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "DRA 024",
+              "title": "Visual Aspects of Dramatic Art",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DRA 028",
+              "title": "Entertainment Engineering & Management: Stagecraft to Stage Management",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete  3 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "DRA 055",
+              "title": "Contemporary Local, National & Global Theatre, Dance & Performance",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DRA 056A",
+              "title": "History of Theatre & Dance I: Myth, Magic & Madness",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DRA 056B",
+              "title": "History of Theatre & Dance II: Romance, Revenge & Rebellion",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DRA 056C",
+              "title": "History of Theatre & Dance III: Sex, Society & the State",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

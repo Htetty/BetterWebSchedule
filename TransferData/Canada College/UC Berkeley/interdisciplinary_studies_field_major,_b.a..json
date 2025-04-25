@@ -1,0 +1,416 @@
+{
+  "major_title": "Interdisciplinary Studies Field Major, B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "DISCIPLINES: COVERING AN INTRODUCTION TO AN ACADEMIC DISCIPLINE": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 2",
+              "title": "Introduction to Comparative Politics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 170",
+                "title": "Introduction to Comparative Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 4",
+              "title": "Introduction to Political Theory",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 150",
+                "title": "Introduction to Political Theory",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 5",
+              "title": "Introduction to International Relations",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 130",
+                "title": "Introduction to International Relations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCIOL 1",
+              "title": "Introduction to Sociology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ANTHRO 3",
+              "title": "Introduction to Social and Cultural Anthropology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 110",
+                "title": "Cultural Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 1",
+              "title": "Introduction to Economics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macro Economics",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Micro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 2",
+              "title": "Introduction to Economics, Lecture Format",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 10AC",
+              "title": "Worldlings: Regions, Peoples, and States",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "GEOG 150",
+                "title": "World Regional Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PSYCH 1",
+              "title": "General Psychology",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PSYC 100",
+                "title": "General Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHILOS 3",
+              "title": "The Nature of Mind",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Other courses that satisfy the Disciplines requirement for the Interdisciplinary Studies Field major",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "WORLD REGIONS": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Select  1 course fromA,B,C,orD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AGRS 10A",
+              "title": "Introduction to Ancient Greece",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AGRS 10B",
+              "title": "Introduction to Ancient Rome",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AFRICAM 4A",
+              "title": "Africa: History and Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 4A",
+              "title": "The Ancient Mediterranean World",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 4B",
+              "title": "Medieval Europe",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 5",
+              "title": "European Civilization From the Renaissance to the Present",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 101",
+                "title": "History of Western Civilization II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "Select  1 course fromA,B,C,orD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 6A",
+              "title": "History of China: Origins to the Mongol Conquest",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 6B",
+              "title": "Introduction to Chinese History from the Mongols to Mao",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "2",
+        "instructions": "Select  1 course fromA,B,C,orD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 8A",
+              "title": "Becoming Latin America, 1492 to 1824",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 8B",
+              "title": "Modern Latin America",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 422",
+                "title": "Modern Latin America",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "2",
+        "instructions": "Select  1 course fromA,B,C,orD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 10",
+              "title": "African History",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 11",
+              "title": "India",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 12",
+              "title": "The Middle East",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 14",
+              "title": "Introduction to the History of Japan",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "S ASIAN 1A",
+              "title": "Introduction to the Civilization of Early India",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "S ASIAN 1B",
+              "title": "Introduction to the Civilization of Medieval and Modern India",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SEASIAN 10A",
+              "title": "Introduction to the Civilization of Southeast Asia (Mainland Southeast Asia)",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SEASIAN 10B",
+              "title": "Introduction to the Civilization of Southeast Asia (Insular Southeast Asia)",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Other courses that satisfy the World Regions requirement for the Interdisciplinary Studies Field major",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

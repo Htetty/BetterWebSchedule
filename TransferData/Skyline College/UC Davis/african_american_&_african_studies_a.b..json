@@ -1,0 +1,453 @@
+{
+  "major_title": "African American & African Studies A.B.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Davis",
+  "options": {
+    "PREPARATION COURSES FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AAS 010",
+              "title": "African-American Culture & Society",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AAS 012",
+              "title": "Introduction to African Studies",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AAS 015",
+              "title": "Introduction to African American Humanities",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AAS 017",
+              "title": "Women in African Societies",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AAS 018",
+              "title": "Introduction to Caribbean Studies",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AAS 050",
+              "title": "Black Popular Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ETHN 288",
+                "title": "Black Cinema",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AAS 051",
+              "title": "History of Afro American Dance",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AAS 052",
+              "title": "African Traditional Religion",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AAS 080",
+              "title": "Introduction to Black Politics",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ANT 002",
+              "title": "Cultural Anthropology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 110",
+                "title": "Cultural Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECN 001A",
+              "title": "Principles of Microeconomics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Microeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECN 001B",
+              "title": "Principles of Macroeconomics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL 001",
+              "title": "American National Government",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 210",
+                "title": "American Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL 002",
+              "title": "Introduction to Comparative Politics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 115",
+                "title": "Introduction to Comparative Government and Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PSC 001",
+              "title": "General Psychology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PSYC 100",
+                "title": "General Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOC 001",
+              "title": "Introduction to Sociology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ASA 001",
+              "title": "Historical Experience of Asian Americans",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ETHN 103",
+                "title": "Asian American and US Institutions",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ASA 002",
+              "title": "Contemporary Issues of Asian Americans",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AMS 010",
+              "title": "Introduction to American Studies",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHI 010",
+              "title": "Introduction to Chicana/o Studies",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GSW 050",
+              "title": "Introduction to Critical Gender Studies",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "NAS 001",
+              "title": "Introduction to Native American Studies",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ETHN 107",
+                "title": "Introduction to Native American Studies",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "NAS 010",
+              "title": "Native American Experience",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HIS 015A",
+              "title": "Africa to 1900",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIS 015B",
+              "title": "Africa Today",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIS 017A",
+              "title": "History of the United States",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 201",
+                "title": "United States History I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIS 017B",
+              "title": "History of the United States",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 202",
+                "title": "United States History II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "6",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AAS 016",
+              "title": "Verbal & Performance Arts in Africa",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AAS 051",
+              "title": "History of Afro American Dance",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DRA 041A",
+              "title": "Beginning Jazz Dance",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DRA 041B",
+              "title": "Intermediate Jazz Dance",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DRA 044A",
+              "title": "Beginning Hip Hop Dance",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DRA 044B",
+              "title": "Intermediate Hip Hop Dance",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUS 028",
+              "title": "Introduction to African American Music",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

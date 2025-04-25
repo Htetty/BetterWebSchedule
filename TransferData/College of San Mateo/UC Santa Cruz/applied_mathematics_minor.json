@@ -1,0 +1,198 @@
+{
+  "major_title": "Applied Mathematics Minor",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "PREPARATION FOR THE MINOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 19A",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 19B",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 23A",
+              "title": "Vector Calculus",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 23B",
+              "title": "Vector Calculus",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AM 30",
+              "title": "Multivariate Calculus for Engineers",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AM 10",
+              "title": "Mathematical Methods for Engineers I",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AM 20",
+              "title": "Mathematical Methods for Engineers II",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 275",
+                "title": "Ordinary Differential Equations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "3",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 21",
+              "title": "Linear Algebra",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 24",
+              "title": "Ordinary Differential Equations",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 275",
+                "title": "Ordinary Differential Equations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

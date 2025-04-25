@@ -1,0 +1,351 @@
+{
+  "major_title": "Computer Engineering Minor",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "PREPARATION FOR THE MINOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CSE 12",
+              "title": "Computer Systems and Assembly Language and Lab",
+              "units": "7.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 242",
+                "title": "Computer Architecture and Assembly Language",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 16",
+              "title": "APPLIED DISCRETE MATHEMATICS",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 262",
+                "title": "Discrete Mathematics for Computer Science",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 20",
+              "title": "Beginning Programming in Python",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 122",
+                "title": "Introduction to Programming: Python",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 30",
+              "title": "Programming Abstractions: Python",
+              "units": "7.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 252",
+                "title": "Introduction to Data Structures: C++",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "CIS 286",
+                "title": "Introduction to Data Structures: Java",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 19A",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 19B",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECE 101",
+              "title": "Introduction to Electronic Circuits",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGR 260",
+                "title": "Circuits and Devices",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECE 101L",
+              "title": "Introduction to Electronic Circuits Laboratory",
+              "units": "2.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGR 261",
+                "title": "Circuits and Devices Laboratory",
+                "units": "1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CSE 13S",
+              "title": "Computer Systems and C Programming",
+              "units": "7.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 250",
+                "title": "Introduction to Object-Oriented Programming: C++",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECE 13",
+              "title": "Computer Systems and C Programming",
+              "units": "7.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AM 20",
+              "title": "Mathematical Methods for Engineers II",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 275",
+                "title": "Ordinary Differential Equations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 24",
+              "title": "Ordinary Differential Equations",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 275",
+                "title": "Ordinary Differential Equations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYS 5A",
+              "title": "Introduction to Physics I",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 250",
+                "title": "Physics with Calculus I",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYS 6A",
+              "title": "Introductory Physics I",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 250",
+                "title": "Physics with Calculus I",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "PHYS 210",
+                "title": "General Physics I",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 211",
+                "title": "General Physics I-Calculus Supplement",
+                "units": "1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYS 5C",
+              "title": "Introduction to Physics III",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 260",
+                "title": "Physics with Calculus II",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "3",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYS 6C",
+              "title": "Introductory Physics III",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 260",
+                "title": "Physics with Calculus II",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "PHYS 220",
+                "title": "General Physics II",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 221",
+                "title": "General Physics II - Calculus Supplement",
+                "units": "1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

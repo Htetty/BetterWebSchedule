@@ -1,0 +1,423 @@
+{
+  "major_title": "Biochemistry, B.S.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Barbara",
+  "options": {
+    "REQUIRED FOR ADMISSION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteAorB",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 1A",
+              "title": "General Chemistry",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 220",
+                "title": "General Chemistry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteAorB",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 1A",
+              "title": "General Chemistry",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 220",
+                "title": "General Chemistry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteAandB",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 6AL",
+              "title": "Laboratory Methods of Organic Chemistry",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 237",
+                "title": "Organic Chemistry Lab I",
+                "units": "2.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 238",
+                "title": "Organic Chemistry Lab II",
+                "units": "2.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteAandB",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 109A",
+              "title": "Organic Chemistry",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 234",
+                "title": "Organic Chemistry I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 235",
+                "title": "Organic Chemistry II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "CompleteAandB",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 3A",
+              "title": "Calculus with Applications, First Course",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "3",
+        "instructions": "CompleteAandB",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 3B",
+              "title": "Calculus with Applications, Second Course",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "CompleteAandB",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 4A",
+              "title": "Linear Algebra with Applications",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "4",
+        "instructions": "CompleteAandB",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 6A",
+              "title": "Vector Calculus with Applications, First Course",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYS 7A",
+              "title": "Basic Physics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 250",
+                "title": "Physics with Calculus I",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 260",
+                "title": "Physics with Calculus II",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 270",
+                "title": "Physics with Calculus III",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "5",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYS 1",
+              "title": "Basic Physics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 250",
+                "title": "Physics with Calculus I",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 260",
+                "title": "Physics with Calculus II",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 270",
+                "title": "Physics with Calculus III",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYS 3L",
+              "title": "Physics Laboratory",
+              "units": "1.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 260",
+                "title": "Physics with Calculus II",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 270",
+                "title": "Physics with Calculus III",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "5",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYS 6A",
+              "title": "Introductory Physics",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 210",
+                "title": "General Physics I",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 211",
+                "title": "General Physics I-Calculus Supplement",
+                "units": "1.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 220",
+                "title": "General Physics II",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 221",
+                "title": "General Physics II - Calculus Supplement",
+                "units": "1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "6",
+        "instructions": "Complete the following",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MCDB 1A",
+              "title": "Introductory Biology I",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 215",
+                "title": "Organismal Biology: Core I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "BIOL 230",
+                "title": "Introduction to Cell Biology: Core II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "7",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 3L",
+              "title": "Introduction Into Advanced Laboratory Practices",
+              "units": "2.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

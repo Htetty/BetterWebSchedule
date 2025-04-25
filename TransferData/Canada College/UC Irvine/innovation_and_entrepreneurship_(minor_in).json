@@ -1,0 +1,50 @@
+{
+  "major_title": "Innovation and Entrepreneurship (Minor in)",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Irvine",
+  "options": {
+    "IMPORTANT INFORMATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MGMT 1",
+              "title": "Introduction to Business and Management",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BUS. 100",
+                "title": "Introduction to Business",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MGMT 30A",
+              "title": "Principles of Accounting I",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ACTG 121",
+                "title": "Financial Accounting",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

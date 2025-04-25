@@ -1,0 +1,225 @@
+{
+  "major_title": "Analytics, B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 1A",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 1B",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 53",
+              "title": "Multivariable Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 54",
+              "title": "Linear Algebra and Differential Equations",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "MATH 275",
+                "title": "Ordinary Differential Equations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECON 1",
+              "title": "Introduction to Economics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macroeconomics",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Microeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON C3",
+              "title": "Introduction to Environmental Economics and Policy",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "UGBA 10X",
+              "title": "Foundations of Business",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BUS. 100",
+                "title": "Introduction to Business",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ENGIN 7",
+              "title": "Introduction to Computer Programming for Scientists and Engineers (MATLAB)",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGR 215",
+                "title": "Computational Methods for Engineers and Scientists",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "COMPSCI 61A",
+              "title": "The Structure and Interpretation of Computer Programs",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 117",
+                "title": "Python Programming",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CIS 502",
+                "title": "Applied Python Programming",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DATA C8",
+              "title": "Foundations of Data Science",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 124",
+                "title": "Foundations of Data Science",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DATA C88C",
+              "title": "Computational Structures in Data Science",
+              "units": "3.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

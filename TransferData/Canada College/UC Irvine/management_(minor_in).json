@@ -1,0 +1,202 @@
+{
+  "major_title": "Management (Minor in)",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Irvine",
+  "options": {
+    "IMPORTANT INFORMATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECON 20A",
+              "title": "Basic Economics I",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Micro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  1 course or combination from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ANTHRO 10A",
+              "title": "Probability and Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGRCEE 11",
+              "title": "Methods II: Probability and Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 15A",
+              "title": "Probability and Statistics in Economics I",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 15B",
+              "title": "Probability and Statistics in Economics II",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MGMT 7",
+              "title": "Statistics for Business Decision Making",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STATS 7",
+              "title": "Basic Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STATS 8",
+              "title": "Introduction to Biological Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STATS 67",
+              "title": "Introduction to Probability and Statistics for Computer Science",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PSYCH 10A",
+              "title": "Probability and Statistics in Psychology I",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCECOL 13",
+              "title": "Statistical Analysis in Social Ecology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOC SCI 10A",
+              "title": "Probability and Statistics in the Social Sciences I",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MGMT 1",
+              "title": "Introduction to Business and Management",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BUS. 100",
+                "title": "Introduction to Business",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

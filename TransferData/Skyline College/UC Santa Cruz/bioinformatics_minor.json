@@ -1,0 +1,221 @@
+{
+  "major_title": "Bioinformatics Minor",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "PREPARATION FOR THE MINOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "BIOL 20A",
+              "title": "Cell and Molecular Biology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 215",
+                "title": "Organismal Biology: Core I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "BIOL 230",
+                "title": "Introduction to Cell Biology: Core II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "BME 80G",
+              "title": "Bioethics in the 21st Century: Science, Business, and Society",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 3A",
+              "title": "General Chemistry",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 4A",
+              "title": "Advanced General Chemistry: Molecular Structure and Reactivity",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 220",
+                "title": "General Chemistry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHEM 4AL",
+              "title": "Advanced General Chemistry Lab",
+              "units": "2.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 220",
+                "title": "General Chemistry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 19A",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 19B",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "3",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 11A",
+              "title": "Calculus with Applications",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 241",
+                "title": "Applied Calculus I",
+                "units": "5.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 11B",
+              "title": "Calculus with Applications",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 242",
+                "title": "Applied Calculus II",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

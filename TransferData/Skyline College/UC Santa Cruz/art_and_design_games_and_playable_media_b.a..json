@@ -1,0 +1,389 @@
+{
+  "major_title": "Art and Design: Games and Playable Media B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "REQUIRED MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ART 10D",
+              "title": "2D Foundation",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 301",
+                "title": "Two-Dimensional Design",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 15",
+              "title": "Introduction to Drawing for the Major",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 204",
+                "title": "Drawing I",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ART 205",
+                "title": "Drawing II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 20G",
+              "title": "Introduction to Print Media and Drawing",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 234",
+                "title": "Printmaking I",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ART 239",
+                "title": "Printing II: Monotype, Monoprint and Mixed Media",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 26",
+              "title": "INTRODUCTION TO PRINTMAKING",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 80T",
+              "title": "Digital Tools for Contemporary Art Practice",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTG 80G",
+              "title": "Visual Communication and Interaction Design",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTG 91",
+              "title": "Introduction to Game Art Production",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ART 10E",
+              "title": "3D Foundation",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 401",
+                "title": "Three-Dimensional Design",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 20H",
+              "title": "Introduction to Sculpture and Public Art",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 405",
+                "title": "Sculpture I",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ART 406",
+                "title": "Sculpture II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CMPM 25",
+              "title": "Introduction to 3D Modeling",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CMPM 26",
+              "title": "Introduction to 3D Animation",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ART 10F",
+              "title": "4D Foundation",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 20I",
+              "title": "Introduction to Photography",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 351.1",
+                "title": "Black and White Photography I",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ART 351.2",
+                "title": "Black and White Photography II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 20K",
+              "title": "Introduction to New Media and Digital Artmaking",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 430",
+                "title": "Introduction to Digital Art",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTG 50",
+              "title": "Play as a Radical Endeavor",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CMPM 80K",
+              "title": "Foundations of Video Game Design",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FILM 20P",
+              "title": "Introduction to Production Technique",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 1C",
+              "title": "University Concert Choir",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 2",
+              "title": "University Orchestra",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 3",
+              "title": "Large Jazz Ensemble",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 6",
+              "title": "Classical Guitar Ensemble",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 9",
+              "title": "Wind Ensemble",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 14",
+              "title": "Beginning Western Theory and Musicianship",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 15",
+              "title": "Preparatory Musicianship",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 20A",
+              "title": "Global Music Theory and Musicianship",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSC 30A",
+              "title": "Theory, Literature, and Musicianship I",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "THEA 10",
+              "title": "Introduction to Theater Design and Technology",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "THEA 20",
+              "title": "Introductory Studies in Acting",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "DRAM 200",
+                "title": "Theory of Acting I",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DRAM 201",
+                "title": "Advanced Acting I",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DRAM 202",
+                "title": "Advanced Acting II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "THEA 30",
+              "title": "Introduction to Dance Theory and Technique",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

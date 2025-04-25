@@ -1,0 +1,311 @@
+{
+  "major_title": "Statistics A.B.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Davis",
+  "options": {
+    "COMPUTER SCIENCE ENGINEERING": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECS 032A",
+              "title": "Introduction to Programming",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 122",
+                "title": "Introduction to Programming: Python",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECS 036A",
+              "title": "Programming & Problem Solving",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 118",
+                "title": "Introduction to Computer Science",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "MATHEMATICS": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,orD",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT 016A",
+              "title": "Short Calculus",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 241",
+                "title": "Business Calculus I",
+                "units": "5.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 251",
+                "title": "Analytical Geometry and Calculus I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 016B",
+              "title": "Short Calculus",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 243",
+                "title": "Business Calculus II with Trigonometry",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 252",
+                "title": "Analytical Geometry and Calculus II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 016C",
+              "title": "Short Calculus",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Analytical Geometry and Calculus II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,orD",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT 017A",
+              "title": "Calculus for Biology & Medicine",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 017B",
+              "title": "Calculus for Biology & Medicine",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 017C",
+              "title": "Calculus for Biology & Medicine",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,orD",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT 019A",
+              "title": "Calculus for Data-Driven Applications",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 019B",
+              "title": "Calculus for Data-Driven Applications",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 019C",
+              "title": "Calculus for Data-Driven Applications",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "2",
+        "instructions": "CompleteA,B,C,orD",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT 021A",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Analytical Geometry and Calculus I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 021B",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Analytical Geometry and Calculus II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 021C",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Analytical Geometry and Calculus III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT 022A",
+              "title": "Linear Algebra",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "STATISTICS": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "STA 013",
+              "title": "Elementary Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STA 032",
+              "title": "Gateway to Statistical Data Science",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

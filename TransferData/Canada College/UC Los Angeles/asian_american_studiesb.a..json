@@ -1,0 +1,160 @@
+{
+  "major_title": "Asian American Studies/B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Los Angeles",
+  "options": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete at least 2 courses fromA",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ASIA AM 10",
+              "title": "History of Asian Americans",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ASIA AM 10W",
+              "title": "History of Asian Americans",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ASIA AM 20",
+              "title": "Contemporary Asian American Communities",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ASIA AM 20W",
+              "title": "Contemporary Asian American Communities",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ASIA AM 30",
+              "title": "Asian American Literature and Culture",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ASIA AM 30W",
+              "title": "Asian American literature and Culture",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ASIA AM 40",
+              "title": "Asian American Movement",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ASIA AM 40W",
+              "title": "Asian American Movement",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ASIA AM 50",
+              "title": "Asian American Women",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ASIA AM 50W",
+              "title": "Asian American Women",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Lower Division Asian American Studies or Ethnics Studies Courses",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "ETHN 103",
+                "title": "Asian American Studies",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ETHN 105",
+                "title": "African American History and Culture",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ETHN 107",
+                "title": "Introduction to Native American Studies",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ETHN 108",
+                "title": "Rethinking Race, Gender, and Nation",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ETHN 109",
+                "title": "Borders and Crossings",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ETHN 265",
+                "title": "Evolution of Hip Hop Culture: A Socio-Economic and Political Perspective",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ETHN 288",
+                "title": "African-American Cinema",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

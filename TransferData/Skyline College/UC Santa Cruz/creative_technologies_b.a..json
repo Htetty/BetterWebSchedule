@@ -1,0 +1,70 @@
+{
+  "major_title": "Creative Technologies B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete 1 from the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Introductory arts course in theory or history",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete 1 from the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Practice-based, 'maker'/production-oriented arts course",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 204",
+                "title": "Drawing I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ART 205",
+                "title": "Drawing II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ART 301",
+                "title": "Two-Dimensional Design",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ART 401",
+                "title": "Three-Dimensional Design",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

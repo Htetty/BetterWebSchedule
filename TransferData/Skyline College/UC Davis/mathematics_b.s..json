@@ -1,0 +1,371 @@
+{
+  "major_title": "Mathematics B.S.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Davis",
+  "options": {
+    "MATHEMATICS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT 021A",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 021B",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 021C",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 021D",
+              "title": "Vector Analysis",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "Required for admission",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT 022A",
+              "title": "Linear Algebra",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 108",
+              "title": "Introduction to Abstract Mathematics",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "Required for admission",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT 027A",
+              "title": "Linear Algebra with Applications to Biology",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 108",
+              "title": "Introduction to Abstract Mathematics",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "2",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "Required for admission",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT 067",
+              "title": "Modern Linear Algebra",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "Required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT 022B",
+              "title": "Differential Equations",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 275",
+                "title": "Ordinary Differential Equations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MAT 027B",
+              "title": "Differential Equations with Applications to Biology",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT 022AL",
+              "title": "Linear Algebra Computer Laboratory",
+              "units": "1.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "PROGRAMMING": [
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECS 032A",
+              "title": "Introduction to Programming",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 122",
+                "title": "Introduction to Programming: Python",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENG 006",
+              "title": "Engineering Problem Solving",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGR 215",
+                "title": "Computational Methods for Engineers and Scientists",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "6",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHY 009A",
+              "title": "Classical Physics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 250",
+                "title": "Physics with Calculus I",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "6",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHY 007A",
+              "title": "General Physics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 210",
+                "title": "General Physics I",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 211",
+                "title": "General Physics I-Calculus Supplement",
+                "units": "1.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 220",
+                "title": "General Physics II",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 221",
+                "title": "General Physics II - Calculus Supplement",
+                "units": "1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHY 009A",
+              "title": "Classical Physics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 250",
+                "title": "Physics with Calculus I",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STA 013",
+              "title": "Elementary Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability & Statistics",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "PSYC 171",
+                "title": "Quantitative Reasoning in Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STA 032",
+              "title": "Gateway to Statistical Data Science",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

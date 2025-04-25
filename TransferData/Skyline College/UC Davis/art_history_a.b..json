@@ -1,0 +1,536 @@
+{
+  "major_title": "Art History A.B.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Davis",
+  "options": {
+    "PREPARATION COURSES FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete  4 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AHI 001A",
+              "title": "Ancient Mediterranean Art",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 101",
+                "title": "History of Western Art I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "ART 102",
+                "title": "History of Western Art II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AHI 001D",
+              "title": "Arts of Asia",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 105",
+                "title": "Asian Art and Architecture",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AHI 001E",
+              "title": "Islamic Art & Architecture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AHI 005",
+              "title": "Understanding Visual Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AHI 025",
+              "title": "Understanding Architecture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "ART STUDIO COURSES": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ART 001",
+              "title": "Introduction to Studio Art Practice",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 002",
+              "title": "Beginning Drawing",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 204",
+                "title": "Drawing I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 005",
+              "title": "Beginning Sculpture",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 405",
+                "title": "Sculpture I",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ART 406",
+                "title": "Sculpture II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 007",
+              "title": "Beginning Painting",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 221",
+                "title": "Painting I",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ART 222",
+                "title": "Painting II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 008",
+              "title": "Beginning Ceramic Sculpture",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 009",
+              "title": "Beginning Photography",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 351.1",
+                "title": "Black and White Photography I",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ART 351.2",
+                "title": "Black and White Photography II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 010D",
+              "title": "Contemporary Art Appreciation",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 010F",
+              "title": "Contemporary Art Appreciation",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 011",
+              "title": "Beginning Printmaking",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 234",
+                "title": "Printmaking I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 012",
+              "title": "Beginning Video",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "DMAD 475",
+                "title": "Digital Filmmaking I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 024",
+              "title": "Introduction to Experimental Video & Film",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "EMPHASIS IN ARCHITECTURAL HISTORY": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AHI 025",
+              "title": "Understanding Architecture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "EMPHASIS IN MUSEUM STUDIES": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "Complete  4 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AHI 001A",
+              "title": "Ancient Mediterranean Art",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 101",
+                "title": "History of Western Art I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AHI 001B",
+              "title": "Medieval & Renaissance Art",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AHI 001C",
+              "title": "Baroque to Modern Art",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 102",
+                "title": "History of Western Art II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AHI 001D",
+              "title": "Arts of Asia",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 105",
+                "title": "Asian Art and Architecture",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AHI 001E",
+              "title": "Islamic Art & Architecture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AHI 005",
+              "title": "Understanding Visual Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AHI 025",
+              "title": "Understanding Architecture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ART 001",
+              "title": "Introduction to Studio Art Practice",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 002",
+              "title": "Beginning Drawing",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 204",
+                "title": "Drawing I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 005",
+              "title": "Beginning Sculpture",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 405",
+                "title": "Sculpture I",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ART 406",
+                "title": "Sculpture II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 007",
+              "title": "Beginning Painting",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 221",
+                "title": "Painting I",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ART 222",
+                "title": "Painting II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 008",
+              "title": "Beginning Ceramic Sculpture",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 009",
+              "title": "Beginning Photography",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 351.1",
+                "title": "Black and White Photography I",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ART 351.2",
+                "title": "Black and White Photography II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 010D",
+              "title": "Contemporary Art Appreciation",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 010F",
+              "title": "Contemporary Art Appreciation",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 011",
+              "title": "Beginning Printmaking",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 234",
+                "title": "Printmaking I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 012",
+              "title": "Beginning Video",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "DMAD 475",
+                "title": "Digital Filmmaking I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ART 024",
+              "title": "Introduction to Experimental Video & Film",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

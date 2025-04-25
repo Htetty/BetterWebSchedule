@@ -1,0 +1,148 @@
+{
+  "major_title": "Dance, B.A., B.F.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Irvine",
+  "options": {
+    "B.A. OR B.F.A.": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "DANCE 2",
+              "title": "Dance Health and Injury Prevention",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DANCE 21A",
+              "title": "Music for Dancers",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DANCE 60A",
+              "title": "Choreography I",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "DANCE 90A",
+              "title": "Dance History",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DANCE 90B",
+              "title": "Dance History",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DANCE 90C",
+              "title": "Dance History",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Ethnic, Mexican, Social, Spanish, Character or Tap Dance",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "B.F.A. CHOREOGRAPHY AND PERFORMANCE SPECIALIZATIONS": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "DRAMA 30A",
+              "title": "Acting",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "B.F.A. CHOREOGRAPHY SPECIALIZATION ADD": [
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "DANCE 60B",
+              "title": "Choreography I",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DRAMA 50C",
+              "title": "Introduction to Lighting Design",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

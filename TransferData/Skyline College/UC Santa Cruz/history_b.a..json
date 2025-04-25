@@ -1,0 +1,175 @@
+{
+  "major_title": "History B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete up to 3 courses fromA,B,andC",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "The Americas and Africa",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 201",
+                "title": "United States History I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 202",
+                "title": "United States History II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 235",
+                "title": "History of Ethnic Groups in the United States",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 240",
+                "title": "History of Ethnic Groups in California",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 244",
+                "title": "African American History",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 310",
+                "title": "California History",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 420",
+                "title": "Survey of Latin American History",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "Complete up to 3 courses fromA,B,andC",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Asia and the Pacific",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "Complete up to 3 courses fromA,B,andC",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Europe and the Mediterranean World",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 101",
+                "title": "History of Western Civilization II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete the following",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Pre-600 C.E.",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 104",
+                "title": "World Civilizations I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "Complete the following",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Pre-1800 C.E.",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 104",
+                "title": "World Civilizations I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

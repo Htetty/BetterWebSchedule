@@ -1,0 +1,146 @@
+{
+  "major_title": "East Asian Religion, Thought, and Culture, B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "LANGUAGE SEQUENCES": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHINESE 1A",
+              "title": "Elementary Chinese",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHINESE 1B",
+              "title": "Elementary Chinese",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHINESE 10A",
+              "title": "Intermediate Chinese",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHINESE 10B",
+              "title": "Intermediate Chinese",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "JAPAN 1A",
+              "title": "Elementary Japanese",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "JAPAN 1B",
+              "title": "Elementary Japanese",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "JAPAN 10A",
+              "title": "Intermediate Japanese",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "JAPAN 10B",
+              "title": "Intermediate Japanese",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "TIBETAN 1A",
+              "title": "Elementary Tibetan",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "TIBETAN 1B",
+              "title": "Elementary Tibetan",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "TIBETAN 10A",
+              "title": "Intermediate Tibetan",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "TIBETAN 10B",
+              "title": "Intermediate Tibetan",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "EA LANG C50",
+              "title": "Introduction to the Study of Buddhism",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

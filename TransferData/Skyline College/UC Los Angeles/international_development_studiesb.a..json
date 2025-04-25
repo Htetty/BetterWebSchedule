@@ -1,0 +1,568 @@
+{
+  "major_title": "International Development Studies/B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Los Angeles",
+  "options": {
+    "INTERNATIONAL STUDIES": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "INTL DV 1",
+              "title": "Introduction to International Development Studies",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "ECONOMICS": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete at least 1 course fromA",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECON 1",
+              "title": "Principles of Economics(Microeconomics)",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Microeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 2",
+              "title": "Principles of Economics(Macroeconomics)",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 4",
+              "title": "Globalization: Regional Development and World Economy",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PUB AFF 30",
+              "title": "Comparative Analysis of Wealth, Policy, and Power",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PUB AFF 40",
+              "title": "Microeconomics for Public Affairs",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "METHODOLOGY COURSES": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete at least 1 course fromA",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECON 41",
+              "title": "Probability and Statistics for Economists",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "EDUC 35",
+              "title": "Introduction to Inquiry and Research in Education",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 96W",
+              "title": "Introduction to Historical Practice",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 6",
+              "title": "Introduction to Data Analysis",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PUB AFF 60",
+              "title": "Using Data to Learn about Society: Introduction to Empirical Research and Statistics",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCIOL 20",
+              "title": "Introduction to Sociological Research Methods",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STATS 10",
+              "title": "Introduction to Statistical Reasoning",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability & Statistics",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 211",
+                "title": "Introduction to Data Science",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "SOCIAL SCIENCE": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "Complete at least 3 courses fromA,B,C,D,E,F,G,orH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ANTHRO 3",
+              "title": "CULTURE AND SOCIETY",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 110",
+                "title": "Cultural Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "4",
+        "instructions": "Complete at least 3 courses fromA,B,C,D,E,F,G,orH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "GENDER 10",
+              "title": "Introduction to Gender Studies",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "4",
+        "instructions": "Complete at least 3 courses fromA,B,C,D,E,F,G,orH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "GLBL ST 1",
+              "title": "Introduction to Globalization",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "I A STD 1",
+              "title": "Introduction to International and Area Studies",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "I A STD 31",
+              "title": "Introduction to Southeast Asia",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "I A STD 33",
+              "title": "Introduction to East Asia",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "I A STD 50",
+              "title": "Introduction to Latin America",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "4",
+        "instructions": "Complete at least 3 courses fromA,B,C,D,E,F,G,orH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "GEOG 3",
+              "title": "Cultural Geography",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "GEOG 110",
+                "title": "Cultural Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 5",
+              "title": "People and Earth's Ecosystems",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 6",
+              "title": "World Regions: Concepts and Contemporary Issues",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "GEOG 150",
+                "title": "World Regional Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "E",
+        "block_number": "4",
+        "instructions": "Complete at least 3 courses fromA,B,C,D,E,F,G,orH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HIST 8A",
+              "title": "Colonial Latin America",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 8B",
+              "title": "Modern Latin America",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 8C",
+              "title": "Latin American Social History",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 9A",
+              "title": "Introduction to Asian Civilizations: History of India",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 9D",
+              "title": "Introduction to Asian Civilizations: History of Middle East",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 9E",
+              "title": "Introduction to Asian Civilizations: Southeast Asian Crossroads",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 10B",
+              "title": "History of Africa, 1800 to Present",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 10BW",
+              "title": "Introduction to Civilizations of Africa Since 1800",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 11B",
+              "title": "History of China, circa 1000 to 2000",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 12B",
+              "title": "Inequality: History of Neoliberalism",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 12C",
+              "title": "Inequality: Global History of Anti-Colonial Thought and Struggle",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 22",
+              "title": "Contemporary World History, 1760 to Present",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 106",
+                "title": "World Civilizations II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "F",
+        "block_number": "4",
+        "instructions": "Complete at least 3 courses fromA,B,C,D,E,F,G,orH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 20",
+              "title": "World Politics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 130",
+                "title": "Introduction to International Relations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 50",
+              "title": "Introduction to Comparative Politics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 115",
+                "title": "Introduction to Comparative Government and Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "G",
+        "block_number": "4",
+        "instructions": "Complete at least 3 courses fromA,B,C,D,E,F,G,orH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SOCIOL 1",
+              "title": "Introductory Sociology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "H",
+        "block_number": "4",
+        "instructions": "Complete at least 3 courses fromA,B,C,D,E,F,G,orH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "COM LIT 4DW",
+              "title": "Literature and Writing: Great Books from World at Large",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPAN 44",
+              "title": "Latin American Cultures",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Demonstrated Proficiency in one modern foreign language equivalent to Level Six",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

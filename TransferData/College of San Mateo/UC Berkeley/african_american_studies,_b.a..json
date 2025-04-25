@@ -1,0 +1,45 @@
+{
+  "major_title": "African American Studies, B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "LOWER DIVISION REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AFRICAM 4A",
+              "title": "Africa: History and Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AFRICAM 5A",
+              "title": "African American Life and Culture in the United States",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AFRICAM 5B",
+              "title": "African American Life and Culture in the United States",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

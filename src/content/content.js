@@ -184,6 +184,8 @@ Promise.all([
   console.error("Failed to load RMP data:", err);
 });
 
+observer.observe(document.body, { childList: true, subtree: true });
+
 function parseTime(str) {
   const [time, period] = str.split(" ");
   let [hours, minutes] = time.split(":").map(Number);
@@ -225,3 +227,22 @@ chrome.storage.sync.get("colorBlocks", (data) => {
 const scheduleObserver = new MutationObserver(() => {
   colorDaysByTime();
 });
+
+const openPanelButton = document.createElement('button');
+openPanelButton.textContent = 'Open Side Panel';
+openPanelButton.style.position = 'fixed';
+openPanelButton.style.bottom = '20px';
+openPanelButton.style.right = '20px';
+openPanelButton.style.zIndex = 9999;
+openPanelButton.style.padding = '10px';
+openPanelButton.style.background = '#0066cc';
+openPanelButton.style.color = 'white';
+openPanelButton.style.border = 'none';
+openPanelButton.style.borderRadius = '5px';
+openPanelButton.style.cursor = 'pointer';
+
+openPanelButton.addEventListener('click', () => {
+  chrome.runtime.sendMessage({ type: 'open_side_panel' });
+});
+
+document.body.appendChild(openPanelButton);

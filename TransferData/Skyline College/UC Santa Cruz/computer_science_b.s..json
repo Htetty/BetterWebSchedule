@@ -1,0 +1,188 @@
+{
+  "major_title": "Computer Science B.S.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "REQUIRED MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CSE 12",
+              "title": "Computer Systems and Assembly Language and Lab",
+              "units": "7.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 242",
+                "title": "Computer Architecture and Assembly Language",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 16",
+              "title": "APPLIED DISCRETE MATHEMATICS",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 262",
+                "title": "Discrete Mathematics for Computer Science",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 30",
+              "title": "Programming Abstractions: Python",
+              "units": "7.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 252",
+                "title": "Introduction to Data Structures: C++",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "CIS 286",
+                "title": "Introduction to Data Structures: Java",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 19A",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 19B",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  1 course fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AM 10",
+              "title": "Mathematical Methods for Engineers I",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 21",
+              "title": "Linear Algebra",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "Complete  1 course fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AM 30",
+              "title": "Multivariate Calculus for Engineers",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 23A",
+              "title": "Vector Calculus",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

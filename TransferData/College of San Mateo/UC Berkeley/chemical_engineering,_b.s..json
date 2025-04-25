@@ -1,0 +1,361 @@
+{
+  "major_title": "Chemical Engineering, B.S.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "LOWER DIVISION REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,G,andH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 1A",
+              "title": "General Chemistry",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHEM 1B",
+              "title": "General Chemistry",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 220",
+                "title": "General Chemistry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,G,andH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 3A",
+              "title": "Chemical Structure and Reactivity",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 231",
+                "title": "Organic Chemistry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHEM 3B",
+              "title": "Chemical Structure and Reactivity",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 232",
+                "title": "Organic Chemistry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,G,andH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "BIOLOGY 1A",
+              "title": "General Biology Lecture (Cells, Genetics, Animal Form & Function)",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 230",
+                "title": "Introductory Cell Biology",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "BIOL 210",
+                "title": "General Zoology",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,G,andH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ENGIN 7",
+              "title": "Introduction to Computer Programming for Scientists and Engineers (MATLAB)",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGR 215",
+                "title": "Computational Methods for Engineers and Scientists",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "COMPSCI 61A",
+              "title": "The Structure and Interpretation of Computer Programs",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 117",
+                "title": "Python Programming",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CIS 502",
+                "title": "Applied Python Programming",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "E",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,G,andH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 1A",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 1B",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 53",
+              "title": "Multivariable Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 54",
+              "title": "Linear Algebra and Differential Equations",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "MATH 275",
+                "title": "Ordinary Differential Equations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "F",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,G,andH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYSICS 7A",
+              "title": "Physics for Scientists and Engineers",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 250",
+                "title": "Physics with Calculus I",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYSICS 7B",
+              "title": "Physics for Scientists and Engineers",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 260",
+                "title": "Physics with Calculus II",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYSICS 7C",
+              "title": "Physics for Scientists and Engineers",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 270",
+                "title": "Physics with Calculus III",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "G",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,G,andH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ENGLISH R1A",
+              "title": "Reading and Composition",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGL 100",
+                "title": "Reading and Composition",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ENGL 105",
+                "title": "Reading and Composition with Support",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "H",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,G,andH",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MAT SCI 45",
+              "title": "Properties of Materials",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGR 270",
+                "title": "Materials Science",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

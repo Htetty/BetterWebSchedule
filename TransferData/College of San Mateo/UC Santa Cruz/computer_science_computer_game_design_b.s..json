@@ -1,0 +1,253 @@
+{
+  "major_title": "Computer Science: Computer Game Design B.S.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "REQUIRED MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 19A",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 19B",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 16",
+              "title": "APPLIED DISCRETE MATHEMATICS",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 262",
+                "title": "Discrete Mathematics for Computer Science",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 268",
+                "title": "Discrete Mathematics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 30",
+              "title": "Programming Abstractions: Python",
+              "units": "7.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 256",
+                "title": "(CS2) Data Structures: Java",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "CIS 279",
+                "title": "(CS2) Data Structures: C ++",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "CIS 501",
+                "title": "(CS2) Data Structures: Python",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "CIS 502",
+                "title": "Applied Python Programming",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECE 13",
+              "title": "Computer Systems and C Programming",
+              "units": "7.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 13S",
+              "title": "Computer Systems and C Programming",
+              "units": "7.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 278",
+                "title": "(CS1) Programming Methods: C++",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 12",
+              "title": "Computer Systems and Assembly Language and Lab",
+              "units": "7.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 264",
+                "title": "Computer Organization and Systems Programming",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CSE 20",
+              "title": "Beginning Programming in Python",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 117",
+                "title": "Python Programming",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AM 10",
+              "title": "Mathematical Methods for Engineers I",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 21",
+              "title": "Linear Algebra",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CMPM 80K",
+              "title": "Foundations of Video Game Design",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FILM 80V",
+              "title": "Video Games as Visual Culture",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

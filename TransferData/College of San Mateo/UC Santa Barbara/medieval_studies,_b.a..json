@@ -1,0 +1,352 @@
+{
+  "major_title": "Medieval Studies, B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Santa Barbara",
+  "options": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete  2 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HIST 2A",
+              "title": "World History",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 104",
+                "title": "World History I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 2B",
+              "title": "World History",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 104",
+                "title": "World History I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "HIST 106",
+                "title": "World History II: From 1500 to Present",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 4A",
+              "title": "The Ancient Mediterranean and West Asia",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 4B",
+              "title": "Medieval and Early Modern Europe",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "HIST 101",
+                "title": "History of Western Civilization II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "ADDITIONAL LOWER DIVISION COURSES": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "Recommended; Not required for the major",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6A",
+              "title": "Art Survey I: Ancient-Medieval Art",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 101",
+                "title": "Art and Architecture from the Ancient World to Medieval Times, (c. 1400)",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6M",
+              "title": "Survey: Eccentric Images",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHIN 48",
+              "title": "Nature and Ethics in Chinese Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHIN 80",
+              "title": "Masterpieces in Chinese Literature",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 30A",
+              "title": "Major Works in European Literature",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 50A",
+              "title": "Tales of Love in the Western Tradition",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FR 50AX",
+              "title": "Tales of Love in the Western Tradition",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 2B",
+              "title": "World History",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 104",
+                "title": "World History I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "HIST 106",
+                "title": "World History II: From 1500 to Present",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 4A",
+              "title": "The Ancient Mediterranean and West Asia",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 4B",
+              "title": "Medieval and Early Modern Europe",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "HIST 101",
+                "title": "History of Western Civilization II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 15",
+              "title": "Medieval Worlds",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 46A",
+              "title": "The Middle East from Muhammad to the Nineteenth Century",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 49A",
+              "title": "Survey of African History",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 20B",
+              "title": "History of Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 4",
+              "title": "Introduction to Buddhism",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 23",
+              "title": "Introduction to Chinese Buddhism",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 26",
+              "title": "Introduction to Jewish Mysticism",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 27",
+              "title": "Varieties of Mystical Experience in the Abrahamic Religions: Judaism, Christianity, and Islam",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 33",
+              "title": "Catholic Ritual in the Middle Ages",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 47",
+              "title": "Introduction to Daoism",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 48",
+              "title": "Nature and Ethics in Chinese Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 73",
+              "title": "Introduction to Japanese Religion: Texts, Concepts, and Representations",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 80B",
+              "title": "Religion and Western Civilization II: Medieval",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

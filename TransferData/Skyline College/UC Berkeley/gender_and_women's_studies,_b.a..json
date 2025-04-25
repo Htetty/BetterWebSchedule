@@ -1,0 +1,45 @@
+{
+  "major_title": "Gender and Women's Studies, B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "GWS 10",
+              "title": "Introduction to Gender and Women's Studies",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GWS 20",
+              "title": "Introduction to Feminist Theory",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "LGBT 20AC",
+              "title": "Alternative Sexual Identities and Communities in Contemporary American Society",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

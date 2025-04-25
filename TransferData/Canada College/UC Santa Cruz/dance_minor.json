@@ -1,0 +1,361 @@
+{
+  "major_title": "Dance Minor",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "PREPARATION FOR THE MINOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "THEA 30",
+              "title": "Introduction to Dance Theory and Technique",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "DANC 115.1",
+                "title": "Mexican Folkloric Dance I",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 115.2",
+                "title": "Mexican Folkloric Dance II",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 115.3",
+                "title": "Mexican Folkloric Dance III",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 115.4",
+                "title": "Mexican Folkloric Dance IV",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 117.1",
+                "title": "Tap Dance I",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 117.2",
+                "title": "Tap Dance II",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 117.3",
+                "title": "Tap Dance III",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 117.4",
+                "title": "Tap Dance IV",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 121.1",
+                "title": "Contemporary Modern Dance I",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 121.2",
+                "title": "Contemporary Modern Dance II",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 121.3",
+                "title": "Contemporary Modern Dance III",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 121.4",
+                "title": "Contemporary Modern Dance IV",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 125.1",
+                "title": "Salsa I",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 125.2",
+                "title": "Salsa II",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 125.3",
+                "title": "Salsa III",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 125.4",
+                "title": "Salsa IV",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 130.1",
+                "title": "Jazz Dance I",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 130.2",
+                "title": "Jazz Dance II",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 130.3",
+                "title": "Jazz Dance III",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 130.4",
+                "title": "Jazz Dance IV",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 140.1",
+                "title": "Ballet I",
+                "units": "0.50 - 1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 140.2",
+                "title": "Ballet II",
+                "units": "0.50 - 1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 140.3",
+                "title": "Ballet III",
+                "units": "0.50 - 1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 140.4",
+                "title": "Ballet IV",
+                "units": "0.50 - 1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 150.1",
+                "title": "Hip Hop I",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 150.2",
+                "title": "Hip Hop II",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 150.3",
+                "title": "Hip Hop III",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 150.4",
+                "title": "Hip Hop IV",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 151.1",
+                "title": "Social Dance I",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 151.2",
+                "title": "Social Dance II",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 151.3",
+                "title": "Social Dance III",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 151.4",
+                "title": "Social Dance IV",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 161.1",
+                "title": "Tango Argentino I",
+                "units": "0.50 - 1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 161.2",
+                "title": "Tango Argentino II",
+                "units": "0.50 - 1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 161.3",
+                "title": "Tango Argentino III",
+                "units": "0.50 - 1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "DANC 161.4",
+                "title": "Tango Argentino IV",
+                "units": "0.50 - 1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "THEA 36",
+              "title": "Introduction to Dance Making",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Approved courses in dance foundations",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "THEA 31A",
+              "title": "Dance Studio I: Asian or Asian Diasporic Practice",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "THEA 31B",
+              "title": "Dance Studio I: Ballet",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "THEA 31C",
+              "title": "Dance Studio I: Contemporary Dance Theory and Technique",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "THEA 37",
+              "title": "African Dance",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "THEA 80R",
+              "title": "Bollywood Dance and Culture in India and Indian Diaspora",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "THEA 80U",
+              "title": "Everybody Dance Now!",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "THEA 80Z",
+              "title": "Indian Dance",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Approved courses in cultural forms",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "THEA 50",
+              "title": "Fundamentals of Theater Production",
+              "units": "2.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "major_title": "Spanish and Portuguese, B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "CONCENTRATION A: THE LANGUAGES, LITERATURES, AND CULTURES OF THE SPANISH-SPEAKING WORLD": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "SelectA,B,C,andD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 1",
+              "title": "Elementary Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 110",
+                "title": "Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 2",
+              "title": "Elementary Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 120",
+                "title": "Advanced Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "SelectA,B,C,andD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 3",
+              "title": "Intermediate Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 21",
+              "title": "Spanish for Bilingual Students, First Course",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "SelectA,B,C,andD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 4",
+              "title": "Intermediate Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 22",
+              "title": "Spanish for Bilingual Students, Second Course",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "1",
+        "instructions": "SelectA,B,C,andD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 25",
+              "title": "Reading and Analysis of Literary Texts",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "CONCENTRATION B: THE LANGUAGES, LITERATURES, AND CULTURES OF THE PORTUGUESE-SPEAKING WORLD": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteA",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PORTUG 50",
+              "title": "Intensive Portuguese for Spanish Speakers",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 25",
+              "title": "Reading and Analysis of Literary Texts",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "CONCENTRATION C: LATIN AMERICAN LANGUAGES, LITERATURES, AND CULTURES": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 1",
+              "title": "Elementary Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 110",
+                "title": "Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 2",
+              "title": "Elementary Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 120",
+                "title": "Advanced Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "3",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 3",
+              "title": "Intermediate Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 21",
+              "title": "Spanish for Bilingual Students, First Course",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "3",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 4",
+              "title": "Intermediate Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 22",
+              "title": "Spanish for Bilingual Students, Second Course",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "3",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 25",
+              "title": "Reading and Analysis of Literary Texts",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "CONCENTRATION D: HISPANIC LANGUAGES, LINGUISTICS, AND BILINGUALISM": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 1",
+              "title": "Elementary Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 110",
+                "title": "Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 2",
+              "title": "Elementary Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 120",
+                "title": "Advanced Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "4",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 3",
+              "title": "Intermediate Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 21",
+              "title": "Spanish for Bilingual Students, First Course",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "4",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 4",
+              "title": "Intermediate Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 22",
+              "title": "Spanish for Bilingual Students, Second Course",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "4",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPANISH 25",
+              "title": "Reading and Analysis of Literary Texts",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

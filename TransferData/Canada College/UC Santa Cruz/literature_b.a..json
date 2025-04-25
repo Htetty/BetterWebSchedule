@@ -1,0 +1,119 @@
+{
+  "major_title": "Literature B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete  2 courses fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "LIT 1",
+              "title": "Literary Interpretation",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGL 110",
+                "title": "Composition, Literature and Critical Thinking",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "Complete  2 courses fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Literature courses",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "DRAM 151",
+                "title": "Introduction to Shakespeare I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 151",
+                "title": "Introduction to Shakespeare I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 200",
+                "title": "American Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 205",
+                "title": "New Voices in World Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 231",
+                "title": "Survey of English Literature I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 232",
+                "title": "Survey of English Literature II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 252",
+                "title": "Women Writers: Multicultural Perspectives",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 266",
+                "title": "Black Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 371",
+                "title": "Mexican-American Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 372",
+                "title": "Myth and Folklore of La Raza",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 373",
+                "title": "Latin American Literature in Translation",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

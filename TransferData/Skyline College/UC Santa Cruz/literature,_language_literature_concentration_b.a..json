@@ -1,0 +1,95 @@
+{
+  "major_title": "Literature, Language Literature Concentration B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete  2 courses fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "LIT 1",
+              "title": "Literary Interpretation",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGL 110",
+                "title": "Composition, Literature, and Critical Thinking",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "Complete  2 courses fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Literature courses",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "LIT. 101",
+                "title": "Contemporary Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 251",
+                "title": "Women in Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 265",
+                "title": "Asian American Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 266",
+                "title": "Black Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 267",
+                "title": "Filipino American Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 370",
+                "title": "Readings in Literature of the Latino in the United States",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 432",
+                "title": "Folklore",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

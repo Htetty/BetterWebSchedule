@@ -1,0 +1,106 @@
+{
+  "major_title": "Latin American & Iberian Studies, B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Santa Barbara",
+  "options": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPAN 6",
+              "title": "Intermediate Spanish III",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 140",
+                "title": "Advanced Intermediate Spanish",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PORT 6",
+              "title": "Intermediate Portuguese",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HIST 8A",
+              "title": "Latin American History: Pre-Columbian and Colonial Periods",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HIST 8B",
+              "title": "Latin American History: Independence and National Period",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "2",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "LAIS 10",
+              "title": "Introduction to the Latin American and Iberian World",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

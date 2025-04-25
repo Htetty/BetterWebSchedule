@@ -1,0 +1,391 @@
+{
+  "major_title": "American Studies, B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AMERSTD 10",
+              "title": "Introduction to American Studies",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AFRICAM 5A",
+              "title": "African American Life and Culture in the United States",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AFRICAM 5B",
+              "title": "African American Life and Culture in the United States",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ANTHRO 2",
+              "title": "Introduction to Archaeology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 351",
+                "title": "Archaeology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ASAMST 20A",
+              "title": "Introduction to the History of Asians in the United States",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ASAMST 20AC",
+              "title": "Asian American Communities and Race Relations",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHICANO 20",
+              "title": "Introduction to Chicano Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHICANO 40",
+              "title": "Introduction to Chicano Literature in English",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHICANO 50",
+              "title": "Introduction to Chicano History",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHICANO 70",
+              "title": "Latino Politics",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENV DES 1",
+              "title": "People and Environmental Design",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM C10",
+              "title": "Environmental Issues",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM C11",
+              "title": "Americans and the Global Forest",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM 15",
+              "title": "Introduction to Environmental Sciences",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENVS 115",
+                "title": "Environmental Science",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM 50AC",
+              "title": "Introduction to Culture and Natural Resource Management",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ESPM 60",
+              "title": "Environmental Policy, Administration, and Law",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ETH STD 10AC",
+              "title": "A History of Race and Ethnicity in Western North America, 1598-Present",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ETH STD 21AC",
+              "title": "A Comparative Survey of Racial and Ethnic Groups in the U.S.",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ETH STD 41AC",
+              "title": "A Comparative Survey of Protest Movement Since the 60's",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 20",
+              "title": "Globalization",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 50AC",
+              "title": "California",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GEOG 70AC",
+              "title": "The Urban Experience",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GWS 14",
+              "title": "Gender, Sexuality, and Race in Global Political Issues",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GWS 20",
+              "title": "Introduction to Feminist Theory",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 7A",
+              "title": "The United States from Settlement to Civil War",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 201",
+                "title": "U.S. History through 1877",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HISTORY 7B",
+              "title": "The United States from Civil War to Present",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 202",
+                "title": "U.S. History from 1877 to the Present",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MEDIAST 10",
+              "title": "Introduction to Media Studies",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "NATAMST 20A",
+              "title": "Introduction to Native American Studies",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "NATAMST 20B",
+              "title": "Introduction to Native American Studies II: Cultural Practice, Art, and Identity",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "NATAMST 71",
+              "title": "Native Americans in North America to 1900",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "NATAMST 72",
+              "title": "Native Americans in North America 1900-Present",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 1",
+              "title": "Introduction to American Politics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 210",
+                "title": "American Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCIOL 1",
+              "title": "Introduction to Sociology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCIOL 5",
+              "title": "Evaluation of Evidence",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "UGBA 10X",
+              "title": "Foundations of Business",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BUS. 100",
+                "title": "Introduction to Business",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "major_title": "Physics, Quantum Information Science Concentration B.S.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "REQUIRED MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYS 5A",
+              "title": "Introduction to Physics I",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 250",
+                "title": "Physics with Calculus I",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYS 5B",
+              "title": "Introduction to Physics II",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 270",
+                "title": "Physics with Calculus III",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYS 5C",
+              "title": "Introduction to Physics III",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 260",
+                "title": "Physics with Calculus II",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 19A",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Analytical Geometry and Calculus I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 19B",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Analytical Geometry and Calculus II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 23A",
+              "title": "Vector Calculus",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Analytical Geometry and Calculus III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYS 5D",
+              "title": "Introduction to Physics IV",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 270",
+                "title": "Physics with Calculus III",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 23B",
+              "title": "Vector Calculus",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Analytical Geometry and Calculus III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYS 5L",
+              "title": "INTRODUCTION TO PHYSICS I LABORATORY",
+              "units": "1.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 250",
+                "title": "Physics with Calculus I",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYS 5M",
+              "title": "INTRODUCTION TO PHYSICS II LABORATORY",
+              "units": "1.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 270",
+                "title": "Physics with Calculus III",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYS 5N",
+              "title": "INTRODUCTION TO PHYSICS LABORATORY III",
+              "units": "1.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 260",
+                "title": "Physics with Calculus II",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "major_title": "Statistics and Data Science, B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Barbara",
+  "options": {
+    "PRE-MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,andG",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 3A",
+              "title": "Calculus with Applications, First Course",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,andG",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 3B",
+              "title": "Calculus with Applications, Second Course",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,andG",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 4A",
+              "title": "Linear Algebra with Applications",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,andG",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 4B",
+              "title": "Differential Equations",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 275",
+                "title": "Ordinary Differential Equations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "E",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,andG",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 6A",
+              "title": "Vector Calculus with Applications, First Course",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "F",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,andG",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 8",
+              "title": "Transition to Higher Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PSTAT 8",
+              "title": "Transition to Data Science, Probability and Statistics",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "G",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,D,E,F,andG",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PSTAT 10",
+              "title": "Principles of Data Science with R",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteAandB",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CMPSC 8",
+              "title": "Introduction to Computer Science",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 122",
+                "title": "Introduction to Programming: Python",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "CIS 274",
+                "title": "Introduction to Object-Oriented Programming: Java",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteAandB",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CMPSC 9",
+              "title": "Intermediate Python Programming",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CMPSC 16",
+              "title": "Problem Solving with Computers I",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 250",
+                "title": "Intro to Object-Oriented Programming: C++",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

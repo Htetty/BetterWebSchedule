@@ -1,0 +1,225 @@
+{
+  "major_title": "Music, B.A./B.Mus.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Irvine",
+  "options": {
+    "MUSIC (B.A./B.MUS.) CORE REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 40B",
+              "title": "History of European Music: From the Renaissance through the Baroque",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 40D",
+              "title": "Twentieth-Century Music",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 51",
+              "title": "Music Technology and Computers",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "MUSIC B.A. STUDENTS": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Select  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 4",
+              "title": "Introduction to Opera",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 8",
+              "title": "The Beatles and the Sixties",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 9",
+              "title": "Rock: The Early Years",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 41",
+              "title": "Major Composer",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 42",
+              "title": "Music and Gender",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 44",
+              "title": "Classical Music in Society",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 45",
+              "title": "History of Film Music",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 78",
+              "title": "History of Jazz",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MUS. 275",
+                "title": "History of Jazz",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 82A",
+              "title": "Pish Radif: Introduction to Classical Persian Music",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 82B",
+              "title": "Pish Radif: Introduction to Classical Persian Music",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 82C",
+              "title": "Pish Radif: Introduction to Classical Persian Music",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "MUSIC B.MUS. STUDENTS": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Select  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 41",
+              "title": "Major Composer",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 42",
+              "title": "Music and Gender",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 44",
+              "title": "Classical Music in Society",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 45",
+              "title": "History of Film Music",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MUSIC 78",
+              "title": "History of Jazz",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MUS. 275",
+                "title": "History of Jazz",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

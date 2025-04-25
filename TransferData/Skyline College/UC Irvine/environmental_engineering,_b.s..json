@@ -1,0 +1,683 @@
+{
+  "major_title": "Environmental Engineering, B.S.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Irvine",
+  "options": {
+    "MAJOR PREPARATION COURSES REQUIRED FOR TRANSFER": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 2A",
+              "title": "Single-Variable Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 2B",
+              "title": "Single-Variable Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 2D",
+              "title": "Multivariable Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 2E",
+              "title": "Multivariable Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 3A",
+              "title": "Introduction to Linear Algebra",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 270",
+                "title": "Linear Algebra",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 3D",
+              "title": "Elementary Differential Equations",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 275",
+                "title": "Ordinary Differential Equations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYSICS 7C",
+              "title": "Classical Physics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 250",
+                "title": "Physics with Calculus I",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYSICS 7D",
+              "title": "Classical Physics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 260",
+                "title": "Physics with Calculus II",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ENGR 1A",
+              "title": "General Chemistry for Engineers",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 220",
+                "title": "General Chemistry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHEM 1A",
+              "title": "General Chemistry",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 220",
+                "title": "General Chemistry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ENGRCEE 20",
+              "title": "Introduction to Computational Problem Solving",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 122",
+                "title": "Introduction to Programming: Python",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "CIS 250",
+                "title": "Introduction to Object-Oriented Programming: C++",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CIS 257",
+                "title": "Introduction to Microcontrollers with C/C++",
+                "units": "1.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ENGR 215",
+                "title": "Computational Methods for Engineers and Scientists",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "MAJOR PREPARATION COURSES NECESSARY TO GRADUATE IN TWO YEARS": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ENGRCEE 11",
+              "title": "Methods II: Probability and Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability & Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGR 30",
+              "title": "Statics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGR 230",
+                "title": "Statics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGRCEE 81A",
+              "title": "Civil Engineering Practicum I",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 51A",
+              "title": "Organic Chemistry",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 234",
+                "title": "Organic Chemistry I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 237",
+                "title": "Organic Chemistry Lab I",
+                "units": "2.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGRCEE 21",
+              "title": "Computational Problem Solving",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGRCEE 81B",
+              "title": "Civil Engineering Practicum II",
+              "units": "3.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGRMAE 91",
+              "title": "Introduction to Thermodynamics",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 20A",
+              "title": "Basic Economics I",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Microeconomics",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ENGRCEE 60",
+              "title": "Contemporary and Emerging Environmental Challenges",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "UPPP 8",
+              "title": "Introduction to Environmental Analysis and Design",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENVS 100",
+                "title": "Introduction to Environmental Science",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "BASIC SCIENCE COURSES": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ANTHRO 2B",
+              "title": "Introduction to Biological Anthropology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 125",
+                "title": "Biological Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "BIO SCI 93",
+              "title": "DNA to Organisms",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 230",
+                "title": "Introduction to Cell Biology: Core II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "BIO SCI 94",
+              "title": "Organisms to Ecosystems",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 215",
+                "title": "Organismal Biology: Core I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "BIO SCI 97",
+              "title": "Genetics",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "BIO SCI 98",
+              "title": "Biochemistry",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "BIO SCI 99",
+              "title": "Molecular Biology",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "EARTHSS 1",
+              "title": "Introduction to Earth System Science",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENVS 100",
+                "title": "Introduction to Environmental Science",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "GEOL 105",
+                "title": "Environmental Earth Science",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "EARTHSS 3",
+              "title": "Oceanography",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "OCEN 100",
+                "title": "Survey of Oceanography",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "EARTHSS 5",
+              "title": "The Atmosphere",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "GEOL 106",
+                "title": "Weather and Climate",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "EARTHSS 7",
+              "title": "Physical Geology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "GEOL 100",
+                "title": "Survey of Geology",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "GEOL 210",
+                "title": "General Geology",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "EARTHSS 15",
+              "title": "Introduction to Global Climate Change",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "EARTHSS 17",
+              "title": "Hurricanes, Tsunamis, and other Catastrophes",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "EARTHSS 19",
+              "title": "Introduction to Modeling the Earth System",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CBE 40A",
+              "title": "Chemical Processes and Material Balances",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "EECS 70A",
+              "title": "NETWORK ANALYSIS I",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGR 260",
+                "title": "Circuits and Devices",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGR 7A",
+              "title": "Introduction to Engineering I",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGR 7B",
+              "title": "Introduction to Engineering II",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGR 54",
+              "title": "Principles of Materials Science and Engineering",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGR 270",
+                "title": "Materials Science",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGRCEE 80",
+              "title": "Dynamics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGR 240",
+                "title": "Engineering Dynamics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

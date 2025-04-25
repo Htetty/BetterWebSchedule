@@ -1,0 +1,368 @@
+{
+  "major_title": "Clinical Nutrition B.S.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Davis",
+  "options": {
+    "BIOLOGICAL SCIENCE": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "BIS 002A",
+              "title": "Introduction to Biology: Essentials of Life on Earth",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 215",
+                "title": "Organismal Biology: Core I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "BIOL 230",
+                "title": "Introduction to Cell Biology: Core II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "CHEMISTRY": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHE 002A",
+              "title": "General Chemistry",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 220",
+                "title": "General Chemistry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHE 008A",
+              "title": "Organic Chemistry: Brief Course",
+              "units": "2.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 234",
+                "title": "Organic Chemistry I",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHE 008B",
+              "title": "Organic Chemistry: Brief Course",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 235",
+                "title": "Organic Chemistry II",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 237",
+                "title": "Organic Chemistry Lab I",
+                "units": "2.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 238",
+                "title": "Organic Chemistry Lab II",
+                "units": "2.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "WRITTEN & ORAL EXPRESSION": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CMN 001",
+              "title": "Introduction to Public Speaking",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "COMM 110",
+                "title": "Public Speaking",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ENL 003",
+              "title": "Introduction to Literature",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGL 110",
+                "title": "Composition, Literature, and Critical Thinking",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "UWP 001",
+              "title": "Introduction to Academic Literacies",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGL 100",
+                "title": "Reading and Composition",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ENGL 105",
+                "title": "Reading and Composition with Support",
+                "units": "5.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ENGL 165",
+                "title": "Composition, Argument and Critical Thinking",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "ECONOMICS": [
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECN 001A",
+              "title": "Principles of Microeconomics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Microeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECN 001B",
+              "title": "Principles of Macroeconomics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "PSYCHOLOGY": [
+      {
+        "label": "A",
+        "block_number": "6",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PSC 001",
+              "title": "General Psychology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PSYC 100",
+                "title": "General Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "SOCIAL SCIENCE": [
+      {
+        "label": "A",
+        "block_number": "7",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ANT 002",
+              "title": "Cultural Anthropology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 110",
+                "title": "Cultural Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOC 001",
+              "title": "Introduction to Sociology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOC 003",
+              "title": "Social Problems",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 105",
+                "title": "Social Problems",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "STATISTICS": [
+      {
+        "label": "A",
+        "block_number": "8",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "STA 013",
+              "title": "Elementary Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability & Statistics",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "PSYC 171",
+                "title": "Quantitative Reasoning in Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

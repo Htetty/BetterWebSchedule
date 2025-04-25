@@ -1,0 +1,328 @@
+{
+  "major_title": "Comparative Literature, B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Santa Barbara",
+  "options": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Completion of the sixth quarter or fourth semester (or equivalent) of a foreign language",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "C LIT 30A",
+              "title": "Major Works in European Literature",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 30B",
+              "title": "Major Works in European Literature",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 30C",
+              "title": "Major Works in European Literature",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 31",
+              "title": "Major Works of Asian Literatures",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 32",
+              "title": "Major Works of Middle Eastern Literatures",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 33",
+              "title": "Major Works of African Literatures",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 34",
+              "title": "Literature of the Americas",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 35",
+              "title": "The Making of the Modern World",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 36",
+              "title": "Global Humanities",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 50A",
+              "title": "Tales of Love in the Western Tradition",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 50B",
+              "title": "Tales of Love in the Western Tradition",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "C LIT 50C",
+              "title": "Tales of Love in the Western Tradition",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "RECOMMENDED BUT NOT REQUIRED": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "Recommended; Not required for the major",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6A",
+              "title": "Art Survey I: Ancient-Medieval Art",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 101",
+                "title": "Ancient, Classical and Medieval Art History",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6B",
+              "title": "Art Survey II: Renaissance-Baroque Art",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 102",
+                "title": "Late Medieval, Renaissance and Baroque Art History",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ARTHI 6C",
+              "title": "Art Survey III: Modern-Contemporary Art",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 103",
+                "title": "History of Art from the Baroque Period to Post-Impressionism",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 2A",
+              "title": "World History",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 104",
+                "title": "World History I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "HIST 106",
+                "title": "World History II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIST 4A",
+              "title": "The Ancient Mediterranean and West Asia",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "HIST 101",
+                "title": "History of Western Civilization II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 20A",
+              "title": "History of Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 160",
+                "title": "History of Philosophy: Ancient and Medieval",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 20B",
+              "title": "History of Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 160",
+                "title": "History of Philosophy: Ancient and Medieval",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHIL 175",
+                "title": "Modern Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHIL 20C",
+              "title": "History of Philosophy",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 175",
+                "title": "Modern Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 80A",
+              "title": "Religion and Western Civilization I: Ancient",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 80B",
+              "title": "Religion and Western Civilization II: Medieval",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 80C",
+              "title": "Religion and Western Civilization III: Modern",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

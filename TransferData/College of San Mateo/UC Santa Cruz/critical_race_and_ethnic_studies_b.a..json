@@ -1,0 +1,34 @@
+{
+  "major_title": "Critical Race and Ethnic Studies B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CRES 10",
+              "title": "Critical Race and Ethnic Studies: An Introduction",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ETHN 108",
+                "title": "Rethinking Race, Gender, and Nation",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

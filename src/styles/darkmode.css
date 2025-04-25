@@ -1,267 +1,267 @@
 html, body {
-  background-color: #1e1e1e !important;
-  color: #e0e0e0 !important;
-}
-
-#title-panel,
-#title-panel h1,
-#breadcrumb-panel,
-.banner-footer {
-  background-color: #1e1e1e !important;
-  color: #ffffff !important;
-}
-
-.body-content,
-.ui-layout-center,
-.inner-north,
-.ui-layout-pane,
-.ui-layout-pane-center,
-.ui-layout-container,
-.custom-css-class,
-#class-search-center-content,
-.search-inner {
-  background-color: #121212 !important;
-  color: #e0e0e0 !important;
-}
-
-#breadcrumb-panel {
-  border-bottom: 1px solid #333 !important;
-}
-
-
-table,
-thead,
-tbody,
-tr,
-th,
-td,
-colgroup,
-col,
-.grid-container,
-.grid-wrapper,
-.ui-widget,
-.courseSectionHeaders,
-.ui-widget-content {
-  background-color: #121212 !important;
-  color: #e0e0e0 !important;
-  border-color: #2a2a2a !important;
-  box-shadow: none !important;
-  outline: none !important;
-}
-
-* {
-  scrollbar-color: #555 #121212;
-  border-color: #2a2a2a !important;
-  outline-color: #2a2a2a !important;
-  box-shadow: none !important;
-}
-
-.profileCard {
-  background-color: #1e1e1e !important;
-  color: #e0e0e0 !important;
-  border-color: #2a2a2a !important;
-  box-shadow: none !important;
-  border-radius: 12px !important;
-}
-
-.profileCard *:not([style]) {
-  color: #e0e0e0 !important;
-}
-
-.selected h1 {
-  color: white;
-}
-
-#classDetailsContentDetailsDiv {
-  background-color: #121212 !important;
-  color: #e0e0e0 !important;
-}
-
-#feesLink_smccd p {
-  color: #121212 !important;
-}
-
-.accordion-title,
-.faculty-primary-indicator,
-.accordion-title + span {
-  color: #121212 !important;
-}
-
-.freeform.search-input {
-  color: #040404 !important; 
-}
-
-#classDetailsHeaders h3 {
-  background: #1e1e1e;
-}
-
-#classDetailsHeaders h3.selected {
-  background-color: #121212;
-}
-
-a:link,
-a:visited,
-a:hover {
-  color: white;
-}
-
-.ui-dialog .ui-dialog-buttonpane {
-  background: #1e1e1e;
-}
-
-#classDetailsContentDetailsDiv .meetingTimesContainer .meeting-faculty .accordion-trigger {
-  background: #1e1e1e !important;
-}
-
-.accordion-title, .faculty-primary-indicator, .accordion-title + span {
-  color: white !important;
-}
-
-span.accordion-title {
-  background: #121212 !important;
-}
-
-.ui-widget-content {
-    background: #121212 !important;
-    color: white;
+    background-color: #1e1e1e !important;
+    color: #e0e0e0 !important;
+  }
   
-}
-
-#feesLink_smccd p {
-  color: white !important;
-}
-
-#classDetailsHeaders a {
-  text-shadow: none !important;
-}
-
-
-#searchResultsTable *:not(li.ui-state-default):not(li.ui-state-default *) {
-  background-color: #121212 !important;
-  color: #e0e0e0 !important;
-  border-color: #2a2a2a !important;
-}
-
-#tabbuttons {
-  background: #121212 !important;
-  border: none !important;
-}
-
-.schedule-list-view-title {
-  background-color: #121212 !important;
-  color: white !important;
-}
-
-.ui-widget-header {
-  background-color: #1e1e1e !important;
-  color: white !important;
-}
-
-.button-bar-background {
-  background: none !important;
-}
-
-.findclasses-summary-title {
-  background: #1e1e1e !important;
-  color: white !important;
-}
-
-.ui-widget-footer {
-  background: #1e1e1e !important;
-  color: white !important;
-}
-
-.grid td {
-  border-left-color: #444444 !important;
-  border-top-color: #444444 !important;
-  border-bottom-color: #444444 !important;
-}
-
-.grid tr.add-row-hover td.readonly, .grid tr.add-row-hover td.add-row-selected, .grid tr.add-row-hover td.add-row-selected a {
-  background-color: #595959 !important;
-  border-color: #595959 !important;
-  color: #000000 !important;
-}
-
-
-.add-row-selected,
-.add-row-selected a:not(.select2-choice) {
-  border: none !important;
-  color: white !important;
-  background-color: #595959 !important;
-}
-
-.reg-status-success {
-  color: black !important;
-}
-
-.primary-curriculum .strong.inline-display {
-  color: #FF5733 !important;
-  font-weight: bold;
-}
-
-.primary-curriculum .inline-display {
-  color: #3498db !important; 
-}
-
-.primary-curriculum {
-  color: white !important;
-}
-
-h3.curriculum-header {
-  color: #FF5733 !important;
-}
-
-table.grid > thead > tr > th {
-  background-color: #1e1e1e !important; 
-  border: none !important;
-  border-bottom-color: #595959  !important;
-}
-
-.section-details-link {
-  color: white !important;
-}
-
-.reg-status-left .curriculum-header {
-  color: white !important;
-}
-
-.reg-status-info {
-  color: black !important;
-}
-
-.grid td.focus, .grid td.focus a {
-  background-color: #595959 !important;
-}
-
-.form-button {
-  background: #1e1e1e !important;
-  color: white !important;
-  border: none !important;
-}
-
-.vertical-form select {
-  color: black !important;
-}
-
-#createPlan {
-  background: #1e1e1e !important;
-  text-shadow: none !important;
-}
-
-.plan-title {
-  color: black !important;
-}
-
-.meetingTimes {
-  background-color: #1e1e1e !important;
-  color: white !important;
-}
-
-.gray-background {
-  background-color: #1e1e1e !important;
-}
-
-.list-view-crn-schedule, .list-view-subj-course-section {
-  color: white !important;
-}
+  #title-panel,
+  #title-panel h1,
+  #breadcrumb-panel,
+  .banner-footer {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+  }
+  
+  .body-content,
+  .ui-layout-center,
+  .inner-north,
+  .ui-layout-pane,
+  .ui-layout-pane-center,
+  .ui-layout-container,
+  .custom-css-class,
+  #class-search-center-content,
+  .search-inner {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+  }
+  
+  #breadcrumb-panel {
+    border-bottom: 1px solid #333 !important;
+  }
+  
+  
+  table,
+  thead,
+  tbody,
+  tr,
+  th,
+  td,
+  colgroup,
+  col,
+  .grid-container,
+  .grid-wrapper,
+  .ui-widget,
+  .courseSectionHeaders,
+  .ui-widget-content {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+    border-color: #2a2a2a !important;
+    box-shadow: none !important;
+    outline: none !important;
+  }
+  
+  * {
+    scrollbar-color: #555 #121212;
+    border-color: #2a2a2a !important;
+    outline-color: #2a2a2a !important;
+    box-shadow: none !important;
+  }
+  
+  .profileCard {
+    background-color: #1e1e1e !important;
+    color: #e0e0e0 !important;
+    border-color: #2a2a2a !important;
+    box-shadow: none !important;
+    border-radius: 12px !important;
+  }
+  
+  .profileCard *:not([style]) {
+    color: #e0e0e0 !important;
+  }
+  
+  .selected h1 {
+    color: white;
+  }
+  
+  #classDetailsContentDetailsDiv {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+  }
+  
+  #feesLink_smccd p {
+    color: #121212 !important;
+  }
+  
+  .accordion-title,
+  .faculty-primary-indicator,
+  .accordion-title + span {
+    color: #121212 !important;
+  }
+  
+  .freeform.search-input {
+    color: #040404 !important; 
+  }
+  
+  #classDetailsHeaders h3 {
+    background: #1e1e1e;
+  }
+  
+  #classDetailsHeaders h3.selected {
+    background-color: #121212;
+  }
+  
+  a:link,
+  a:visited,
+  a:hover {
+    color: white;
+  }
+  
+  .ui-dialog .ui-dialog-buttonpane {
+    background: #1e1e1e;
+  }
+  
+  #classDetailsContentDetailsDiv .meetingTimesContainer .meeting-faculty .accordion-trigger {
+    background: #1e1e1e !important;
+  }
+  
+  .accordion-title, .faculty-primary-indicator, .accordion-title + span {
+    color: white !important;
+  }
+  
+  span.accordion-title {
+    background: #121212 !important;
+  }
+  
+  .ui-widget-content {
+      background: #121212 !important;
+      color: white;
+    
+  }
+  
+  #feesLink_smccd p {
+    color: white !important;
+  }
+  
+  #classDetailsHeaders a {
+    text-shadow: none !important;
+  }
+  
+  
+  #searchResultsTable *:not(li.ui-state-default):not(li.ui-state-default *) {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+    border-color: #2a2a2a !important;
+  }
+  
+  #tabbuttons {
+    background: #121212 !important;
+    border: none !important;
+  }
+  
+  .schedule-list-view-title {
+    background-color: #121212 !important;
+    color: white !important;
+  }
+  
+  .ui-widget-header {
+    background-color: #1e1e1e !important;
+    color: white !important;
+  }
+  
+  .button-bar-background {
+    background: none !important;
+  }
+  
+  .findclasses-summary-title {
+    background: #1e1e1e !important;
+    color: white !important;
+  }
+  
+  .ui-widget-footer {
+    background: #1e1e1e !important;
+    color: white !important;
+  }
+  
+  .grid td {
+    border-left-color: #444444 !important;
+    border-top-color: #444444 !important;
+    border-bottom-color: #444444 !important;
+  }
+  
+  .grid tr.add-row-hover td.readonly, .grid tr.add-row-hover td.add-row-selected, .grid tr.add-row-hover td.add-row-selected a {
+    background-color: #595959 !important;
+    border-color: #595959 !important;
+    color: #000000 !important;
+  }
+  
+  
+  .add-row-selected,
+  .add-row-selected a:not(.select2-choice) {
+    border: none !important;
+    color: white !important;
+    background-color: #595959 !important;
+  }
+  
+  .reg-status-success {
+    color: black !important;
+  }
+  
+  .primary-curriculum .strong.inline-display {
+    color: #FF5733 !important;
+    font-weight: bold;
+  }
+  
+  .primary-curriculum .inline-display {
+    color: #3498db !important; 
+  }
+  
+  .primary-curriculum {
+    color: white !important;
+  }
+  
+  h3.curriculum-header {
+    color: #FF5733 !important;
+  }
+  
+  table.grid > thead > tr > th {
+    background-color: #1e1e1e !important; 
+    border: none !important;
+    border-bottom-color: #595959  !important;
+  }
+  
+  .section-details-link {
+    color: white !important;
+  }
+  
+  .reg-status-left .curriculum-header {
+    color: white !important;
+  }
+  
+  .reg-status-info {
+    color: black !important;
+  }
+  
+  .grid td.focus, .grid td.focus a {
+    background-color: #595959 !important;
+  }
+  
+  .form-button {
+    background: #1e1e1e !important;
+    color: white !important;
+    border: none !important;
+  }
+  
+  .vertical-form select {
+    color: black !important;
+  }
+  
+  #createPlan {
+    background: #1e1e1e !important;
+    text-shadow: none !important;
+  }
+  
+  .plan-title {
+    color: black !important;
+  }
+  
+  .meetingTimes {
+    background-color: #1e1e1e !important;
+    color: white !important;
+  }
+  
+  .gray-background {
+    background-color: #1e1e1e !important;
+  }
+  
+  .list-view-crn-schedule, .list-view-subj-course-section {
+    color: white !important;
+  }

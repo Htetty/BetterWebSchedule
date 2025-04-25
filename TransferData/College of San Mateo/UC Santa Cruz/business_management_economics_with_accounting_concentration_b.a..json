@@ -1,0 +1,517 @@
+{
+  "major_title": "Business Management Economics with Accounting Concentration B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "REQUIRED MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECON 1",
+              "title": "Introductory Microeconomics: Resource Allocation and Market Structure",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Microeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 2",
+              "title": "Introductory Macroeconomics: Aggregate Economic Activity",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macroeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AM 11A",
+              "title": "Mathematical Methods for Economists I",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 241",
+                "title": "Applied Calculus I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "MATH 242",
+                "title": "Applied Calculus II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 11A",
+              "title": "Calculus with Applications",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 241",
+                "title": "Applied Calculus I",
+                "units": "5.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 19A",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete the following",
+        "attribute": "Highly recommended",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ECON 10A",
+              "title": "Economics of Accounting",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ACTG 121",
+                "title": "Financial Accounting",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECON 10B",
+              "title": "Economics of Accounting",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ACTG 131",
+                "title": "Managerial Accounting",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "CompleteA,B,C,orD",
+        "attribute": "Highly recommended",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AM 11B",
+              "title": "Mathematical Methods for Economists II",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 241",
+                "title": "Applied Calculus I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "MATH 242",
+                "title": "Applied Calculus II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "3",
+        "instructions": "CompleteA,B,C,orD",
+        "attribute": "Highly recommended",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 11B",
+              "title": "Calculus with Applications",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 242",
+                "title": "Applied Calculus II",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 22",
+              "title": "Introduction to Calculus of Several Variables",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "3",
+        "instructions": "CompleteA,B,C,orD",
+        "attribute": "Highly recommended",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 19B",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 23A",
+              "title": "Vector Calculus",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "3",
+        "instructions": "CompleteA,B,C,orD",
+        "attribute": "Highly recommended",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 19B",
+              "title": "Calculus for Science, Engineering, and Mathematics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AM 30",
+              "title": "Multivariate Calculus for Engineers",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 253",
+                "title": "Calculus with Analytic Geometry III",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "CompleteAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "STAT 17",
+              "title": "Statistical Methods for Business and Economics",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BUS. 123",
+                "title": "Business Statistics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STAT 17L",
+              "title": "Statistical Methods for Business and Economics Laboratory",
+              "units": "2.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "4",
+        "instructions": "CompleteAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CSE 5J",
+              "title": "Introduction to Programming in Java",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 254",
+                "title": "Introduction to Object-Oriented Program Design",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 10",
+              "title": "Introduction to Computer Science",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 12",
+              "title": "Computer Systems and Assembly Language and Lab",
+              "units": "7.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 264",
+                "title": "Computer Organization and Systems Programming",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 13S",
+              "title": "Computer Systems and C Programming",
+              "units": "7.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 278",
+                "title": "(CS1) Programming Methods: C++",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 20",
+              "title": "Beginning Programming in Python",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 117",
+                "title": "Python Programming",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 30",
+              "title": "Programming Abstractions: Python",
+              "units": "7.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 256",
+                "title": "(CS2) Data Structures: Java",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "CIS 279",
+                "title": "(CS2) Data Structures: C ++",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "CIS 501",
+                "title": "(CS2) Data Structures: Python",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "CIS 502",
+                "title": "Applied Python Programming",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CSE 80N",
+              "title": "Introduction to Networking and the Internet",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 151",
+                "title": "Computer Networking",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ECE 13",
+              "title": "Computer Systems and C Programming",
+              "units": "7.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "TIM 50",
+              "title": "Business Information Systems",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "TIM 58",
+              "title": "Systems Analysis and Design",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

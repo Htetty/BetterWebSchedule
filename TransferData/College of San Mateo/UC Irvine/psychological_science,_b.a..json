@@ -1,0 +1,192 @@
+{
+  "major_title": "Psychological Science, B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Irvine",
+  "options": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PSCI 11A",
+              "title": "Psychology Fundamentals",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PSYC 100",
+                "title": "General Psychology",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PSYC 220",
+                "title": "Introduction to Psychobiology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PSCI 11B",
+              "title": "Psychology Fundamentals",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PSCI 11C",
+              "title": "Psychology Fundamentals",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PSYC 100",
+                "title": "General Psychology",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PSYC 300",
+                "title": "Social Psychology",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "PSYC 410",
+                "title": "Abnormal Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CRM/LAW C7",
+              "title": "Introduction to Criminology, Law and Society",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ADMJ 100",
+                "title": "Introduction to the Criminal Justice System",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCECOL 10",
+              "title": "Research Design",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PSYC 120",
+                "title": "Introduction to Research Methods",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCECOL 13",
+              "title": "Statistical Analysis in Social Ecology",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "PSYC 121",
+                "title": "Basic Statistical Concepts",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "UPPP 8",
+              "title": "Introduction to Environmental Analysis and Design",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 102",
+                "title": "Environmental Science and Conservation",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "UPPP 4",
+              "title": "Introduction to Urban Studies",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "2",
+        "instructions": "CompleteA,B,orC",
+        "attribute": "",
+        "group_type": "OR",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "UPPP 5",
+              "title": "Introduction to Urban Planning and Policy",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

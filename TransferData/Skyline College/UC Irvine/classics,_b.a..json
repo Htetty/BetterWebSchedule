@@ -1,0 +1,374 @@
+{
+  "major_title": "Classics, B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Irvine",
+  "options": {
+    "CLASSICAL CIVILIZATION EMPHASIS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete  1 series fromA,B,orC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CLASSIC 36A",
+              "title": "The Formation of Ancient Greek Society: Early Greece",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "Complete  1 series fromA,B,orC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CLASSIC 37A",
+              "title": "The Formation of Ancient Roman Society: Origins to Roman Republic",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "Complete  1 series fromA,B,orC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CLASSIC 45A",
+              "title": "Classical Mythology: The Gods",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  1 series fromAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "GREEK 1A",
+              "title": "Fundamentals of Greek",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "Complete  1 series fromAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "LATIN 1A",
+              "title": "Fundamentals of Latin",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "LANGUAGE OTHER THAN ENGLISH": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Course work equivalent to sixth quarter (fourth semester) of study in a single language other than English (at the college level)",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 140",
+                "title": "Advanced Intermediate Spanish",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "LOWER-DIVISION WRITING": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "LOWER-DIVISION WRITING",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGL 100",
+                "title": "Reading and Composition",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ENGL 105",
+                "title": "Reading and Composition with Support",
+                "units": "5.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ENGL 110",
+                "title": "Composition, Literature, and Critical Thinking",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ENGL 165",
+                "title": "Composition, Argument and Critical Thinking",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "ENGLISH LITERATURE": [
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "LITERATURE",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "LIT. 155",
+                "title": "Comics and the Graphic Novel",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 201",
+                "title": "American Literature I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 202",
+                "title": "American Literature II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 231",
+                "title": "Survey of British Literature I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 232",
+                "title": "Survey of British Literature II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 266",
+                "title": "Black Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 370",
+                "title": "Readings in Literature of the Latino in the United States",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "HISTORY": [
+      {
+        "label": "A",
+        "block_number": "6",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "HISTORY",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 101",
+                "title": "History of Western Civilization II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 104",
+                "title": "World Civilizations I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 106",
+                "title": "World Civilizations II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 201",
+                "title": "United States History I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 202",
+                "title": "United States History II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 203",
+                "title": "The United States Since 1945",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 420",
+                "title": "Survey of Latin American History",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 432",
+                "title": "Modern Asian Civilizations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "PHILOSOPHY": [
+      {
+        "label": "A",
+        "block_number": "7",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "PHILOSOPHY",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 100",
+                "title": "Introduction to Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 160",
+                "title": "History of Ancient Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 240",
+                "title": "Introduction to Ethics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 312",
+                "title": "Introduction to Philosophy of Religion",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "HUMANITIES CORE": [
+      {
+        "label": "A",
+        "block_number": "8",
+        "instructions": "",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HUMAN 1A",
+              "title": "Humanities Core Lecture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

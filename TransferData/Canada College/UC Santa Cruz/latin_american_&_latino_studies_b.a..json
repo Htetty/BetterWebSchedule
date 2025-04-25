@@ -1,0 +1,136 @@
+{
+  "major_title": "Latin American & Latino Studies B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete up to 2 courses fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "LALS 1",
+              "title": "Introduction to Latin American and Latino Studies",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "LALS 5",
+              "title": "Introduction to Human Rights and Social Justice",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "LALS 10",
+              "title": "Introduction to Chicanx & Latinx Studies",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "Complete up to 2 courses fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Lower-division Latin American and Latino Studies electives",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "DANC 115.1",
+                "title": "Mexican Folkloric Dance I",
+                "units": "1.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "DANC 115.2",
+                "title": "Mexican Folkloric Dance II",
+                "units": "1.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "DANC 115.3",
+                "title": "Mexican Folkloric Dance III",
+                "units": "1.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "DANC 115.4",
+                "title": "Mexican Folkloric Dance IV",
+                "units": "1.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "DRAM 160",
+                "title": "Latin America Theatre",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 246",
+                "title": "History of Latinos in the US",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 422",
+                "title": "Modern Latin America",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 371",
+                "title": "Mexican-American Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 372",
+                "title": "Myth and Folklore of La Raza",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 373",
+                "title": "Latin American Literature in Translation",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "MUS. 240",
+                "title": "Music of the Americas",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SPAN 162",
+                "title": "Latino Literature II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "major_title": "Asian American Studies, B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Barbara",
+  "options": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AS AM 1",
+              "title": "Introduction to Asian American History, 1850-Present",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ETHN 140",
+                "title": "Introduction to Asian and Pacific Islander American Studies",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Select  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AS AM 4",
+              "title": "Introduction to Asian American Popular Culture",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AS AM 5",
+              "title": "Introduction to Asian American Literature",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "LIT. 265",
+                "title": "Asian American Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AS AM 71",
+              "title": "Introduction to Asian American Religions",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AS AM 79",
+              "title": "Introduction to Dramatic Writing",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "RG ST 71",
+              "title": "Introduction to Asian American Religions",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Select  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "AS AM 2",
+              "title": "American Migration Since 1965: Asians and Others in the United States",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AS AM 8",
+              "title": "Introduction to Asian American Gender and Sexuality",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "AS AM 9",
+              "title": "Race and Resistance: Asian American, Black, Chicana/o and Indigenous Freedom Struggles",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

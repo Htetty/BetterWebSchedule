@@ -1,0 +1,132 @@
+{
+  "major_title": "Informatics, B.S.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Irvine",
+  "options": {
+    "MAJOR PREPARATION COURSES REQUIRED FOR TRANSFER": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "I&C SCI 31",
+              "title": "Introduction to Programming",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 250",
+                "title": "Introduction to Object Oriented Programming: C++",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CIS 252",
+                "title": "Introduction to Data Structures: C++",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "I&C SCI 6B",
+              "title": "Boolean Logic and Discrete Structures",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 262",
+                "title": "Discrete Mathematics for Computer Science",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STATS 7",
+              "title": "Basic Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STATS 67",
+              "title": "Introduction to Probability and Statistics for Computer Science",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "ADDITIONAL APPROVED COURSES FOR THE MAJOR": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "I&C SCI 45J",
+              "title": "Programming in Java as a Second Language",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CIS 284",
+                "title": "Introduction to Object Oriented Programming-Java",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CIS 286",
+                "title": "Introduction to Data Structures-Java",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "IN4MATX 43",
+              "title": "Introduction to Software Engineering",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "major_title": "East Asian Humanities, B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "LOWER DIVISION REQUIRED COURSES": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete  2 courses from any 2 of the following areas",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "BUDDSTD C50",
+              "title": "Introduction to the Study of Buddhism",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHINESE 7A",
+              "title": "Introduction to Premodern Chinese Literature and Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHINESE 7B",
+              "title": "Introduction to Modern Chinese Literature and Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "JAPAN 7A",
+              "title": "Introduction to Premodern Japanese Literature and Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "JAPAN 7B",
+              "title": "Introduction to Modern Japanese Literature and Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "KOREAN 7A",
+              "title": "Introduction to Pre-Modern Korean Literature and Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "KOREAN 7B",
+              "title": "Introduction to Modern Korean Literature and Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

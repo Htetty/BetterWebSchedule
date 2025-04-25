@@ -1,0 +1,105 @@
+{
+  "major_title": "Sociology, Global Information and Social Enterprise Studies Concentration B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "MAJOR PREPARATION COURSES REQUIRED FOR TRANSFER": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SOCY 1",
+              "title": "Introduction to Sociology",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCY 10",
+              "title": "Issues and Problems in American Society",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SOCI 105",
+                "title": "Social Problems",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "STRONGLY RECOMMENDED ADVANCED PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SOCY 3A",
+              "title": "The Evaluation of Evidence",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PSYC 120",
+                "title": "Introduction to Research Methods",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "SOCI 121",
+                "title": "Introduction to Research Methods",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SOCY 3B",
+              "title": "Statistical Methods",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "PSYC 121",
+                "title": "Basic Statistical Concepts",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

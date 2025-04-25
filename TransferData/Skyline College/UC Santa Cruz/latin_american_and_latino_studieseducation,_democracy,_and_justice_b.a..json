@@ -1,0 +1,70 @@
+{
+  "major_title": "Latin American and Latino Studies/Education, Democracy, and Justice B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete up to 2 courses fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "EDUC 60",
+              "title": "Schooling, Democracy, and Justice",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "Complete up to 2 courses fromAandB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "LALS 1",
+              "title": "Introduction to Latin American and Latino Studies",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "LALS 5",
+              "title": "Introduction to Human Rights and Social Justice",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "LALS 10",
+              "title": "Introduction to Chicanx & Latinx Studies",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ETHN 130",
+                "title": "Introduction to Latina/o/x Studies",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "major_title": "Korean Literature and Culture, B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Irvine",
+  "options": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "KOREAN 1C",
+              "title": "Fundamentals of Korean",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "KOREAN 2C",
+              "title": "Intermediate Korean",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "EAS 15K",
+              "title": "Introductory Topics in Korean Literature",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Additional courses in Korean literature, culture, history, art history, linguistics, film & media, religion, philosophy, gender studies, or comparative literature",
+              "units": ""
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "LOWER-DIVISION WRITING": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "LOWER-DIVISION WRITING",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGL 100",
+                "title": "Reading and Composition",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ENGL 105",
+                "title": "Reading and Composition with Support",
+                "units": "5.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ENGL 110",
+                "title": "Composition, Literature and Critical Thinking",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ENGL 165",
+                "title": "Advanced Composition",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 312",
+                "title": "Introduction to Philosophy of Religion",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "ENGLISH LITERATURE": [
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "LITERATURE",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "LIT. 151",
+                "title": "Introduction to Shakespeare I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 200",
+                "title": "American Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 231",
+                "title": "Survey of English Literature I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 232",
+                "title": "Survey of English Literature II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "HISTORY": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "HISTORY",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 101",
+                "title": "History of Western Civilization II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 201",
+                "title": "U.S. History through 1877",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 202",
+                "title": "U.S. History from 1877 to the Present",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 422",
+                "title": "Modern Latin America",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "PHILOSOPHY": [
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "PHILOSOPHY",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 100",
+                "title": "Introduction to Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 160",
+                "title": "History of Philosophy: Ancient and Medieval",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 190",
+                "title": "Contemporary Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 240",
+                "title": "Introduction to Ethics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "HUMANITIES CORE": [
+      {
+        "label": "A",
+        "block_number": "6",
+        "instructions": "",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HUMAN 1A",
+              "title": "Humanities Core Lecture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

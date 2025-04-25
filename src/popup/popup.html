@@ -3,52 +3,81 @@
 <head>
   <title>BetterWebSchedule</title>
   <link rel="stylesheet" href="popup.css" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body>
   <div class="popup-wrapper">
+    <!-- HEADER -->
     <div class="popup-header">
       <div class="popup-header-row">
-        <img src="iconpopup400.png" alt="Calendar Icon" class="popup-icon">
+        <img src="popupicon/logo.png" alt="Calendar Icon" class="popup-icon">
         <div class="popup-title-container">
           <h1>BetterWebSchedule</h1>
           <p class="subtitle">Enhance Your WebSchedule Experience</p>
         </div>
+        <button id="settingsBtn" class="settings-button"><img src="popupicon/settingicon.png" alt="Settings"></button>
+        <button id="mapBtn" class="map-button"><img src="popupicon/mapicon.png" alt="Map"></button>
+        <button id="calendarBtn" class="calendar-button"><img src="popupicon/calendar-icon.png" alt="Calendar"></button>
       </div>
       <button id="webschedule">Go To WebSchedule</button>
     </div>
 
-    <div class="popup-section">
-      <h2>Features</h2>
-      <label class="switch-label">
-        <span>Toggle night theme</span>
-        <input type="checkbox" id="darkToggle">
-        <span class="slider"></span>
-      </label>
-      <label class="switch-label">
-        <span>Highlight course blocks by time</span>
-        <input type="checkbox" id="colorBlockToggle">
-        <span class="slider"></span>
-      </label>
+    <div class="chat-container">
+      <div class="chat-box" id="chatBox">
+        <div class="welcome-screen" id="welcome-screen">
+          <h1>BetterWebSchedule AI Assistant</h1>
+          <p>Ask the AI Assistant anything about articulation and your schedule. Pick a mode first!;</p>
+        </div>
+      </div>
+
+      <form class="chat-input-area" id="chatForm">
+        <div class="input-with-buttons">
+          <input type="text" id="chatInput" placeholder="Select a mode first!" autocomplete="off" readonly/>
+          
+          <button type="button" id="refreshButton" aria-label="Refresh">
+            <i class="material-icons refresh-icon">refresh</i>
+          </button>
+      
+          <button type="submit" id="sendButton" aria-label="Send">
+            <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24"
+                 stroke-linecap="round" stroke-linejoin="round"
+                 height="20" width="20" xmlns="http://www.w3.org/2000/svg" class="send-icon">
+              <line x1="22" y1="2" x2="11" y2="13"></line>
+              <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+            </svg>
+          </button>
+        </div>
+      </form>
+      
     </div>
 
-    <div class="popup-section">
-      <h2>Export Schedule</h2>
-      <button id="exportIcsButton">Export (.ics)</button>
-      <p class="icsNote"> Can be used for <span class="tooltip">Apple<span class="tooltiptext">double click on the downloaded file</span></span> Calendar and 
-        <a href="https://support.google.com/calendar/answer/37118?hl=en&co=GENIE.Platform%3DDesktop" target="_blank">Google</a> 
-        Calendar
-      </p>    
+    <!-- SETTINGS MODAL -->
+    <div id="settingsIcon" class="modal hidden">
+      <div class="modal-content">
+        <h2>Settings</h2>
+        <label class="switch-label">
+          <span>Toggle night theme</span>
+          <input type="checkbox" id="darkToggle">
+          <span class="slider"></span>
+        </label>
+        <label class="switch-label">
+          <span>Highlight course blocks by time</span>
+          <input type="checkbox" id="colorBlockToggle">
+          <span class="slider"></span>
+        </label>
+        <button id="closeSettings" class="modern-close-btn">Close</button>
+        <div class="popup-footer" style="margin-top: 24px;">
+          <p class="note">This extension is not affiliated with SMCCD</p>
+        </div>
+      </div>
     </div>
-    
 
-    <div class="popup-section">
-      <h2 id="status">Hope you enjoy!</h2>
+    <div id="fullscreenMap" class="hidden">
+      <button id="closeMapBtn">Close Map</button>
+      <iframe id="map" src="" frameborder="0"></iframe>
     </div>
 
-    <div class="popup-footer">
-      <p class="note">This extension is not affiliated with SMCCD</p>
-    </div>
-  </div>
+  <!-- JS SCRIPTS -->
   <script src="popup.js"></script>
 </body>
 </html>

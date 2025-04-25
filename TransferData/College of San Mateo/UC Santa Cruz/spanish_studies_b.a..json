@@ -1,0 +1,116 @@
+{
+  "major_title": "Spanish Studies B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPAN 1",
+              "title": "First-Year Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 110",
+                "title": "Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "SPAN 120",
+                "title": "Advanced Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPAN 2",
+              "title": "First-Year Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 110",
+                "title": "Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "SPAN 120",
+                "title": "Advanced Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "LING 50",
+              "title": "Introduction to Linguistics",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "CompleteA,B,andC",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "HIS 11A",
+              "title": "Latin America: Colonial Period",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIS 11B",
+              "title": "Latin America: National Period",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "HIS 12",
+              "title": "Introduction to Latino American History",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

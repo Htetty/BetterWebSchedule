@@ -1,0 +1,40 @@
+{
+  "major_title": "Anthropology B.A. with Concentration in Biological Anthropology",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, San Diego",
+  "options": {
+    "RECOMMENDED BUT NOT REQUIRED": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ANTH 2",
+              "title": "Human Origins",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 125",
+                "title": "Biological Anthropology",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "ANTH 127",
+                "title": "Biological Anthropology Laboratory",
+                "units": "1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

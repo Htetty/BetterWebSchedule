@@ -1,0 +1,34 @@
+{
+  "major_title": "Anthropology B.A. with Concentration in Sociocultural Anthropology",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, San Diego",
+  "options": {
+    "RECOMMENDED BUT NOT REQUIRED": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ANTH 1",
+              "title": "Introduction to Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 110",
+                "title": "Cultural Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

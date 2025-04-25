@@ -1,21 +1,55 @@
+/* === RESET STYLES === */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; 
+}
+
 body {
   font-family: 'Segoe UI', sans-serif;
   background-color: #ffffff;
-  padding: 0;
   margin: 0;
-  width: 320px;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none; 
 }
 
+/* === LAYOUT WRAPPERS === */
 .popup-wrapper {
   display: flex;
   flex-direction: column;
+  height: 100vh;          
+  width: 100vw;       
   background-color: #f9f9f9;
   overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  box-shadow: none;    
 }
 
+.popup-section {
+  background-color: #ffffff;
+  padding: 16px;
+}
+
+.popup-footer {
+  margin-top: auto;
+  padding: 12px;
+  text-align: center;
+  font-size: 11px;
+  color: #777;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.icsNote {
+  font-size: 11px;
+  text-align: center;
+  color: #777;
+}
+
+/* === HEADER === */
 .popup-header {
-  background: linear-gradient(135deg, #5B9279, #6E89A1, #6F3B36);
+  background: #1e1e2e;
   color: white;
   padding: 16px;
   display: flex;
@@ -38,37 +72,124 @@ body {
 .popup-header-row h1 {
   font-size: 22px;
   margin: 0;
-  font-family: 'Segoe UI', sans-serif; 
 }
 
 .popup-icon {
   width: 50px;
   height: 50px;
+  align-self: flex-start;
+  margin-top: -4px; 
 }
 
-.subtitle {
-  font-size: 12px;
-  margin: 2px 0 0;
-  color: #f3f3f3;
-  font-family: 'Segoe UI', sans-serif;
-  opacity: 0.95;
+#webschedule {
+  background: #FFD700;
+  color: #002F65;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
-.popup-section {
-  background-color: #ffffff;
-  padding: 16px;
+#webschedule:hover {
+  background-color: #FFC300;
 }
 
-.popup-section h2 {
-  margin-bottom: 12px;
-  color: #5B9279;
+/* === SETTINGS AND MAP BUTTON === */
+.settings-button,
+.map-button,
+.calendar-button {
+  position: absolute;
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.settings-button:hover,
+.map-button:hover,
+.calendar-button:hover {
+  transform: scale(1.15);
+  filter: brightness(1.2);
+}
+
+.settings-button {
+  top: 16px;
+  right: 16px;
+}
+
+.map-button {
+  top: 50px;
+  right: 16px;
+}
+
+.calendar-button {
+  top: 84px;
+  right: 16px;
+}
+
+.settings-button img,
+.map-button img,
+.calendar-button img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+
+/* === MODAL STYLES === */
+.modal {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  background-color: rgba(255, 255, 255, 0.1);
+  z-index: 999;
+}
+
+.modal-content {
+  border-radius: 12px;
+  padding: 24px;
+  max-width: 90%;
+  width: 320px;
+}
+
+.modal.hidden {
+  display: none;
+}
+
+/* === CLOSE BUTTON === */
+.modern-close-btn {
+  background-color: #002F65;
+  color: white;
   font-weight: 600;
-  text-decoration: none;
-  font-family: 'Segoe UI', sans-serif; 
+  border: none;
+  border-radius: 8px;
+  padding: 10px 18px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4px);
 }
 
+.modern-close-btn:hover {
+  background-color: #0055B8;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+.modern-close-btn:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+/* === SWITCH TOGGLES === */
 .switch-label {
-  font-family: 'Segoe UI', sans-serif; 
   font-size: 15px;
   font-weight: 700;
   display: flex;
@@ -105,220 +226,258 @@ input[type="checkbox"] {
 }
 
 input[type="checkbox"]:checked + .slider {
-  background-color: #5B9279;
+  background-color: #002F65;
 }
 
 input[type="checkbox"]:checked + .slider::before {
   transform: translateX(24px);
 }
 
-.popup-footer, .icsNote {
-  font-size: 11px;
-  text-align: center;
-  color: #777;
-  font-family: 'Segoe UI', sans-serif; 
-}
+/* === CHAT UI === */
+/*
+    < class="chat-container" id="chatSection">
+      <div class="chat-header">How can we help?</div>
+      <div class="mode-buttons">
+        <button class="mode-btn" data-mode="articulation">Articulation Questions</button>
+        <button class="mode-btn" data-mode="professor">Professor Questions</button>
+      </div>
+  */
 
-#exportIcsButton {
-  appearance: button;
-  background-color: #47735f;
-  border: solid transparent;
-  border-radius: 12px;
-  border-width: 0 0 4px;
-  box-sizing: border-box;
-  color: #FFFFFF;
-  cursor: pointer;
-  display: inline-block;
-  font-family: 'Segoe UI', sans-serif; 
-  font-size: 15px;
-  font-weight: 700;
-  letter-spacing: .8px;
-  line-height: 20px;
-  margin: 0;
-  outline: none;
-  overflow: visible;
-  padding: 13px 16px;
-  text-align: center;
-  text-transform: uppercase;
-  touch-action: manipulation;
-  transform: translateZ(0);
-  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s;
-  user-select: none;
-  -webkit-user-select: none;
-  vertical-align: middle;
-  white-space: nowrap;
-  width: 100%;
-  position: relative;
-}
-
-#exportIcsButton:after {
-  background-clip: padding-box;
-  background-color: #5B9279;
-  border: solid transparent;
-  border-radius: 12px;
-  border-width: 0 0 4px;
-  bottom: -4px;
-  content: "";
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
-  z-index: -1;
-}
-
-#exportIcsButton,
-#exportIcsButton:focus {
-  user-select: auto;
-}
-
-#exportIcsButton:hover:not(:disabled) {
-  filter: brightness(1.1);
-  -webkit-filter: brightness(1.1);
-  transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
-}
-
-#exportIcsButton:disabled {
-  cursor: auto;
-}
-
-#exportIcsButton:active {
-  border-width: 4px 0 0;
-  background: none;
-  transform: translateY(0); 
-  box-shadow: none;
-}
-
-#webschedule {
-  appearance: button;
-  background-color: #47735f;
-  border: solid transparent;
-  border-radius: 12px;
-  border-width: 0 0 3px;
-  box-sizing: border-box;
-  color: #FFFFFF;
-  cursor: pointer;
-  display: inline-block;
-  font-family: 'Segoe UI', sans-serif; 
-  font-size: 13px; 
-  font-weight: 700;
-  letter-spacing: .6px;
-  line-height: 16px;
-  margin-top: 16px;
-  outline: none;
-  overflow: visible;
-  padding: 8px 12px; 
-  text-align: left;
-  text-transform: uppercase;
-  touch-action: manipulation;
-  transform: translateZ(0);
-  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s;
-  user-select: none;
-  -webkit-user-select: none;
-  vertical-align: middle;
-  white-space: nowrap;
-  width: auto; 
-  position: relative;
-}
-
-#webschedule:after {
-  background-clip: padding-box;
-  background-color: #5B9279;
-  border: solid transparent;
-  border-radius: 12px;
-  border-width: 0 0 3px;
-  bottom: -3px;
-  content: "";
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
-  z-index: -1;
-}
-
-#webschedule,
-#webschedule:focus {
-  user-select: auto;
-}
-
-#webschedule:hover:not(:disabled) {
-  filter: brightness(1.1);
-  -webkit-filter: brightness(1.1);
-  transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
-}
-
-#webschedule:disabled {
-  cursor: auto;
-}
-
-#webschedule:active {
-  border-width: 4px 0 0;
-  background: none;
-  transform: translateY(0); 
-  box-shadow: none;
-}
-
-.popup-section #status {
-  background-color: #ffffff;
-  border-radius: 12px;
-  box-sizing: border-box;
-  color: #333333;
-  display: inline-block;
-  font-family: 'Segoe UI', sans-serif; 
-  font-size: 15px;
-  font-weight: bold;
-  letter-spacing: 0.3px;
-  line-height: 20px;
-  margin: 0;
-  outline: none;
+.chat-container {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
   overflow: hidden;
-  padding: 13px 16px;
-  text-align: left;
-  text-transform: none;
-  vertical-align: middle;
-  white-space: nowrap;
-  width: 100%;
-  border-left: 6px solid #f5b700;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  height: 100%;
+  padding: 3px 3px 12px;
+  box-sizing: border-box;
 }
 
-.tooltip {
-  position: relative;
-  cursor: pointer;
-  text-decoration: underline;
-}
 
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: max-content;
-  max-width: 220px;
-  background-color: #444;
-  color: #fff;
-  text-align: center;
-  padding: 8px 12px;
+.chat-box {
+  flex: 1;
+  overflow-y: auto;
+  border: 1px solid #ddd;
   border-radius: 8px;
-  position: absolute;
-  z-index: 1;
-  bottom: 125%;
-  left: 50%;
-  transform: translateX(-50%);
-  opacity: 0;
-  transition: opacity 0.3s;
+  padding: 12px;
+  background-color: #fefefe;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0;
+  max-height: none;
 }
 
-.tooltip .tooltiptext::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  transform: translateX(-50%);
-  border-width: 6px;
-  border-style: solid;
-  border-color: #444 transparent transparent transparent;
+.chat-input-area {
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+  padding-top: 12px;
+  background-color: #fff;
 }
 
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-  opacity: 1;
+.chat-input-area input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
 }
+
+.input-with-buttons {
+  position: relative;
+  width: 100%;
+}
+
+#chatInput {
+  width: 100%;
+  padding: 12px 100px 12px 16px;  
+  border-radius: 16px;
+  border: 1px solid #ccc;
+  font-size: 16px;                
+  box-sizing: border-box;
+  max-width: 100%;               
+}
+
+#sendButton,
+#refreshButton {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#refreshButton {
+  right: 40px;
+}
+
+#sendButton {
+  right: 8px;
+}
+
+.send-icon {
+  color: #333;
+  width: 20px;
+  height: 20px;
+  transition: transform 0.2s ease;
+}
+
+.refresh-icon {
+  font-size: 20px;
+  color: #444;
+  transition: transform 0.2s ease;
+}
+
+#refreshButton:hover .refresh-icon {
+  transform: rotate(180deg);
+}
+
+#sendButton:hover .send-icon {
+  transform: scale(1.2);
+}
+
+
+/*
+.chat-input-area button {
+  padding: 10px 16px;
+  background-color: #002F65;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.chat-input-area button:hover {
+  background-color: #0055B8;
+}
+*/
+
+.user-message {
+  align-self: flex-end;
+  background-color: #625B71;
+  color: white;
+  padding: 10px 14px;
+  border-radius: 16px 16px 1px 16px;
+  margin: 6px 0px 6px 24px; 
+  font-size: 15px;
+  text-align: left;
+  max-width: 650px;
+  width: fit-content;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.bot-message {
+  align-self: flex-start;
+  background-color: #A6CEFC;
+  color: #333;
+  padding: 10px 14px;
+  border-radius: 16px 16px 16px 1px;
+  margin: 6px 24px 6px 0px; 
+  font-size: 15px;
+  text-align: left;
+  max-width: 650px;
+  width: fit-content;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.mode-btn {
+  flex: 0 1 auto;
+  padding: 10px 14px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #625B71;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  text-align: left;
+  width: auto;
+  max-width: 200px;
+}
+
+.mode-btn:hover {
+  background-color: #00438C;
+}
+
+.mode-btn.selected {
+  background-color: #002F65;
+  color: white;
+  border-color: #002F65;
+}
+
+.chat-header {
+  text-align: left;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 12px;
+  color: #333;
+}
+
+#fullscreenMap {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 9999;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+#fullscreenMap.hidden {
+  display: none;
+}
+
+#fullscreenMap #map {
+  flex: 1;
+  width: 100%;
+}
+
+#closeMapBtn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 10000;
+  background: #002F65;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+#closeMapBtn:hover {
+  background-color: #00438C;
+}
+
+/* === WELCOME SCREEN === */
+.welcome-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+  padding: 20px;
+}
+
+.welcome-screen h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.welcome-screen p {
+  color: var(--text-color);
+  opacity: 0.8;
+  max-width: 600px;
+}
+

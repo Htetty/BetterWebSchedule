@@ -1,0 +1,119 @@
+{
+  "major_title": "Art: Art History/Criticism B.A. (Visual Arts)",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, San Diego",
+  "options": {
+    "FOUNDATION LEVEL - REQUIRED COURSEWORK": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "VIS 22",
+              "title": "Formations of Modern Art",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "VIS 23",
+              "title": "Seminar in Art History Methods",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "ART HISTORY": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Complete  5 courses fromAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "VIS 11",
+              "title": "Introduction to Visual Culture",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "VIS 20",
+              "title": "Introduction to Art of Europe and America",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "VIS 21A",
+              "title": "Introduction to the Art of the Americas or Africa and Oceania",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "VIS 21B",
+              "title": "Introduction to Asian Art",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "VIS 21C",
+              "title": "Introduction to African Art",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "Complete  5 courses fromAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "VIS 83",
+              "title": "Photographic History",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "VIS 84",
+              "title": "Film History",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

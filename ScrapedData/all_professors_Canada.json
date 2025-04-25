@@ -1,3488 +1,3488 @@
 [
-  {
-    "firstName": "Mark",
-    "lastName": "Harrison",
-    "avgRating": 3.6,
-    "numRatings": 44,
-    "avgDifficulty": 2.1,
-    "wouldTakeAgainPercent": 71.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1167678"
-  },
-  {
-    "firstName": ".",
-    "lastName": "Meng",
-    "avgRating": 4.4,
-    "numRatings": 28,
-    "avgDifficulty": 2.0,
-    "wouldTakeAgainPercent": 70.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/891935"
-  },
-  {
-    "firstName": "John",
-    "lastName": "Perez",
-    "avgRating": 2.7,
-    "numRatings": 20,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 35.0,
-    "department": "Communication",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2384507"
-  },
-  {
-    "firstName": "Nichole",
-    "lastName": "Coleman",
-    "avgRating": 4.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/3083595"
-  },
-  {
-    "firstName": "Sumathi",
-    "lastName": "Shankar",
-    "avgRating": 3.1,
-    "numRatings": 33,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 52.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2291177"
-  },
-  {
-    "firstName": "Marina",
-    "lastName": "Noel",
-    "avgRating": 5.0,
-    "numRatings": 80,
-    "avgDifficulty": 2.2,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Computer Information Systems",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2591838"
-  },
-  {
-    "firstName": "Sarah",
-    "lastName": "Harmon",
-    "avgRating": 3.3,
-    "numRatings": 20,
-    "avgDifficulty": 3.4,
-    "wouldTakeAgainPercent": 47.0,
-    "department": "Spanish",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1638672"
-  },
-  {
-    "firstName": "Bridget",
-    "lastName": "Love",
-    "avgRating": 2.1,
-    "numRatings": 12,
-    "avgDifficulty": 4.8,
-    "wouldTakeAgainPercent": 17.0,
-    "department": "Communication",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2595398"
-  },
-  {
-    "firstName": "Haley",
-    "lastName": "Sheetz",
-    "avgRating": 5.0,
-    "numRatings": 4,
-    "avgDifficulty": 1.8,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2952561"
-  },
-  {
-    "firstName": "Michael",
-    "lastName": "Limm",
-    "avgRating": 3.4,
-    "numRatings": 8,
-    "avgDifficulty": 2.4,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2879973"
-  },
-  {
-    "firstName": "Lezlee",
-    "lastName": "Ware",
-    "avgRating": 2.5,
-    "numRatings": 86,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 40.0,
-    "department": "Political Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1755276"
-  },
-  {
-    "firstName": "Elizabeth",
-    "lastName": "Terzakis",
-    "avgRating": 4.4,
-    "numRatings": 66,
-    "avgDifficulty": 3.4,
-    "wouldTakeAgainPercent": 84.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/691489"
-  },
-  {
-    "firstName": "Chase",
-    "lastName": "Mirassou",
-    "avgRating": 1.0,
-    "numRatings": 1,
-    "avgDifficulty": 5.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Social Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/3081086"
-  },
-  {
-    "firstName": "Althea",
-    "lastName": "Kippes",
-    "avgRating": 3.8,
-    "numRatings": 6,
-    "avgDifficulty": 3.2,
-    "wouldTakeAgainPercent": 67.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2712035"
-  },
-  {
-    "firstName": "Judy",
-    "lastName": "Choy",
-    "avgRating": 4.5,
-    "numRatings": 13,
-    "avgDifficulty": 3.1,
-    "wouldTakeAgainPercent": 78.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1146429"
-  },
-  {
-    "firstName": "Tracy",
-    "lastName": "DeHaan",
-    "avgRating": 4.5,
-    "numRatings": 12,
-    "avgDifficulty": 2.5,
-    "wouldTakeAgainPercent": 75.0,
-    "department": "Sociology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2668646"
-  },
-  {
-    "firstName": "Raymond",
-    "lastName": "Lapuz",
-    "avgRating": 3.5,
-    "numRatings": 90,
-    "avgDifficulty": 3.4,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/399754"
-  },
-  {
-    "firstName": "David",
-    "lastName": "Monarres",
-    "avgRating": 4.3,
-    "numRatings": 40,
-    "avgDifficulty": 2.7,
-    "wouldTakeAgainPercent": 88.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1797946"
-  },
-  {
-    "firstName": "Doniella",
-    "lastName": "Maher",
-    "avgRating": 4.0,
-    "numRatings": 19,
-    "avgDifficulty": 3.6,
-    "wouldTakeAgainPercent": 65.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1940257"
-  },
-  {
-    "firstName": "Elna",
-    "lastName": "Murcia Cordoba",
-    "avgRating": 4.0,
-    "numRatings": 3,
-    "avgDifficulty": 4.3,
-    "wouldTakeAgainPercent": 67.0,
-    "department": "Medical Assisting",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2665447"
-  },
-  {
-    "firstName": "Ramin",
-    "lastName": "Ekhtiar",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 2.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Marketing",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/3076988"
-  },
-  {
-    "firstName": "Gabe",
-    "lastName": "Lewall",
-    "avgRating": 5.0,
-    "numRatings": 2,
-    "avgDifficulty": 2.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/3016927"
-  },
-  {
-    "firstName": "Duncan",
-    "lastName": "Lawson",
-    "avgRating": 2.4,
-    "numRatings": 36,
-    "avgDifficulty": 4.1,
-    "wouldTakeAgainPercent": 20.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/952975"
-  },
-  {
-    "firstName": "Anthony",
-    "lastName": "Swanson",
-    "avgRating": 4.5,
-    "numRatings": 72,
-    "avgDifficulty": 2.6,
-    "wouldTakeAgainPercent": 83.0,
-    "department": "History",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/734704"
-  },
-  {
-    "firstName": "Roque",
-    "lastName": "Coral-Herrera",
-    "avgRating": 5.0,
-    "numRatings": 2,
-    "avgDifficulty": 2.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Political Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/3021607"
-  },
-  {
-    "firstName": "Kiran",
-    "lastName": "Malavade",
-    "avgRating": 3.5,
-    "numRatings": 40,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 62.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1734960"
-  },
-  {
-    "firstName": "Joan",
-    "lastName": "McQuade",
-    "avgRating": 4.3,
-    "numRatings": 33,
-    "avgDifficulty": 1.3,
-    "wouldTakeAgainPercent": 80.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1228366"
-  },
-  {
-    "firstName": "Susan",
-    "lastName": "White",
-    "avgRating": 3.7,
-    "numRatings": 22,
-    "avgDifficulty": 3.1,
-    "wouldTakeAgainPercent": 74.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1936820"
-  },
-  {
-    "firstName": "Mary",
-    "lastName": "Cudahy",
-    "avgRating": 4.2,
-    "numRatings": 10,
-    "avgDifficulty": 2.7,
-    "wouldTakeAgainPercent": 80.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2309486"
-  },
-  {
-    "firstName": "Sara",
-    "lastName": "Dykes",
-    "avgRating": 3.0,
-    "numRatings": 4,
-    "avgDifficulty": 1.8,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/3012698"
-  },
-  {
-    "firstName": "Rebekah",
-    "lastName": "Taveau",
-    "avgRating": 4.9,
-    "numRatings": 106,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2015445"
-  },
-  {
-    "firstName": "Michael",
-    "lastName": "Hoffman",
-    "avgRating": 4.6,
-    "numRatings": 67,
-    "avgDifficulty": 2.7,
-    "wouldTakeAgainPercent": 81.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1585870"
-  },
-  {
-    "firstName": "Paul",
-    "lastName": "Roscelli",
-    "avgRating": 4.5,
-    "numRatings": 77,
-    "avgDifficulty": 4.0,
-    "wouldTakeAgainPercent": 82.0,
-    "department": "Economics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/586105"
-  },
-  {
-    "firstName": "Sol",
-    "lastName": "Puenzo",
-    "avgRating": 3.1,
-    "numRatings": 22,
-    "avgDifficulty": 4.2,
-    "wouldTakeAgainPercent": 46.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2609250"
-  },
-  {
-    "firstName": "Alexa",
-    "lastName": "Moore",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 5.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Child Development",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/3072143"
-  },
-  {
-    "firstName": "Nick",
-    "lastName": "Demello",
-    "avgRating": 4.6,
-    "numRatings": 43,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 86.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1440170"
-  },
-  {
-    "firstName": "Attila",
-    "lastName": "Elteto",
-    "avgRating": 2.7,
-    "numRatings": 34,
-    "avgDifficulty": 4.1,
-    "wouldTakeAgainPercent": 42.0,
-    "department": "Astronomy",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2133684"
-  },
-  {
-    "firstName": "Bill",
-    "lastName": "Schwarz",
-    "avgRating": 3.2,
-    "numRatings": 126,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 54.0,
-    "department": "Computer Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1870813"
-  },
-  {
-    "firstName": "Nathan",
-    "lastName": "Staples",
-    "avgRating": 4.3,
-    "numRatings": 143,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 78.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/616500"
-  },
-  {
-    "firstName": "Sunil",
-    "lastName": "Shah",
-    "avgRating": 1.3,
-    "numRatings": 14,
-    "avgDifficulty": 4.7,
-    "wouldTakeAgainPercent": 8.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/3021356"
-  },
-  {
-    "firstName": "Michelle",
-    "lastName": "Beatty",
-    "avgRating": 5.0,
-    "numRatings": 5,
-    "avgDifficulty": 3.2,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2262242"
-  },
-  {
-    "firstName": "Gerardo",
-    "lastName": "Pacheco Matus",
-    "avgRating": 3.0,
-    "numRatings": 2,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2932216"
-  },
-  {
-    "firstName": "Nick",
-    "lastName": "Tuttle",
-    "avgRating": 3.8,
-    "numRatings": 5,
-    "avgDifficulty": 2.4,
-    "wouldTakeAgainPercent": 60.0,
-    "department": "Psychology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2734674"
-  },
-  {
-    "firstName": "Julie",
-    "lastName": "Luu",
-    "avgRating": 4.4,
-    "numRatings": 41,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 83.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2598744"
-  },
-  {
-    "firstName": "Sandra",
-    "lastName": "Mendez",
-    "avgRating": 4.8,
-    "numRatings": 50,
-    "avgDifficulty": 1.9,
-    "wouldTakeAgainPercent": 89.0,
-    "department": "Career Development",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1859293"
-  },
-  {
-    "firstName": "Marc",
-    "lastName": "Zollinger",
-    "avgRating": 5.0,
-    "numRatings": 2,
-    "avgDifficulty": 1.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Music",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2663299"
-  },
-  {
-    "firstName": "Martin",
-    "lastName": "Partlan",
-    "avgRating": 3.8,
-    "numRatings": 42,
-    "avgDifficulty": 2.8,
-    "wouldTakeAgainPercent": 62.0,
-    "department": "Physics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/612960"
-  },
-  {
-    "firstName": "Richard",
-    "lastName": "Schulke",
-    "avgRating": 1.0,
-    "numRatings": 1,
-    "avgDifficulty": 5.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Legal Assisting",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/3067997"
-  },
-  {
-    "firstName": "Camille",
-    "lastName": "Kaslan",
-    "avgRating": 4.3,
-    "numRatings": 10,
-    "avgDifficulty": 3.1,
-    "wouldTakeAgainPercent": 90.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2924654"
-  },
-  {
-    "firstName": "Ami",
-    "lastName": "Smith",
-    "avgRating": 3.8,
-    "numRatings": 55,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 69.0,
-    "department": "Psychology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1860582"
-  },
-  {
-    "firstName": "Mollie",
-    "lastName": "Woodworth",
-    "avgRating": 4.6,
-    "numRatings": 9,
-    "avgDifficulty": 3.4,
-    "wouldTakeAgainPercent": 89.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2273163"
-  },
-  {
-    "firstName": "Malcolm",
-    "lastName": "Gamble",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Communication",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2976662"
-  },
-  {
-    "firstName": "Lance",
-    "lastName": "Lund",
-    "avgRating": 3.0,
-    "numRatings": 2,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2682633"
-  },
-  {
-    "firstName": "Robin",
-    "lastName": "Lise",
-    "avgRating": 4.6,
-    "numRatings": 18,
-    "avgDifficulty": 2.1,
-    "wouldTakeAgainPercent": 84.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2419464"
-  },
-  {
-    "firstName": "Lucas",
-    "lastName": "Cantin",
-    "avgRating": 3.6,
-    "numRatings": 49,
-    "avgDifficulty": 3.1,
-    "wouldTakeAgainPercent": 68.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1788145"
-  },
-  {
-    "firstName": "Ramki",
-    "lastName": "Kalyanaraman",
-    "avgRating": 5.0,
-    "numRatings": 2,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Engineering",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2701993"
-  },
-  {
-    "firstName": "Megan",
-    "lastName": "Rodriguez",
-    "avgRating": 4.6,
-    "numRatings": 10,
-    "avgDifficulty": 2.3,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/3002049"
-  },
-  {
-    "firstName": "Eileen",
-    "lastName": "Pippins",
-    "avgRating": 1.4,
-    "numRatings": 20,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 10.0,
-    "department": "Communication",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2175685"
-  },
-  {
-    "firstName": "Andrew",
-    "lastName": "Jianyu Yu",
-    "avgRating": 2.8,
-    "numRatings": 4,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2207172"
-  },
-  {
-    "firstName": "Jason",
-    "lastName": "Chang",
-    "avgRating": 4.6,
-    "numRatings": 19,
-    "avgDifficulty": 2.5,
-    "wouldTakeAgainPercent": 77.0,
-    "department": "Philosophy",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1990185"
-  },
-  {
-    "firstName": "Janet",
-    "lastName": "Laurin",
-    "avgRating": 4.8,
-    "numRatings": 11,
-    "avgDifficulty": 1.7,
-    "wouldTakeAgainPercent": 91.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2311833"
-  },
-  {
-    "firstName": "Jason",
-    "lastName": "Dehaan",
-    "avgRating": 4.1,
-    "numRatings": 7,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 72.0,
-    "department": "Sociology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2571092"
-  },
-  {
-    "firstName": "Naheed",
-    "lastName": "Ferguson",
-    "avgRating": 3.6,
-    "numRatings": 5,
-    "avgDifficulty": 3.4,
-    "wouldTakeAgainPercent": 80.0,
-    "department": "Computer Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2713716"
-  },
-  {
-    "firstName": "Justin",
-    "lastName": "Coburn",
-    "avgRating": 3.2,
-    "numRatings": 6,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 34.0,
-    "department": "History",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2149600"
-  },
-  {
-    "firstName": "Amira",
-    "lastName": "Alkeswani",
-    "avgRating": 3.3,
-    "numRatings": 12,
-    "avgDifficulty": 3.2,
-    "wouldTakeAgainPercent": 59.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2893217"
-  },
-  {
-    "firstName": "Douglas",
-    "lastName": "Hirzel",
-    "avgRating": 4.4,
-    "numRatings": 72,
-    "avgDifficulty": 3.8,
-    "wouldTakeAgainPercent": 88.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/344693"
-  },
-  {
-    "firstName": "Ritu",
-    "lastName": "Malhotra",
-    "avgRating": 4.3,
-    "numRatings": 17,
-    "avgDifficulty": 3.4,
-    "wouldTakeAgainPercent": 89.0,
-    "department": "Medical Assisting",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2636575"
-  },
-  {
-    "firstName": "Jessica",
-    "lastName": "Marshall",
-    "avgRating": 3.5,
-    "numRatings": 22,
-    "avgDifficulty": 3.1,
-    "wouldTakeAgainPercent": 56.0,
-    "department": "Anthropology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2063898"
-  },
-  {
-    "firstName": "Lisa",
-    "lastName": "Palmer",
-    "avgRating": 3.5,
-    "numRatings": 52,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 55.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/336679"
-  },
-  {
-    "firstName": "Ana",
-    "lastName": "Miladinova",
-    "avgRating": 4.1,
-    "numRatings": 29,
-    "avgDifficulty": 2.2,
-    "wouldTakeAgainPercent": 80.0,
-    "department": "Physical Education",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1237387"
-  },
-  {
-    "firstName": "Richard",
-    "lastName": "Claire",
-    "avgRating": 4.5,
-    "numRatings": 51,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 92.0,
-    "department": "Accounting",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/606884"
-  },
-  {
-    "firstName": "Ellen",
-    "lastName": "Young",
-    "avgRating": 4.6,
-    "numRatings": 16,
-    "avgDifficulty": 2.8,
-    "wouldTakeAgainPercent": 94.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2496565"
-  },
-  {
-    "firstName": "Gabriel",
-    "lastName": "Prochter",
-    "avgRating": 4.3,
-    "numRatings": 16,
-    "avgDifficulty": 2.3,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Astronomy",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1400276"
-  },
-  {
-    "firstName": "Maureen",
-    "lastName": "Wiley",
-    "avgRating": 4.9,
-    "numRatings": 12,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2337435"
-  },
-  {
-    "firstName": "Salumeh",
-    "lastName": "Eslamieh",
-    "avgRating": 4.1,
-    "numRatings": 42,
-    "avgDifficulty": 2.6,
-    "wouldTakeAgainPercent": 78.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/916216"
-  },
-  {
-    "firstName": "Helena",
-    "lastName": "Almassy",
-    "avgRating": 4.6,
-    "numRatings": 5,
-    "avgDifficulty": 1.6,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2947677"
-  },
-  {
-    "firstName": "Allan",
-    "lastName": "Wilcox",
-    "avgRating": 3.9,
-    "numRatings": 54,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 74.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1954969"
-  },
-  {
-    "firstName": "Ramakrishnan",
-    "lastName": "Kalyanaraman",
-    "avgRating": 2.3,
-    "numRatings": 3,
-    "avgDifficulty": 1.7,
-    "wouldTakeAgainPercent": 34.0,
-    "department": "Engineering",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2652132"
-  },
-  {
-    "firstName": "Sarah",
-    "lastName": "Cravy",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Interior Design",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/3027126"
-  },
-  {
-    "firstName": "Elena",
-    "lastName": "Ivanova",
-    "avgRating": 2.8,
-    "numRatings": 28,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 25.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1332935"
-  },
-  {
-    "firstName": "Mike",
-    "lastName": "Noonan",
-    "avgRating": 4.3,
-    "numRatings": 4,
-    "avgDifficulty": 1.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Political Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2968266"
-  },
-  {
-    "firstName": "Garth",
-    "lastName": "Bunse",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 1.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Humanities",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/3025322"
-  },
-  {
-    "firstName": "David",
-    "lastName": "Eck",
-    "avgRating": 4.7,
-    "numRatings": 32,
-    "avgDifficulty": 3.1,
-    "wouldTakeAgainPercent": 94.0,
-    "department": "Philosophy",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2179136"
-  },
-  {
-    "firstName": "Jennifer",
-    "lastName": "Helton",
-    "avgRating": 3.9,
-    "numRatings": 16,
-    "avgDifficulty": 3.8,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "History",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/230281"
-  },
-  {
-    "firstName": "Paul",
-    "lastName": "Glanting",
-    "avgRating": 4.9,
-    "numRatings": 9,
-    "avgDifficulty": 2.6,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2395762"
-  },
-  {
-    "firstName": "David",
-    "lastName": "Leitner",
-    "avgRating": 4.2,
-    "numRatings": 18,
-    "avgDifficulty": 2.8,
-    "wouldTakeAgainPercent": 86.0,
-    "department": "Anthropology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1579748"
-  },
-  {
-    "firstName": "Bridget",
-    "lastName": "James",
-    "avgRating": 4.7,
-    "numRatings": 18,
-    "avgDifficulty": 1.9,
-    "wouldTakeAgainPercent": 91.0,
-    "department": "Oceanography",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1824919"
-  },
-  {
-    "firstName": "Emanuela",
-    "lastName": "Quaglia",
-    "avgRating": 4.8,
-    "numRatings": 24,
-    "avgDifficulty": 2.5,
-    "wouldTakeAgainPercent": 96.0,
-    "department": "Digital Arts",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2616676"
-  },
-  {
-    "firstName": "Denise",
-    "lastName": "Erickson",
-    "avgRating": 3.8,
-    "numRatings": 70,
-    "avgDifficulty": 2.4,
-    "wouldTakeAgainPercent": 63.0,
-    "department": "Art History",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/190254"
-  },
-  {
-    "firstName": "Adam",
-    "lastName": "Fahey",
-    "avgRating": 4.5,
-    "numRatings": 58,
-    "avgDifficulty": 2.7,
-    "wouldTakeAgainPercent": 91.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1235427"
-  },
-  {
-    "firstName": "Susan",
-    "lastName": "Mahoney",
-    "avgRating": 4.5,
-    "numRatings": 19,
-    "avgDifficulty": 2.8,
-    "wouldTakeAgainPercent": 86.0,
-    "department": "Geology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1758061"
-  },
-  {
-    "firstName": "Nada",
-    "lastName": "Nekrep",
-    "avgRating": 3.5,
-    "numRatings": 58,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 61.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2030068"
-  },
-  {
-    "firstName": "Alison",
-    "lastName": "Field",
-    "avgRating": 4.7,
-    "numRatings": 39,
-    "avgDifficulty": 2.4,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "History",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/895299"
-  },
-  {
-    "firstName": "Sandra",
-    "lastName": "Gu",
-    "avgRating": 3.2,
-    "numRatings": 5,
-    "avgDifficulty": 4.0,
-    "wouldTakeAgainPercent": 60.0,
-    "department": "Music",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2402160"
-  },
-  {
-    "firstName": "Robert",
-    "lastName": "Lee",
-    "avgRating": 4.4,
-    "numRatings": 68,
-    "avgDifficulty": 2.7,
-    "wouldTakeAgainPercent": 83.0,
-    "department": "Sociology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/585532"
-  },
-  {
-    "firstName": "Shamal",
-    "lastName": "Patki",
-    "avgRating": 1.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2899662"
-  },
-  {
-    "firstName": "Scott",
-    "lastName": "Koppel",
-    "avgRating": 4.3,
-    "numRatings": 7,
-    "avgDifficulty": 1.9,
-    "wouldTakeAgainPercent": 86.0,
-    "department": "Communication",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2120928"
-  },
-  {
-    "firstName": "Candice",
-    "lastName": "Nance",
-    "avgRating": 4.4,
-    "numRatings": 50,
-    "avgDifficulty": 2.5,
-    "wouldTakeAgainPercent": 92.0,
-    "department": "International Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1879846"
-  },
-  {
-    "firstName": "Nadine",
-    "lastName": "Ferguson",
-    "avgRating": 3.8,
-    "numRatings": 9,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 67.0,
-    "department": "Computer Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2849912"
-  },
-  {
-    "firstName": "Bobby",
-    "lastName": "Seals",
-    "avgRating": 5.0,
-    "numRatings": 2,
-    "avgDifficulty": 2.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Ethnic Studies",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2976659"
-  },
-  {
-    "firstName": "Lale",
-    "lastName": "Yurtseven",
-    "avgRating": 4.4,
-    "numRatings": 18,
-    "avgDifficulty": 2.1,
-    "wouldTakeAgainPercent": 67.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1959332"
-  },
-  {
-    "firstName": "Fahimeh",
-    "lastName": "Faridnia",
-    "avgRating": 4.3,
-    "numRatings": 6,
-    "avgDifficulty": 1.0,
-    "wouldTakeAgainPercent": 84.0,
-    "department": "Career Development",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2814657"
-  },
-  {
-    "firstName": "Lobna",
-    "lastName": "Alamoush",
-    "avgRating": 1.0,
-    "numRatings": 1,
-    "avgDifficulty": 1.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Medical Assisting",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2842310"
-  },
-  {
-    "firstName": "Malori",
-    "lastName": "Redman",
-    "avgRating": 5.0,
-    "numRatings": 3,
-    "avgDifficulty": 2.3,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Oceanography",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2873150"
-  },
-  {
-    "firstName": "Sumithira",
-    "lastName": "Sukumar",
-    "avgRating": 3.0,
-    "numRatings": 2,
-    "avgDifficulty": 4.0,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Engineering",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2499382"
-  },
-  {
-    "firstName": "Paul",
-    "lastName": "Naas",
-    "avgRating": 4.5,
-    "numRatings": 12,
-    "avgDifficulty": 2.5,
-    "wouldTakeAgainPercent": 75.0,
-    "department": "Graphic Arts",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1176201"
-  },
-  {
-    "firstName": "Kevyn",
-    "lastName": "Lorenzana",
-    "avgRating": 4.0,
-    "numRatings": 1,
-    "avgDifficulty": 1.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Ethnic Studies",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2980158"
-  },
-  {
-    "firstName": "Nance",
-    "lastName": "Carrigan",
-    "avgRating": 4.7,
-    "numRatings": 11,
-    "avgDifficulty": 2.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2010150"
-  },
-  {
-    "firstName": "Yolanda",
-    "lastName": "Valenzuela",
-    "avgRating": 4.3,
-    "numRatings": 20,
-    "avgDifficulty": 2.8,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/682854"
-  },
-  {
-    "firstName": "Vera",
-    "lastName": "Klimkovsky",
-    "avgRating": 4.5,
-    "numRatings": 41,
-    "avgDifficulty": 2.2,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/751359"
-  },
-  {
-    "firstName": "Gampi",
-    "lastName": "Shankar",
-    "avgRating": 4.5,
-    "numRatings": 21,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 86.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2422314"
-  },
-  {
-    "firstName": "Leonor",
-    "lastName": "Cabrera",
-    "avgRating": 3.8,
-    "numRatings": 57,
-    "avgDifficulty": 3.4,
-    "wouldTakeAgainPercent": 87.0,
-    "department": "Accounting",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/947207"
-  },
-  {
-    "firstName": "Doug",
-    "lastName": "Woods",
-    "avgRating": 4.6,
-    "numRatings": 32,
-    "avgDifficulty": 2.8,
-    "wouldTakeAgainPercent": 91.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2455642"
-  },
-  {
-    "firstName": "Sue",
-    "lastName": "Krishna",
-    "avgRating": 1.0,
-    "numRatings": 2,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Education",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2691013"
-  },
-  {
-    "firstName": "Elizabeth",
-    "lastName": "Schuler",
-    "avgRating": 3.4,
-    "numRatings": 7,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 34.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1753082"
-  },
-  {
-    "firstName": "Vera",
-    "lastName": "Quijano",
-    "avgRating": 4.8,
-    "numRatings": 25,
-    "avgDifficulty": 2.3,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Kinesiology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/698308"
-  },
-  {
-    "firstName": "Barry",
-    "lastName": "Thomson",
-    "avgRating": 4.3,
-    "numRatings": 21,
-    "avgDifficulty": 3.1,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Microbiology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/931457"
-  },
-  {
-    "firstName": "Bill",
-    "lastName": "Morales",
-    "avgRating": 4.6,
-    "numRatings": 13,
-    "avgDifficulty": 2.6,
-    "wouldTakeAgainPercent": 80.0,
-    "department": "Art",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/934308"
-  },
-  {
-    "firstName": "Michael",
-    "lastName": "Stanford",
-    "avgRating": 3.3,
-    "numRatings": 87,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 42.0,
-    "department": "History",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/882938"
-  },
-  {
-    "firstName": "Agatha",
-    "lastName": "Kuczera",
-    "avgRating": 5.0,
-    "numRatings": 2,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Communication",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2736351"
-  },
-  {
-    "firstName": "Jessica",
-    "lastName": "Kaven",
-    "avgRating": 4.3,
-    "numRatings": 28,
-    "avgDifficulty": 2.5,
-    "wouldTakeAgainPercent": 67.0,
-    "department": "Communication",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1678451"
-  },
-  {
-    "firstName": "Evan",
-    "lastName": "Innerst",
-    "avgRating": 4.9,
-    "numRatings": 118,
-    "avgDifficulty": 2.3,
-    "wouldTakeAgainPercent": 96.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/474058"
-  },
-  {
-    "firstName": "Juleh",
-    "lastName": "Mclintock",
-    "avgRating": 1.6,
-    "numRatings": 8,
-    "avgDifficulty": 4.6,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2260522"
-  },
-  {
-    "firstName": "Katie",
-    "lastName": "Perkins",
-    "avgRating": 5.0,
-    "numRatings": 3,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Kinesiology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2603890"
-  },
-  {
-    "firstName": "Jaime",
-    "lastName": "Dubeibe",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Psychology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2886288"
-  },
-  {
-    "firstName": "Rafael",
-    "lastName": "Rivera",
-    "avgRating": 2.3,
-    "numRatings": 8,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 40.0,
-    "department": "Radiological Sciences",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1465072"
-  },
-  {
-    "firstName": "Levalasi",
-    "lastName": "Loi-On",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Ethnic Studies",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2863947"
-  },
-  {
-    "firstName": "Cheri",
-    "lastName": "Markt",
-    "avgRating": 3.1,
-    "numRatings": 8,
-    "avgDifficulty": 2.9,
-    "wouldTakeAgainPercent": 63.0,
-    "department": "Engineering",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2152288"
-  },
-  {
-    "firstName": "Angela",
-    "lastName": "Gibson",
-    "avgRating": 1.7,
-    "numRatings": 3,
-    "avgDifficulty": 4.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Oceanography",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2464751"
-  },
-  {
-    "firstName": "Sarita",
-    "lastName": "Santos",
-    "avgRating": 4.4,
-    "numRatings": 14,
-    "avgDifficulty": 2.2,
-    "wouldTakeAgainPercent": 86.0,
-    "department": "Child Development",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2294827"
-  },
-  {
-    "firstName": "David",
-    "lastName": "Meckler",
-    "avgRating": 2.9,
-    "numRatings": 32,
-    "avgDifficulty": 2.8,
-    "wouldTakeAgainPercent": 38.0,
-    "department": "Music",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/451278"
-  },
-  {
-    "firstName": "Lucia",
-    "lastName": "Olson",
-    "avgRating": 3.7,
-    "numRatings": 13,
-    "avgDifficulty": 1.7,
-    "wouldTakeAgainPercent": 58.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1642467"
-  },
-  {
-    "firstName": "Patty",
-    "lastName": "Hall",
-    "avgRating": 4.9,
-    "numRatings": 9,
-    "avgDifficulty": 2.7,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Child Development",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1922568"
-  },
-  {
-    "firstName": "Monica",
-    "lastName": "Malamud",
-    "avgRating": 3.4,
-    "numRatings": 20,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 75.0,
-    "department": "Spanish",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/851700"
-  },
-  {
-    "firstName": "Amira",
-    "lastName": "Abedrabbo",
-    "avgRating": 4.7,
-    "numRatings": 18,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 89.0,
-    "department": "Spanish",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1864069"
-  },
-  {
-    "firstName": "Betsy",
-    "lastName": "Mueller",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Interior Design",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2874984"
-  },
-  {
-    "firstName": "Bachir",
-    "lastName": "Hadid",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2818986"
-  },
-  {
-    "firstName": "Elsa",
-    "lastName": "Torres",
-    "avgRating": 4.2,
-    "numRatings": 5,
-    "avgDifficulty": 3.4,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Interior Design",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2104608"
-  },
-  {
-    "firstName": "Diane",
-    "lastName": "Wakeham",
-    "avgRating": 4.6,
-    "numRatings": 7,
-    "avgDifficulty": 3.9,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/852652"
-  },
-  {
-    "firstName": "Bridgette",
-    "lastName": "M'Guinness",
-    "avgRating": 4.7,
-    "numRatings": 26,
-    "avgDifficulty": 2.5,
-    "wouldTakeAgainPercent": 88.0,
-    "department": "Political Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/104685"
-  },
-  {
-    "firstName": "Berenice",
-    "lastName": "Cabrera",
-    "avgRating": 4.9,
-    "numRatings": 7,
-    "avgDifficulty": 2.7,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2552135"
-  },
-  {
-    "firstName": "Kathleen",
-    "lastName": "Haven",
-    "avgRating": 3.8,
-    "numRatings": 2,
-    "avgDifficulty": 2.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1915364"
-  },
-  {
-    "firstName": "Michelle",
-    "lastName": "Williams",
-    "avgRating": 2.9,
-    "numRatings": 11,
-    "avgDifficulty": 3.6,
-    "wouldTakeAgainPercent": 34.0,
-    "department": "Economics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1419777"
-  },
-  {
-    "firstName": "Ronda",
-    "lastName": "Chaney",
-    "avgRating": 4.8,
-    "numRatings": 12,
-    "avgDifficulty": 2.8,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Fashion",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1010005"
-  },
-  {
-    "firstName": "Judy",
-    "lastName": "Jackson",
-    "avgRating": 4.0,
-    "numRatings": 4,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 75.0,
-    "department": "Fashion",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2154362"
-  },
-  {
-    "firstName": "Kevin",
-    "lastName": "Nelson",
-    "avgRating": 4.2,
-    "numRatings": 6,
-    "avgDifficulty": 2.8,
-    "wouldTakeAgainPercent": 80.0,
-    "department": "Economics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1916139"
-  },
-  {
-    "firstName": "Dr.",
-    "lastName": "Jean Dupon",
-    "avgRating": 2.5,
-    "numRatings": 2,
-    "avgDifficulty": 4.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1911955"
-  },
-  {
-    "firstName": "Anna",
-    "lastName": "Budd",
-    "avgRating": 3.5,
-    "numRatings": 20,
-    "avgDifficulty": 2.4,
-    "wouldTakeAgainPercent": 72.0,
-    "department": "Theater",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1136742"
-  },
-  {
-    "firstName": "Jeanette",
-    "lastName": "Green",
-    "avgRating": 2.9,
-    "numRatings": 33,
-    "avgDifficulty": 4.2,
-    "wouldTakeAgainPercent": 45.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1843433"
-  },
-  {
-    "firstName": "Jeanne",
-    "lastName": "Digel",
-    "avgRating": 3.1,
-    "numRatings": 36,
-    "avgDifficulty": 3.1,
-    "wouldTakeAgainPercent": 42.0,
-    "department": "Astronomy",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1022967"
-  },
-  {
-    "firstName": "Po",
-    "lastName": "Tong",
-    "avgRating": 4.6,
-    "numRatings": 38,
-    "avgDifficulty": 3.6,
-    "wouldTakeAgainPercent": 86.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2050740"
-  },
-  {
-    "firstName": "Rika",
-    "lastName": "Fabian",
-    "avgRating": 4.0,
-    "numRatings": 9,
-    "avgDifficulty": 3.6,
-    "wouldTakeAgainPercent": 67.0,
-    "department": "Sociology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1817118"
-  },
-  {
-    "firstName": "Barbara",
-    "lastName": "Fatum",
-    "avgRating": 3.0,
-    "numRatings": 3,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 34.0,
-    "department": "Social Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2186918"
-  },
-  {
-    "firstName": "Khazar",
-    "lastName": "James",
-    "avgRating": 2.9,
-    "numRatings": 6,
-    "avgDifficulty": 2.5,
-    "wouldTakeAgainPercent": 67.0,
-    "department": "Art",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1727215"
-  },
-  {
-    "firstName": "John",
-    "lastName": "Saunders",
-    "avgRating": 1.0,
-    "numRatings": 1,
-    "avgDifficulty": 5.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2390635"
-  },
-  {
-    "firstName": "David",
-    "lastName": "Gainey",
-    "avgRating": 5.0,
-    "numRatings": 4,
-    "avgDifficulty": 2.3,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Digital Arts",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2656770"
-  },
-  {
-    "firstName": "Bernadette",
-    "lastName": "Newland",
-    "avgRating": 2.0,
-    "numRatings": 1,
-    "avgDifficulty": 2.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Medical Assisting",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2666014"
-  },
-  {
-    "firstName": "Jeanette",
-    "lastName": "Medina",
-    "avgRating": 3.9,
-    "numRatings": 49,
-    "avgDifficulty": 3.1,
-    "wouldTakeAgainPercent": 64.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/780979"
-  },
-  {
-    "firstName": "Jamie",
-    "lastName": "Smith",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 1.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Education",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2750103"
-  },
-  {
-    "firstName": "Brian",
-    "lastName": "Bennett",
-    "avgRating": 4.5,
-    "numRatings": 15,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 80.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2599021"
-  },
-  {
-    "firstName": "Peggy",
-    "lastName": "Perruccio",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Fashion",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2411528"
-  },
-  {
-    "firstName": "James",
-    "lastName": "Schweppe",
-    "avgRating": 4.2,
-    "numRatings": 20,
-    "avgDifficulty": 2.9,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1322798"
-  },
-  {
-    "firstName": "Jill",
-    "lastName": "Sumstad",
-    "avgRating": 4.5,
-    "numRatings": 2,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2329945"
-  },
-  {
-    "firstName": "Jett",
-    "lastName": "Chinn",
-    "avgRating": 3.7,
-    "numRatings": 62,
-    "avgDifficulty": 4.6,
-    "wouldTakeAgainPercent": 67.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1219164"
-  },
-  {
-    "firstName": "Ben",
-    "lastName": "Stefonik",
-    "avgRating": 4.6,
-    "numRatings": 9,
-    "avgDifficulty": 2.2,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Psychology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1122343"
-  },
-  {
-    "firstName": "Gheisa",
-    "lastName": "(Andrea) Schmidt",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 2.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Dance",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2708508"
-  },
-  {
-    "firstName": "Kim",
-    "lastName": "Huynh",
-    "avgRating": 1.8,
-    "numRatings": 6,
-    "avgDifficulty": 4.3,
-    "wouldTakeAgainPercent": 17.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2612492"
-  },
-  {
-    "firstName": "Robert",
-    "lastName": "Tricca",
-    "avgRating": 4.3,
-    "numRatings": 48,
-    "avgDifficulty": 2.9,
-    "wouldTakeAgainPercent": 95.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1304250"
-  },
-  {
-    "firstName": "Mariella",
-    "lastName": "Thaning",
-    "avgRating": 3.0,
-    "numRatings": 2,
-    "avgDifficulty": 4.0,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Communication",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2347566"
-  },
-  {
-    "firstName": "Barbara",
-    "lastName": "Velline",
-    "avgRating": 5.0,
-    "numRatings": 4,
-    "avgDifficulty": 2.8,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Accounting",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2470518"
-  },
-  {
-    "firstName": "Daniella",
-    "lastName": "Maher",
-    "avgRating": 4.9,
-    "numRatings": 10,
-    "avgDifficulty": 1.9,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1295554"
-  },
-  {
-    "firstName": "Patricia",
-    "lastName": "Hall",
-    "avgRating": 3.9,
-    "numRatings": 14,
-    "avgDifficulty": 3.1,
-    "wouldTakeAgainPercent": 65.0,
-    "department": "Child Development",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2291615"
-  },
-  {
-    "firstName": "Elena",
-    "lastName": "Ivanova",
-    "avgRating": 2.8,
-    "numRatings": 28,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 25.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1332935"
-  },
-  {
-    "firstName": "Teresa",
-    "lastName": "Bittner",
-    "avgRating": 4.0,
-    "numRatings": 1,
-    "avgDifficulty": 5.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2615901"
-  },
-  {
-    "firstName": "Radu",
-    "lastName": "Toma",
-    "avgRating": 3.6,
-    "numRatings": 32,
-    "avgDifficulty": 3.2,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/705549"
-  },
-  {
-    "firstName": "Guibo",
-    "lastName": "Zhu",
-    "avgRating": 5.0,
-    "numRatings": 5,
-    "avgDifficulty": 2.6,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2315442"
-  },
-  {
-    "firstName": "Jan",
-    "lastName": "Lawrence",
-    "avgRating": 3.6,
-    "numRatings": 14,
-    "avgDifficulty": 2.9,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Child Development",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1094741"
-  },
-  {
-    "firstName": "Erik",
-    "lastName": "Gaspar",
-    "avgRating": 4.9,
-    "numRatings": 10,
-    "avgDifficulty": 2.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Kinesiology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1712261"
-  },
-  {
-    "firstName": "William",
-    "lastName": "Haine",
-    "avgRating": 4.0,
-    "numRatings": 22,
-    "avgDifficulty": 2.9,
-    "wouldTakeAgainPercent": 58.0,
-    "department": "History",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/451282"
-  },
-  {
-    "firstName": "Michael",
-    "lastName": "Smith",
-    "avgRating": 3.4,
-    "numRatings": 5,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 80.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2413033"
-  },
-  {
-    "firstName": "danielle",
-    "lastName": "pelletier",
-    "avgRating": 3.3,
-    "numRatings": 3,
-    "avgDifficulty": 4.3,
-    "wouldTakeAgainPercent": 34.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2288831"
-  },
-  {
-    "firstName": "Hyla",
-    "lastName": "Lacefield",
-    "avgRating": 3.8,
-    "numRatings": 11,
-    "avgDifficulty": 2.4,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Digital Arts",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1692637"
-  },
-  {
-    "firstName": "Denise",
-    "lastName": "Hum",
-    "avgRating": 3.4,
-    "numRatings": 34,
-    "avgDifficulty": 3.4,
-    "wouldTakeAgainPercent": 40.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1230786"
-  },
-  {
-    "firstName": "William",
-    "lastName": "Haines",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 2.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "History",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2560936"
-  },
-  {
-    "firstName": "Taliha",
-    "lastName": "Pasaoglu",
-    "avgRating": 5.0,
-    "numRatings": 3,
-    "avgDifficulty": 2.7,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2332172"
-  },
-  {
-    "firstName": "Alicia",
-    "lastName": "Aguirre",
-    "avgRating": 4.3,
-    "numRatings": 15,
-    "avgDifficulty": 2.8,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/957601"
-  },
-  {
-    "firstName": "Eric",
-    "lastName": "Yap",
-    "avgRating": 1.3,
-    "numRatings": 3,
-    "avgDifficulty": 4.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Accounting",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2226198"
-  },
-  {
-    "firstName": "Anthony",
-    "lastName": "Perez",
-    "avgRating": 4.2,
-    "numRatings": 48,
-    "avgDifficulty": 2.9,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Communication",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/451267"
-  },
-  {
-    "firstName": "Richard",
-    "lastName": "Follansbee",
-    "avgRating": 3.5,
-    "numRatings": 71,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 43.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/451279"
-  },
-  {
-    "firstName": "Kimberly",
-    "lastName": "Kirchoff-Stein",
-    "avgRating": 4.8,
-    "numRatings": 27,
-    "avgDifficulty": 2.2,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/104683"
-  },
-  {
-    "firstName": "Danielle",
-    "lastName": "Behonick",
-    "avgRating": 4.5,
-    "numRatings": 50,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 95.0,
-    "department": "Health Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1292447"
-  },
-  {
-    "firstName": "Anniqua",
-    "lastName": "Rana",
-    "avgRating": 4.5,
-    "numRatings": 13,
-    "avgDifficulty": 2.4,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/407089"
-  },
-  {
-    "firstName": "Che",
-    "lastName": "Meneses",
-    "avgRating": 3.6,
-    "numRatings": 11,
-    "avgDifficulty": 2.6,
-    "wouldTakeAgainPercent": 73.0,
-    "department": "Communication",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2335024"
-  },
-  {
-    "firstName": "Matthew",
-    "lastName": "Bertens",
-    "avgRating": 3.0,
-    "numRatings": 6,
-    "avgDifficulty": 3.8,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/283974"
-  },
-  {
-    "firstName": "Christopher",
-    "lastName": "Smith",
-    "avgRating": 5.0,
-    "numRatings": 3,
-    "avgDifficulty": 4.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Web Design",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2457773"
-  },
-  {
-    "firstName": "Susan",
-    "lastName": "Gangel",
-    "avgRating": 4.2,
-    "numRatings": 61,
-    "avgDifficulty": 1.7,
-    "wouldTakeAgainPercent": 93.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/246388"
-  },
-  {
-    "firstName": "Nik",
-    "lastName": "Tehrani",
-    "avgRating": 2.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2496572"
-  },
-  {
-    "firstName": "Karie",
-    "lastName": "Tappmeyer",
-    "avgRating": 2.7,
-    "numRatings": 19,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Speech Communication",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1253102"
-  },
-  {
-    "firstName": "Tomas",
-    "lastName": "Torok",
-    "avgRating": 3.8,
-    "numRatings": 45,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 80.0,
-    "department": "Microbiology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/648831"
-  },
-  {
-    "firstName": "Melinda",
-    "lastName": "Day",
-    "avgRating": 5.0,
-    "numRatings": 2,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Child Development",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2384704"
-  },
-  {
-    "firstName": "Nick",
-    "lastName": "Maffei",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2483670"
-  },
-  {
-    "firstName": "David",
-    "lastName": "Clay",
-    "avgRating": 3.7,
-    "numRatings": 37,
-    "avgDifficulty": 2.3,
-    "wouldTakeAgainPercent": 84.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/505674"
-  },
-  {
-    "firstName": "Kristen",
-    "lastName": "Parks",
-    "avgRating": 4.3,
-    "numRatings": 17,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 90.0,
-    "department": "Political Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1733154"
-  },
-  {
-    "firstName": "Nicholas",
-    "lastName": "Martin",
-    "avgRating": 3.7,
-    "numRatings": 11,
-    "avgDifficulty": 2.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Career Development",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1881717"
-  },
-  {
-    "firstName": "Elizabeth",
-    "lastName": "Barile",
-    "avgRating": 4.8,
-    "numRatings": 11,
-    "avgDifficulty": 2.8,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Chemistry",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2085058"
-  },
-  {
-    "firstName": "Amelito",
-    "lastName": "Enriquez",
-    "avgRating": 4.8,
-    "numRatings": 24,
-    "avgDifficulty": 2.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Engineering",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/449669"
-  },
-  {
-    "firstName": "Carol",
-    "lastName": "Rhodes",
-    "avgRating": 3.2,
-    "numRatings": 43,
-    "avgDifficulty": 3.9,
-    "wouldTakeAgainPercent": 73.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/888110"
-  },
-  {
-    "firstName": "Paul",
-    "lastName": "Stegner",
-    "avgRating": 3.5,
-    "numRatings": 23,
-    "avgDifficulty": 3.4,
-    "wouldTakeAgainPercent": 30.0,
-    "department": "Psychology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1152836"
-  },
-  {
-    "firstName": "Soraya",
-    "lastName": "Sohrabi",
-    "avgRating": 4.0,
-    "numRatings": 2,
-    "avgDifficulty": 2.5,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Career Development",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1361626"
-  },
-  {
-    "firstName": "Thaddeus",
-    "lastName": "Allen",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2388136"
-  },
-  {
-    "firstName": "Sally",
-    "lastName": "Freyberg",
-    "avgRating": 3.5,
-    "numRatings": 23,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 64.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1063773"
-  },
-  {
-    "firstName": "Barry",
-    "lastName": "Thompson",
-    "avgRating": 2.8,
-    "numRatings": 5,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1942098"
-  },
-  {
-    "firstName": "Cheryl",
-    "lastName": "Cathy",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 4.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Engineering",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2379724"
-  },
-  {
-    "firstName": "Nicholas",
-    "lastName": "Jerrard",
-    "avgRating": 5.0,
-    "numRatings": 2,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2052132"
-  },
-  {
-    "firstName": "Theresa",
-    "lastName": "Zemla",
-    "avgRating": 2.1,
-    "numRatings": 17,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 67.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1187610"
-  },
-  {
-    "firstName": "Darafshi",
-    "lastName": "Parvaneh",
-    "avgRating": 1.2,
-    "numRatings": 10,
-    "avgDifficulty": 4.5,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1638143"
-  },
-  {
-    "firstName": "Lisa",
-    "lastName": "Bjerknes",
-    "avgRating": 3.8,
-    "numRatings": 36,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1032162"
-  },
-  {
-    "firstName": "Anita",
-    "lastName": "Fors",
-    "avgRating": 3.1,
-    "numRatings": 4,
-    "avgDifficulty": 4.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Physics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1777512"
-  },
-  {
-    "firstName": "Jenny",
-    "lastName": "Fichmann",
-    "avgRating": 2.2,
-    "numRatings": 33,
-    "avgDifficulty": 3.8,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/848182"
-  },
-  {
-    "firstName": "Charles",
-    "lastName": "Carlson",
-    "avgRating": 4.5,
-    "numRatings": 25,
-    "avgDifficulty": 1.8,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "History",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/451283"
-  },
-  {
-    "firstName": "Frank",
-    "lastName": "Young",
-    "avgRating": 2.9,
-    "numRatings": 43,
-    "avgDifficulty": 2.6,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Philosophy",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/451276"
-  },
-  {
-    "firstName": "Malcolm",
-    "lastName": "Mafi",
-    "avgRating": 4.9,
-    "numRatings": 7,
-    "avgDifficulty": 2.9,
-    "wouldTakeAgainPercent": 86.0,
-    "department": "History",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2233457"
-  },
-  {
-    "firstName": "Rose",
-    "lastName": "Bertha",
-    "avgRating": 1.0,
-    "numRatings": 1,
-    "avgDifficulty": 5.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2264541"
-  },
-  {
-    "firstName": "David",
-    "lastName": "Hamilton",
-    "avgRating": 4.8,
-    "numRatings": 16,
-    "avgDifficulty": 1.7,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Communication",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1939367"
-  },
-  {
-    "firstName": "Bahij",
-    "lastName": "Hanhan",
-    "avgRating": 4.8,
-    "numRatings": 5,
-    "avgDifficulty": 1.4,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1948299"
-  },
-  {
-    "firstName": "Melinda",
-    "lastName": "Ramzel",
-    "avgRating": 5.0,
-    "numRatings": 3,
-    "avgDifficulty": 2.7,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Child Development",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2163778"
-  },
-  {
-    "firstName": "Anjana",
-    "lastName": "Joshi",
-    "avgRating": 2.0,
-    "numRatings": 1,
-    "avgDifficulty": 4.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Interior Design",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2261913"
-  },
-  {
-    "firstName": "Yvette",
-    "lastName": "Butterworth",
-    "avgRating": 3.3,
-    "numRatings": 4,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1971178"
-  },
-  {
-    "firstName": "Paul",
-    "lastName": "Welles",
-    "avgRating": 3.0,
-    "numRatings": 3,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1825295"
-  },
-  {
-    "firstName": "Ginny",
-    "lastName": "Bowen",
-    "avgRating": 4.1,
-    "numRatings": 14,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Fine Arts",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/657574"
-  },
-  {
-    "firstName": "James",
-    "lastName": "Smiley",
-    "avgRating": 4.6,
-    "numRatings": 19,
-    "avgDifficulty": 3.3,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1008960"
-  },
-  {
-    "firstName": "Wanda",
-    "lastName": "Nalls",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 4.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Social Work",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2226721"
-  },
-  {
-    "firstName": "Jess",
-    "lastName": "Miller",
-    "avgRating": 4.3,
-    "numRatings": 2,
-    "avgDifficulty": 2.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Humanities",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1822360"
-  },
-  {
-    "firstName": "Michael",
-    "lastName": "Nagler",
-    "avgRating": 4.4,
-    "numRatings": 12,
-    "avgDifficulty": 1.7,
-    "wouldTakeAgainPercent": 50.0,
-    "department": "Literature",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/104681"
-  },
-  {
-    "firstName": "Muwafaqu",
-    "lastName": "Dr. Al Al-Asad",
-    "avgRating": 1.0,
-    "numRatings": 3,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Medical Assisting",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2117501"
-  },
-  {
-    "firstName": "Joe",
-    "lastName": "Amable",
-    "avgRating": 3.4,
-    "numRatings": 13,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Spanish",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1293563"
-  },
-  {
-    "firstName": "Victoria",
-    "lastName": "Clinton",
-    "avgRating": 2.3,
-    "numRatings": 19,
-    "avgDifficulty": 3.4,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Medical Assisting",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1009674"
-  },
-  {
-    "firstName": "Sam",
-    "lastName": "Rohde",
-    "avgRating": 3.1,
-    "numRatings": 7,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Humanities",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1031669"
-  },
-  {
-    "firstName": "Nguyen",
-    "lastName": "Tai",
-    "avgRating": 3.3,
-    "numRatings": 5,
-    "avgDifficulty": 3.2,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Mathematics",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1141098"
-  },
-  {
-    "firstName": "Sondra",
-    "lastName": "Saterfield",
-    "avgRating": 1.5,
-    "numRatings": 78,
-    "avgDifficulty": 3.6,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Psychology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/308530"
-  },
-  {
-    "firstName": "Carolyn",
-    "lastName": "Jung",
-    "avgRating": 4.7,
-    "numRatings": 14,
-    "avgDifficulty": 1.3,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Business",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/489150"
-  },
-  {
-    "firstName": "Valerie",
-    "lastName": "Goines",
-    "avgRating": 4.4,
-    "numRatings": 22,
-    "avgDifficulty": 2.7,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Child Development",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1008462"
-  },
-  {
-    "firstName": "Gigi",
-    "lastName": "Clark",
-    "avgRating": 4.8,
-    "numRatings": 3,
-    "avgDifficulty": 2.3,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Computer Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1270608"
-  },
-  {
-    "firstName": "Gavin",
-    "lastName": "Deare",
-    "avgRating": 4.5,
-    "numRatings": 2,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "English",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2159570"
-  },
-  {
-    "firstName": "Gary",
-    "lastName": "Ciambrone",
-    "avgRating": 4.3,
-    "numRatings": 13,
-    "avgDifficulty": 2.6,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Biology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/1688343"
-  },
-  {
-    "firstName": "Mona",
-    "lastName": "Abdoun",
-    "avgRating": 4.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Sociology",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2141704"
-  },
-  {
-    "firstName": "Anissa",
-    "lastName": "Gawad",
-    "avgRating": 5.0,
-    "numRatings": 5,
-    "avgDifficulty": 1.6,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Accounting",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/957543"
-  },
-  {
-    "firstName": "Blake",
-    "lastName": "Respini",
-    "avgRating": 2.9,
-    "numRatings": 3,
-    "avgDifficulty": 4.0,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Political Science",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2042888"
-  },
-  {
-    "firstName": "Mallory",
-    "lastName": "Stevens",
-    "avgRating": 5.0,
-    "numRatings": 1,
-    "avgDifficulty": 3.0,
-    "wouldTakeAgainPercent": 100.0,
-    "department": "Computer Information Systems",
-    "school": {
-      "name": "Ca\u00f1ada College",
-      "id": "2811"
-    },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/2150070"
-  }
-]
+    {
+      "firstName": "Mark",
+      "lastName": "Harrison",
+      "avgRating": 3.6,
+      "numRatings": 44,
+      "avgDifficulty": 2.1,
+      "wouldTakeAgainPercent": 71.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1167678"
+    },
+    {
+      "firstName": ".",
+      "lastName": "Meng",
+      "avgRating": 4.4,
+      "numRatings": 28,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 70.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/891935"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Perez",
+      "avgRating": 2.7,
+      "numRatings": 20,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 35.0,
+      "department": "Communication",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2384507"
+    },
+    {
+      "firstName": "Nichole",
+      "lastName": "Coleman",
+      "avgRating": 4.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/3083595"
+    },
+    {
+      "firstName": "Sumathi",
+      "lastName": "Shankar",
+      "avgRating": 3.1,
+      "numRatings": 33,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 52.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2291177"
+    },
+    {
+      "firstName": "Marina",
+      "lastName": "Noel",
+      "avgRating": 5.0,
+      "numRatings": 80,
+      "avgDifficulty": 2.2,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Computer Information Systems",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2591838"
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Harmon",
+      "avgRating": 3.3,
+      "numRatings": 20,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 47.0,
+      "department": "Spanish",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1638672"
+    },
+    {
+      "firstName": "Bridget",
+      "lastName": "Love",
+      "avgRating": 2.1,
+      "numRatings": 12,
+      "avgDifficulty": 4.8,
+      "wouldTakeAgainPercent": 17.0,
+      "department": "Communication",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2595398"
+    },
+    {
+      "firstName": "Haley",
+      "lastName": "Sheetz",
+      "avgRating": 5.0,
+      "numRatings": 4,
+      "avgDifficulty": 1.8,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2952561"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Limm",
+      "avgRating": 3.4,
+      "numRatings": 8,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2879973"
+    },
+    {
+      "firstName": "Lezlee",
+      "lastName": "Ware",
+      "avgRating": 2.5,
+      "numRatings": 86,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 40.0,
+      "department": "Political Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1755276"
+    },
+    {
+      "firstName": "Elizabeth",
+      "lastName": "Terzakis",
+      "avgRating": 4.4,
+      "numRatings": 66,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 84.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/691489"
+    },
+    {
+      "firstName": "Chase",
+      "lastName": "Mirassou",
+      "avgRating": 1.0,
+      "numRatings": 1,
+      "avgDifficulty": 5.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Social Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/3081086"
+    },
+    {
+      "firstName": "Althea",
+      "lastName": "Kippes",
+      "avgRating": 3.8,
+      "numRatings": 6,
+      "avgDifficulty": 3.2,
+      "wouldTakeAgainPercent": 67.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2712035"
+    },
+    {
+      "firstName": "Judy",
+      "lastName": "Choy",
+      "avgRating": 4.5,
+      "numRatings": 13,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 78.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1146429"
+    },
+    {
+      "firstName": "Tracy",
+      "lastName": "DeHaan",
+      "avgRating": 4.5,
+      "numRatings": 12,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 75.0,
+      "department": "Sociology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2668646"
+    },
+    {
+      "firstName": "Raymond",
+      "lastName": "Lapuz",
+      "avgRating": 3.5,
+      "numRatings": 90,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/399754"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Monarres",
+      "avgRating": 4.3,
+      "numRatings": 40,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 88.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1797946"
+    },
+    {
+      "firstName": "Doniella",
+      "lastName": "Maher",
+      "avgRating": 4.0,
+      "numRatings": 19,
+      "avgDifficulty": 3.6,
+      "wouldTakeAgainPercent": 65.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1940257"
+    },
+    {
+      "firstName": "Elna",
+      "lastName": "Murcia Cordoba",
+      "avgRating": 4.0,
+      "numRatings": 3,
+      "avgDifficulty": 4.3,
+      "wouldTakeAgainPercent": 67.0,
+      "department": "Medical Assisting",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2665447"
+    },
+    {
+      "firstName": "Ramin",
+      "lastName": "Ekhtiar",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Marketing",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/3076988"
+    },
+    {
+      "firstName": "Gabe",
+      "lastName": "Lewall",
+      "avgRating": 5.0,
+      "numRatings": 2,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/3016927"
+    },
+    {
+      "firstName": "Duncan",
+      "lastName": "Lawson",
+      "avgRating": 2.4,
+      "numRatings": 36,
+      "avgDifficulty": 4.1,
+      "wouldTakeAgainPercent": 20.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/952975"
+    },
+    {
+      "firstName": "Anthony",
+      "lastName": "Swanson",
+      "avgRating": 4.5,
+      "numRatings": 72,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": 83.0,
+      "department": "History",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/734704"
+    },
+    {
+      "firstName": "Roque",
+      "lastName": "Coral-Herrera",
+      "avgRating": 5.0,
+      "numRatings": 2,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Political Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/3021607"
+    },
+    {
+      "firstName": "Kiran",
+      "lastName": "Malavade",
+      "avgRating": 3.5,
+      "numRatings": 40,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 62.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1734960"
+    },
+    {
+      "firstName": "Joan",
+      "lastName": "McQuade",
+      "avgRating": 4.3,
+      "numRatings": 33,
+      "avgDifficulty": 1.3,
+      "wouldTakeAgainPercent": 80.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1228366"
+    },
+    {
+      "firstName": "Susan",
+      "lastName": "White",
+      "avgRating": 3.7,
+      "numRatings": 22,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 74.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1936820"
+    },
+    {
+      "firstName": "Mary",
+      "lastName": "Cudahy",
+      "avgRating": 4.2,
+      "numRatings": 10,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 80.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2309486"
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Dykes",
+      "avgRating": 3.0,
+      "numRatings": 4,
+      "avgDifficulty": 1.8,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/3012698"
+    },
+    {
+      "firstName": "Rebekah",
+      "lastName": "Taveau",
+      "avgRating": 4.9,
+      "numRatings": 106,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2015445"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Hoffman",
+      "avgRating": 4.6,
+      "numRatings": 67,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 81.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1585870"
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Roscelli",
+      "avgRating": 4.5,
+      "numRatings": 77,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 82.0,
+      "department": "Economics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/586105"
+    },
+    {
+      "firstName": "Sol",
+      "lastName": "Puenzo",
+      "avgRating": 3.1,
+      "numRatings": 22,
+      "avgDifficulty": 4.2,
+      "wouldTakeAgainPercent": 46.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2609250"
+    },
+    {
+      "firstName": "Alexa",
+      "lastName": "Moore",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 5.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Child Development",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/3072143"
+    },
+    {
+      "firstName": "Nick",
+      "lastName": "Demello",
+      "avgRating": 4.6,
+      "numRatings": 43,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 86.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1440170"
+    },
+    {
+      "firstName": "Attila",
+      "lastName": "Elteto",
+      "avgRating": 2.7,
+      "numRatings": 34,
+      "avgDifficulty": 4.1,
+      "wouldTakeAgainPercent": 42.0,
+      "department": "Astronomy",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2133684"
+    },
+    {
+      "firstName": "Bill",
+      "lastName": "Schwarz",
+      "avgRating": 3.2,
+      "numRatings": 126,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 54.0,
+      "department": "Computer Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1870813"
+    },
+    {
+      "firstName": "Nathan",
+      "lastName": "Staples",
+      "avgRating": 4.3,
+      "numRatings": 143,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 78.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/616500"
+    },
+    {
+      "firstName": "Sunil",
+      "lastName": "Shah",
+      "avgRating": 1.3,
+      "numRatings": 14,
+      "avgDifficulty": 4.7,
+      "wouldTakeAgainPercent": 8.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/3021356"
+    },
+    {
+      "firstName": "Michelle",
+      "lastName": "Beatty",
+      "avgRating": 5.0,
+      "numRatings": 5,
+      "avgDifficulty": 3.2,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2262242"
+    },
+    {
+      "firstName": "Gerardo",
+      "lastName": "Pacheco Matus",
+      "avgRating": 3.0,
+      "numRatings": 2,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2932216"
+    },
+    {
+      "firstName": "Nick",
+      "lastName": "Tuttle",
+      "avgRating": 3.8,
+      "numRatings": 5,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": 60.0,
+      "department": "Psychology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2734674"
+    },
+    {
+      "firstName": "Julie",
+      "lastName": "Luu",
+      "avgRating": 4.4,
+      "numRatings": 41,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 83.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2598744"
+    },
+    {
+      "firstName": "Sandra",
+      "lastName": "Mendez",
+      "avgRating": 4.8,
+      "numRatings": 50,
+      "avgDifficulty": 1.9,
+      "wouldTakeAgainPercent": 89.0,
+      "department": "Career Development",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1859293"
+    },
+    {
+      "firstName": "Marc",
+      "lastName": "Zollinger",
+      "avgRating": 5.0,
+      "numRatings": 2,
+      "avgDifficulty": 1.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Music",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2663299"
+    },
+    {
+      "firstName": "Martin",
+      "lastName": "Partlan",
+      "avgRating": 3.8,
+      "numRatings": 42,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 62.0,
+      "department": "Physics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/612960"
+    },
+    {
+      "firstName": "Richard",
+      "lastName": "Schulke",
+      "avgRating": 1.0,
+      "numRatings": 1,
+      "avgDifficulty": 5.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Legal Assisting",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/3067997"
+    },
+    {
+      "firstName": "Camille",
+      "lastName": "Kaslan",
+      "avgRating": 4.3,
+      "numRatings": 10,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 90.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2924654"
+    },
+    {
+      "firstName": "Ami",
+      "lastName": "Smith",
+      "avgRating": 3.8,
+      "numRatings": 55,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 69.0,
+      "department": "Psychology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1860582"
+    },
+    {
+      "firstName": "Mollie",
+      "lastName": "Woodworth",
+      "avgRating": 4.6,
+      "numRatings": 9,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 89.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2273163"
+    },
+    {
+      "firstName": "Malcolm",
+      "lastName": "Gamble",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Communication",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2976662"
+    },
+    {
+      "firstName": "Lance",
+      "lastName": "Lund",
+      "avgRating": 3.0,
+      "numRatings": 2,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2682633"
+    },
+    {
+      "firstName": "Robin",
+      "lastName": "Lise",
+      "avgRating": 4.6,
+      "numRatings": 18,
+      "avgDifficulty": 2.1,
+      "wouldTakeAgainPercent": 84.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2419464"
+    },
+    {
+      "firstName": "Lucas",
+      "lastName": "Cantin",
+      "avgRating": 3.6,
+      "numRatings": 49,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 68.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1788145"
+    },
+    {
+      "firstName": "Ramki",
+      "lastName": "Kalyanaraman",
+      "avgRating": 5.0,
+      "numRatings": 2,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Engineering",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2701993"
+    },
+    {
+      "firstName": "Megan",
+      "lastName": "Rodriguez",
+      "avgRating": 4.6,
+      "numRatings": 10,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/3002049"
+    },
+    {
+      "firstName": "Eileen",
+      "lastName": "Pippins",
+      "avgRating": 1.4,
+      "numRatings": 20,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 10.0,
+      "department": "Communication",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2175685"
+    },
+    {
+      "firstName": "Andrew",
+      "lastName": "Jianyu Yu",
+      "avgRating": 2.8,
+      "numRatings": 4,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2207172"
+    },
+    {
+      "firstName": "Jason",
+      "lastName": "Chang",
+      "avgRating": 4.6,
+      "numRatings": 19,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 77.0,
+      "department": "Philosophy",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1990185"
+    },
+    {
+      "firstName": "Janet",
+      "lastName": "Laurin",
+      "avgRating": 4.8,
+      "numRatings": 11,
+      "avgDifficulty": 1.7,
+      "wouldTakeAgainPercent": 91.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2311833"
+    },
+    {
+      "firstName": "Jason",
+      "lastName": "Dehaan",
+      "avgRating": 4.1,
+      "numRatings": 7,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 72.0,
+      "department": "Sociology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2571092"
+    },
+    {
+      "firstName": "Naheed",
+      "lastName": "Ferguson",
+      "avgRating": 3.6,
+      "numRatings": 5,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 80.0,
+      "department": "Computer Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2713716"
+    },
+    {
+      "firstName": "Justin",
+      "lastName": "Coburn",
+      "avgRating": 3.2,
+      "numRatings": 6,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 34.0,
+      "department": "History",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2149600"
+    },
+    {
+      "firstName": "Amira",
+      "lastName": "Alkeswani",
+      "avgRating": 3.3,
+      "numRatings": 12,
+      "avgDifficulty": 3.2,
+      "wouldTakeAgainPercent": 59.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2893217"
+    },
+    {
+      "firstName": "Douglas",
+      "lastName": "Hirzel",
+      "avgRating": 4.4,
+      "numRatings": 72,
+      "avgDifficulty": 3.8,
+      "wouldTakeAgainPercent": 88.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/344693"
+    },
+    {
+      "firstName": "Ritu",
+      "lastName": "Malhotra",
+      "avgRating": 4.3,
+      "numRatings": 17,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 89.0,
+      "department": "Medical Assisting",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2636575"
+    },
+    {
+      "firstName": "Jessica",
+      "lastName": "Marshall",
+      "avgRating": 3.5,
+      "numRatings": 22,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 56.0,
+      "department": "Anthropology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2063898"
+    },
+    {
+      "firstName": "Lisa",
+      "lastName": "Palmer",
+      "avgRating": 3.5,
+      "numRatings": 52,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 55.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/336679"
+    },
+    {
+      "firstName": "Ana",
+      "lastName": "Miladinova",
+      "avgRating": 4.1,
+      "numRatings": 29,
+      "avgDifficulty": 2.2,
+      "wouldTakeAgainPercent": 80.0,
+      "department": "Physical Education",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1237387"
+    },
+    {
+      "firstName": "Richard",
+      "lastName": "Claire",
+      "avgRating": 4.5,
+      "numRatings": 51,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 92.0,
+      "department": "Accounting",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/606884"
+    },
+    {
+      "firstName": "Ellen",
+      "lastName": "Young",
+      "avgRating": 4.6,
+      "numRatings": 16,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 94.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2496565"
+    },
+    {
+      "firstName": "Gabriel",
+      "lastName": "Prochter",
+      "avgRating": 4.3,
+      "numRatings": 16,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Astronomy",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1400276"
+    },
+    {
+      "firstName": "Maureen",
+      "lastName": "Wiley",
+      "avgRating": 4.9,
+      "numRatings": 12,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2337435"
+    },
+    {
+      "firstName": "Salumeh",
+      "lastName": "Eslamieh",
+      "avgRating": 4.1,
+      "numRatings": 42,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": 78.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/916216"
+    },
+    {
+      "firstName": "Helena",
+      "lastName": "Almassy",
+      "avgRating": 4.6,
+      "numRatings": 5,
+      "avgDifficulty": 1.6,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2947677"
+    },
+    {
+      "firstName": "Allan",
+      "lastName": "Wilcox",
+      "avgRating": 3.9,
+      "numRatings": 54,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 74.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1954969"
+    },
+    {
+      "firstName": "Ramakrishnan",
+      "lastName": "Kalyanaraman",
+      "avgRating": 2.3,
+      "numRatings": 3,
+      "avgDifficulty": 1.7,
+      "wouldTakeAgainPercent": 34.0,
+      "department": "Engineering",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2652132"
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Cravy",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Interior Design",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/3027126"
+    },
+    {
+      "firstName": "Elena",
+      "lastName": "Ivanova",
+      "avgRating": 2.8,
+      "numRatings": 28,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 25.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1332935"
+    },
+    {
+      "firstName": "Mike",
+      "lastName": "Noonan",
+      "avgRating": 4.3,
+      "numRatings": 4,
+      "avgDifficulty": 1.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Political Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2968266"
+    },
+    {
+      "firstName": "Garth",
+      "lastName": "Bunse",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 1.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Humanities",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/3025322"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Eck",
+      "avgRating": 4.7,
+      "numRatings": 32,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 94.0,
+      "department": "Philosophy",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2179136"
+    },
+    {
+      "firstName": "Jennifer",
+      "lastName": "Helton",
+      "avgRating": 3.9,
+      "numRatings": 16,
+      "avgDifficulty": 3.8,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "History",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/230281"
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Glanting",
+      "avgRating": 4.9,
+      "numRatings": 9,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2395762"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Leitner",
+      "avgRating": 4.2,
+      "numRatings": 18,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 86.0,
+      "department": "Anthropology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1579748"
+    },
+    {
+      "firstName": "Bridget",
+      "lastName": "James",
+      "avgRating": 4.7,
+      "numRatings": 18,
+      "avgDifficulty": 1.9,
+      "wouldTakeAgainPercent": 91.0,
+      "department": "Oceanography",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1824919"
+    },
+    {
+      "firstName": "Emanuela",
+      "lastName": "Quaglia",
+      "avgRating": 4.8,
+      "numRatings": 24,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 96.0,
+      "department": "Digital Arts",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2616676"
+    },
+    {
+      "firstName": "Denise",
+      "lastName": "Erickson",
+      "avgRating": 3.8,
+      "numRatings": 70,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": 63.0,
+      "department": "Art History",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/190254"
+    },
+    {
+      "firstName": "Adam",
+      "lastName": "Fahey",
+      "avgRating": 4.5,
+      "numRatings": 58,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 91.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1235427"
+    },
+    {
+      "firstName": "Susan",
+      "lastName": "Mahoney",
+      "avgRating": 4.5,
+      "numRatings": 19,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 86.0,
+      "department": "Geology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1758061"
+    },
+    {
+      "firstName": "Nada",
+      "lastName": "Nekrep",
+      "avgRating": 3.5,
+      "numRatings": 58,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 61.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2030068"
+    },
+    {
+      "firstName": "Alison",
+      "lastName": "Field",
+      "avgRating": 4.7,
+      "numRatings": 39,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "History",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/895299"
+    },
+    {
+      "firstName": "Sandra",
+      "lastName": "Gu",
+      "avgRating": 3.2,
+      "numRatings": 5,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 60.0,
+      "department": "Music",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2402160"
+    },
+    {
+      "firstName": "Robert",
+      "lastName": "Lee",
+      "avgRating": 4.4,
+      "numRatings": 68,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 83.0,
+      "department": "Sociology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/585532"
+    },
+    {
+      "firstName": "Shamal",
+      "lastName": "Patki",
+      "avgRating": 1.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2899662"
+    },
+    {
+      "firstName": "Scott",
+      "lastName": "Koppel",
+      "avgRating": 4.3,
+      "numRatings": 7,
+      "avgDifficulty": 1.9,
+      "wouldTakeAgainPercent": 86.0,
+      "department": "Communication",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2120928"
+    },
+    {
+      "firstName": "Candice",
+      "lastName": "Nance",
+      "avgRating": 4.4,
+      "numRatings": 50,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 92.0,
+      "department": "International Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1879846"
+    },
+    {
+      "firstName": "Nadine",
+      "lastName": "Ferguson",
+      "avgRating": 3.8,
+      "numRatings": 9,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 67.0,
+      "department": "Computer Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2849912"
+    },
+    {
+      "firstName": "Bobby",
+      "lastName": "Seals",
+      "avgRating": 5.0,
+      "numRatings": 2,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Ethnic Studies",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2976659"
+    },
+    {
+      "firstName": "Lale",
+      "lastName": "Yurtseven",
+      "avgRating": 4.4,
+      "numRatings": 18,
+      "avgDifficulty": 2.1,
+      "wouldTakeAgainPercent": 67.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1959332"
+    },
+    {
+      "firstName": "Fahimeh",
+      "lastName": "Faridnia",
+      "avgRating": 4.3,
+      "numRatings": 6,
+      "avgDifficulty": 1.0,
+      "wouldTakeAgainPercent": 84.0,
+      "department": "Career Development",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2814657"
+    },
+    {
+      "firstName": "Lobna",
+      "lastName": "Alamoush",
+      "avgRating": 1.0,
+      "numRatings": 1,
+      "avgDifficulty": 1.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Medical Assisting",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2842310"
+    },
+    {
+      "firstName": "Malori",
+      "lastName": "Redman",
+      "avgRating": 5.0,
+      "numRatings": 3,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Oceanography",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2873150"
+    },
+    {
+      "firstName": "Sumithira",
+      "lastName": "Sukumar",
+      "avgRating": 3.0,
+      "numRatings": 2,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Engineering",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2499382"
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Naas",
+      "avgRating": 4.5,
+      "numRatings": 12,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 75.0,
+      "department": "Graphic Arts",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1176201"
+    },
+    {
+      "firstName": "Kevyn",
+      "lastName": "Lorenzana",
+      "avgRating": 4.0,
+      "numRatings": 1,
+      "avgDifficulty": 1.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Ethnic Studies",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2980158"
+    },
+    {
+      "firstName": "Nance",
+      "lastName": "Carrigan",
+      "avgRating": 4.7,
+      "numRatings": 11,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2010150"
+    },
+    {
+      "firstName": "Yolanda",
+      "lastName": "Valenzuela",
+      "avgRating": 4.3,
+      "numRatings": 20,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/682854"
+    },
+    {
+      "firstName": "Vera",
+      "lastName": "Klimkovsky",
+      "avgRating": 4.5,
+      "numRatings": 41,
+      "avgDifficulty": 2.2,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/751359"
+    },
+    {
+      "firstName": "Gampi",
+      "lastName": "Shankar",
+      "avgRating": 4.5,
+      "numRatings": 21,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 86.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2422314"
+    },
+    {
+      "firstName": "Leonor",
+      "lastName": "Cabrera",
+      "avgRating": 3.8,
+      "numRatings": 57,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 87.0,
+      "department": "Accounting",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/947207"
+    },
+    {
+      "firstName": "Doug",
+      "lastName": "Woods",
+      "avgRating": 4.6,
+      "numRatings": 32,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 91.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2455642"
+    },
+    {
+      "firstName": "Sue",
+      "lastName": "Krishna",
+      "avgRating": 1.0,
+      "numRatings": 2,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Education",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2691013"
+    },
+    {
+      "firstName": "Elizabeth",
+      "lastName": "Schuler",
+      "avgRating": 3.4,
+      "numRatings": 7,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 34.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1753082"
+    },
+    {
+      "firstName": "Vera",
+      "lastName": "Quijano",
+      "avgRating": 4.8,
+      "numRatings": 25,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Kinesiology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/698308"
+    },
+    {
+      "firstName": "Barry",
+      "lastName": "Thomson",
+      "avgRating": 4.3,
+      "numRatings": 21,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Microbiology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/931457"
+    },
+    {
+      "firstName": "Bill",
+      "lastName": "Morales",
+      "avgRating": 4.6,
+      "numRatings": 13,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": 80.0,
+      "department": "Art",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/934308"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Stanford",
+      "avgRating": 3.3,
+      "numRatings": 87,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 42.0,
+      "department": "History",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/882938"
+    },
+    {
+      "firstName": "Agatha",
+      "lastName": "Kuczera",
+      "avgRating": 5.0,
+      "numRatings": 2,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Communication",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2736351"
+    },
+    {
+      "firstName": "Jessica",
+      "lastName": "Kaven",
+      "avgRating": 4.3,
+      "numRatings": 28,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 67.0,
+      "department": "Communication",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1678451"
+    },
+    {
+      "firstName": "Evan",
+      "lastName": "Innerst",
+      "avgRating": 4.9,
+      "numRatings": 118,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 96.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/474058"
+    },
+    {
+      "firstName": "Juleh",
+      "lastName": "Mclintock",
+      "avgRating": 1.6,
+      "numRatings": 8,
+      "avgDifficulty": 4.6,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2260522"
+    },
+    {
+      "firstName": "Katie",
+      "lastName": "Perkins",
+      "avgRating": 5.0,
+      "numRatings": 3,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Kinesiology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2603890"
+    },
+    {
+      "firstName": "Jaime",
+      "lastName": "Dubeibe",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Psychology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2886288"
+    },
+    {
+      "firstName": "Rafael",
+      "lastName": "Rivera",
+      "avgRating": 2.3,
+      "numRatings": 8,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 40.0,
+      "department": "Radiological Sciences",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1465072"
+    },
+    {
+      "firstName": "Levalasi",
+      "lastName": "Loi-On",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Ethnic Studies",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2863947"
+    },
+    {
+      "firstName": "Cheri",
+      "lastName": "Markt",
+      "avgRating": 3.1,
+      "numRatings": 8,
+      "avgDifficulty": 2.9,
+      "wouldTakeAgainPercent": 63.0,
+      "department": "Engineering",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2152288"
+    },
+    {
+      "firstName": "Angela",
+      "lastName": "Gibson",
+      "avgRating": 1.7,
+      "numRatings": 3,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Oceanography",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2464751"
+    },
+    {
+      "firstName": "Sarita",
+      "lastName": "Santos",
+      "avgRating": 4.4,
+      "numRatings": 14,
+      "avgDifficulty": 2.2,
+      "wouldTakeAgainPercent": 86.0,
+      "department": "Child Development",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2294827"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Meckler",
+      "avgRating": 2.9,
+      "numRatings": 32,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 38.0,
+      "department": "Music",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/451278"
+    },
+    {
+      "firstName": "Lucia",
+      "lastName": "Olson",
+      "avgRating": 3.7,
+      "numRatings": 13,
+      "avgDifficulty": 1.7,
+      "wouldTakeAgainPercent": 58.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1642467"
+    },
+    {
+      "firstName": "Patty",
+      "lastName": "Hall",
+      "avgRating": 4.9,
+      "numRatings": 9,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Child Development",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1922568"
+    },
+    {
+      "firstName": "Monica",
+      "lastName": "Malamud",
+      "avgRating": 3.4,
+      "numRatings": 20,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 75.0,
+      "department": "Spanish",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/851700"
+    },
+    {
+      "firstName": "Amira",
+      "lastName": "Abedrabbo",
+      "avgRating": 4.7,
+      "numRatings": 18,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 89.0,
+      "department": "Spanish",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1864069"
+    },
+    {
+      "firstName": "Betsy",
+      "lastName": "Mueller",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Interior Design",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2874984"
+    },
+    {
+      "firstName": "Bachir",
+      "lastName": "Hadid",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2818986"
+    },
+    {
+      "firstName": "Elsa",
+      "lastName": "Torres",
+      "avgRating": 4.2,
+      "numRatings": 5,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Interior Design",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2104608"
+    },
+    {
+      "firstName": "Diane",
+      "lastName": "Wakeham",
+      "avgRating": 4.6,
+      "numRatings": 7,
+      "avgDifficulty": 3.9,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/852652"
+    },
+    {
+      "firstName": "Bridgette",
+      "lastName": "M'Guinness",
+      "avgRating": 4.7,
+      "numRatings": 26,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 88.0,
+      "department": "Political Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/104685"
+    },
+    {
+      "firstName": "Berenice",
+      "lastName": "Cabrera",
+      "avgRating": 4.9,
+      "numRatings": 7,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2552135"
+    },
+    {
+      "firstName": "Kathleen",
+      "lastName": "Haven",
+      "avgRating": 3.8,
+      "numRatings": 2,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1915364"
+    },
+    {
+      "firstName": "Michelle",
+      "lastName": "Williams",
+      "avgRating": 2.9,
+      "numRatings": 11,
+      "avgDifficulty": 3.6,
+      "wouldTakeAgainPercent": 34.0,
+      "department": "Economics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1419777"
+    },
+    {
+      "firstName": "Ronda",
+      "lastName": "Chaney",
+      "avgRating": 4.8,
+      "numRatings": 12,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Fashion",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1010005"
+    },
+    {
+      "firstName": "Judy",
+      "lastName": "Jackson",
+      "avgRating": 4.0,
+      "numRatings": 4,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 75.0,
+      "department": "Fashion",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2154362"
+    },
+    {
+      "firstName": "Kevin",
+      "lastName": "Nelson",
+      "avgRating": 4.2,
+      "numRatings": 6,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 80.0,
+      "department": "Economics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1916139"
+    },
+    {
+      "firstName": "Dr.",
+      "lastName": "Jean Dupon",
+      "avgRating": 2.5,
+      "numRatings": 2,
+      "avgDifficulty": 4.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1911955"
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Budd",
+      "avgRating": 3.5,
+      "numRatings": 20,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": 72.0,
+      "department": "Theater",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1136742"
+    },
+    {
+      "firstName": "Jeanette",
+      "lastName": "Green",
+      "avgRating": 2.9,
+      "numRatings": 33,
+      "avgDifficulty": 4.2,
+      "wouldTakeAgainPercent": 45.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1843433"
+    },
+    {
+      "firstName": "Jeanne",
+      "lastName": "Digel",
+      "avgRating": 3.1,
+      "numRatings": 36,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 42.0,
+      "department": "Astronomy",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1022967"
+    },
+    {
+      "firstName": "Po",
+      "lastName": "Tong",
+      "avgRating": 4.6,
+      "numRatings": 38,
+      "avgDifficulty": 3.6,
+      "wouldTakeAgainPercent": 86.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2050740"
+    },
+    {
+      "firstName": "Rika",
+      "lastName": "Fabian",
+      "avgRating": 4.0,
+      "numRatings": 9,
+      "avgDifficulty": 3.6,
+      "wouldTakeAgainPercent": 67.0,
+      "department": "Sociology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1817118"
+    },
+    {
+      "firstName": "Barbara",
+      "lastName": "Fatum",
+      "avgRating": 3.0,
+      "numRatings": 3,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 34.0,
+      "department": "Social Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2186918"
+    },
+    {
+      "firstName": "Khazar",
+      "lastName": "James",
+      "avgRating": 2.9,
+      "numRatings": 6,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 67.0,
+      "department": "Art",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1727215"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Saunders",
+      "avgRating": 1.0,
+      "numRatings": 1,
+      "avgDifficulty": 5.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2390635"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Gainey",
+      "avgRating": 5.0,
+      "numRatings": 4,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Digital Arts",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2656770"
+    },
+    {
+      "firstName": "Bernadette",
+      "lastName": "Newland",
+      "avgRating": 2.0,
+      "numRatings": 1,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Medical Assisting",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2666014"
+    },
+    {
+      "firstName": "Jeanette",
+      "lastName": "Medina",
+      "avgRating": 3.9,
+      "numRatings": 49,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 64.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/780979"
+    },
+    {
+      "firstName": "Jamie",
+      "lastName": "Smith",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 1.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Education",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2750103"
+    },
+    {
+      "firstName": "Brian",
+      "lastName": "Bennett",
+      "avgRating": 4.5,
+      "numRatings": 15,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 80.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2599021"
+    },
+    {
+      "firstName": "Peggy",
+      "lastName": "Perruccio",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Fashion",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2411528"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Schweppe",
+      "avgRating": 4.2,
+      "numRatings": 20,
+      "avgDifficulty": 2.9,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1322798"
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Sumstad",
+      "avgRating": 4.5,
+      "numRatings": 2,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2329945"
+    },
+    {
+      "firstName": "Jett",
+      "lastName": "Chinn",
+      "avgRating": 3.7,
+      "numRatings": 62,
+      "avgDifficulty": 4.6,
+      "wouldTakeAgainPercent": 67.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1219164"
+    },
+    {
+      "firstName": "Ben",
+      "lastName": "Stefonik",
+      "avgRating": 4.6,
+      "numRatings": 9,
+      "avgDifficulty": 2.2,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Psychology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1122343"
+    },
+    {
+      "firstName": "Gheisa",
+      "lastName": "(Andrea) Schmidt",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Dance",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2708508"
+    },
+    {
+      "firstName": "Kim",
+      "lastName": "Huynh",
+      "avgRating": 1.8,
+      "numRatings": 6,
+      "avgDifficulty": 4.3,
+      "wouldTakeAgainPercent": 17.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2612492"
+    },
+    {
+      "firstName": "Robert",
+      "lastName": "Tricca",
+      "avgRating": 4.3,
+      "numRatings": 48,
+      "avgDifficulty": 2.9,
+      "wouldTakeAgainPercent": 95.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1304250"
+    },
+    {
+      "firstName": "Mariella",
+      "lastName": "Thaning",
+      "avgRating": 3.0,
+      "numRatings": 2,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Communication",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2347566"
+    },
+    {
+      "firstName": "Barbara",
+      "lastName": "Velline",
+      "avgRating": 5.0,
+      "numRatings": 4,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Accounting",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2470518"
+    },
+    {
+      "firstName": "Daniella",
+      "lastName": "Maher",
+      "avgRating": 4.9,
+      "numRatings": 10,
+      "avgDifficulty": 1.9,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1295554"
+    },
+    {
+      "firstName": "Patricia",
+      "lastName": "Hall",
+      "avgRating": 3.9,
+      "numRatings": 14,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 65.0,
+      "department": "Child Development",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2291615"
+    },
+    {
+      "firstName": "Elena",
+      "lastName": "Ivanova",
+      "avgRating": 2.8,
+      "numRatings": 28,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 25.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1332935"
+    },
+    {
+      "firstName": "Teresa",
+      "lastName": "Bittner",
+      "avgRating": 4.0,
+      "numRatings": 1,
+      "avgDifficulty": 5.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2615901"
+    },
+    {
+      "firstName": "Radu",
+      "lastName": "Toma",
+      "avgRating": 3.6,
+      "numRatings": 32,
+      "avgDifficulty": 3.2,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/705549"
+    },
+    {
+      "firstName": "Guibo",
+      "lastName": "Zhu",
+      "avgRating": 5.0,
+      "numRatings": 5,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2315442"
+    },
+    {
+      "firstName": "Jan",
+      "lastName": "Lawrence",
+      "avgRating": 3.6,
+      "numRatings": 14,
+      "avgDifficulty": 2.9,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Child Development",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1094741"
+    },
+    {
+      "firstName": "Erik",
+      "lastName": "Gaspar",
+      "avgRating": 4.9,
+      "numRatings": 10,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Kinesiology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1712261"
+    },
+    {
+      "firstName": "William",
+      "lastName": "Haine",
+      "avgRating": 4.0,
+      "numRatings": 22,
+      "avgDifficulty": 2.9,
+      "wouldTakeAgainPercent": 58.0,
+      "department": "History",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/451282"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Smith",
+      "avgRating": 3.4,
+      "numRatings": 5,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 80.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2413033"
+    },
+    {
+      "firstName": "danielle",
+      "lastName": "pelletier",
+      "avgRating": 3.3,
+      "numRatings": 3,
+      "avgDifficulty": 4.3,
+      "wouldTakeAgainPercent": 34.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2288831"
+    },
+    {
+      "firstName": "Hyla",
+      "lastName": "Lacefield",
+      "avgRating": 3.8,
+      "numRatings": 11,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Digital Arts",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1692637"
+    },
+    {
+      "firstName": "Denise",
+      "lastName": "Hum",
+      "avgRating": 3.4,
+      "numRatings": 34,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 40.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1230786"
+    },
+    {
+      "firstName": "William",
+      "lastName": "Haines",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "History",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2560936"
+    },
+    {
+      "firstName": "Taliha",
+      "lastName": "Pasaoglu",
+      "avgRating": 5.0,
+      "numRatings": 3,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2332172"
+    },
+    {
+      "firstName": "Alicia",
+      "lastName": "Aguirre",
+      "avgRating": 4.3,
+      "numRatings": 15,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/957601"
+    },
+    {
+      "firstName": "Eric",
+      "lastName": "Yap",
+      "avgRating": 1.3,
+      "numRatings": 3,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Accounting",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2226198"
+    },
+    {
+      "firstName": "Anthony",
+      "lastName": "Perez",
+      "avgRating": 4.2,
+      "numRatings": 48,
+      "avgDifficulty": 2.9,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Communication",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/451267"
+    },
+    {
+      "firstName": "Richard",
+      "lastName": "Follansbee",
+      "avgRating": 3.5,
+      "numRatings": 71,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 43.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/451279"
+    },
+    {
+      "firstName": "Kimberly",
+      "lastName": "Kirchoff-Stein",
+      "avgRating": 4.8,
+      "numRatings": 27,
+      "avgDifficulty": 2.2,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/104683"
+    },
+    {
+      "firstName": "Danielle",
+      "lastName": "Behonick",
+      "avgRating": 4.5,
+      "numRatings": 50,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 95.0,
+      "department": "Health Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1292447"
+    },
+    {
+      "firstName": "Anniqua",
+      "lastName": "Rana",
+      "avgRating": 4.5,
+      "numRatings": 13,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/407089"
+    },
+    {
+      "firstName": "Che",
+      "lastName": "Meneses",
+      "avgRating": 3.6,
+      "numRatings": 11,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": 73.0,
+      "department": "Communication",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2335024"
+    },
+    {
+      "firstName": "Matthew",
+      "lastName": "Bertens",
+      "avgRating": 3.0,
+      "numRatings": 6,
+      "avgDifficulty": 3.8,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/283974"
+    },
+    {
+      "firstName": "Christopher",
+      "lastName": "Smith",
+      "avgRating": 5.0,
+      "numRatings": 3,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Web Design",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2457773"
+    },
+    {
+      "firstName": "Susan",
+      "lastName": "Gangel",
+      "avgRating": 4.2,
+      "numRatings": 61,
+      "avgDifficulty": 1.7,
+      "wouldTakeAgainPercent": 93.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/246388"
+    },
+    {
+      "firstName": "Nik",
+      "lastName": "Tehrani",
+      "avgRating": 2.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2496572"
+    },
+    {
+      "firstName": "Karie",
+      "lastName": "Tappmeyer",
+      "avgRating": 2.7,
+      "numRatings": 19,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Speech Communication",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1253102"
+    },
+    {
+      "firstName": "Tomas",
+      "lastName": "Torok",
+      "avgRating": 3.8,
+      "numRatings": 45,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 80.0,
+      "department": "Microbiology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/648831"
+    },
+    {
+      "firstName": "Melinda",
+      "lastName": "Day",
+      "avgRating": 5.0,
+      "numRatings": 2,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Child Development",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2384704"
+    },
+    {
+      "firstName": "Nick",
+      "lastName": "Maffei",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2483670"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Clay",
+      "avgRating": 3.7,
+      "numRatings": 37,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 84.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/505674"
+    },
+    {
+      "firstName": "Kristen",
+      "lastName": "Parks",
+      "avgRating": 4.3,
+      "numRatings": 17,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 90.0,
+      "department": "Political Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1733154"
+    },
+    {
+      "firstName": "Nicholas",
+      "lastName": "Martin",
+      "avgRating": 3.7,
+      "numRatings": 11,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Career Development",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1881717"
+    },
+    {
+      "firstName": "Elizabeth",
+      "lastName": "Barile",
+      "avgRating": 4.8,
+      "numRatings": 11,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Chemistry",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2085058"
+    },
+    {
+      "firstName": "Amelito",
+      "lastName": "Enriquez",
+      "avgRating": 4.8,
+      "numRatings": 24,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Engineering",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/449669"
+    },
+    {
+      "firstName": "Carol",
+      "lastName": "Rhodes",
+      "avgRating": 3.2,
+      "numRatings": 43,
+      "avgDifficulty": 3.9,
+      "wouldTakeAgainPercent": 73.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/888110"
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Stegner",
+      "avgRating": 3.5,
+      "numRatings": 23,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 30.0,
+      "department": "Psychology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1152836"
+    },
+    {
+      "firstName": "Soraya",
+      "lastName": "Sohrabi",
+      "avgRating": 4.0,
+      "numRatings": 2,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Career Development",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1361626"
+    },
+    {
+      "firstName": "Thaddeus",
+      "lastName": "Allen",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2388136"
+    },
+    {
+      "firstName": "Sally",
+      "lastName": "Freyberg",
+      "avgRating": 3.5,
+      "numRatings": 23,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 64.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1063773"
+    },
+    {
+      "firstName": "Barry",
+      "lastName": "Thompson",
+      "avgRating": 2.8,
+      "numRatings": 5,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1942098"
+    },
+    {
+      "firstName": "Cheryl",
+      "lastName": "Cathy",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Engineering",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2379724"
+    },
+    {
+      "firstName": "Nicholas",
+      "lastName": "Jerrard",
+      "avgRating": 5.0,
+      "numRatings": 2,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2052132"
+    },
+    {
+      "firstName": "Theresa",
+      "lastName": "Zemla",
+      "avgRating": 2.1,
+      "numRatings": 17,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 67.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1187610"
+    },
+    {
+      "firstName": "Darafshi",
+      "lastName": "Parvaneh",
+      "avgRating": 1.2,
+      "numRatings": 10,
+      "avgDifficulty": 4.5,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1638143"
+    },
+    {
+      "firstName": "Lisa",
+      "lastName": "Bjerknes",
+      "avgRating": 3.8,
+      "numRatings": 36,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1032162"
+    },
+    {
+      "firstName": "Anita",
+      "lastName": "Fors",
+      "avgRating": 3.1,
+      "numRatings": 4,
+      "avgDifficulty": 4.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Physics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1777512"
+    },
+    {
+      "firstName": "Jenny",
+      "lastName": "Fichmann",
+      "avgRating": 2.2,
+      "numRatings": 33,
+      "avgDifficulty": 3.8,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/848182"
+    },
+    {
+      "firstName": "Charles",
+      "lastName": "Carlson",
+      "avgRating": 4.5,
+      "numRatings": 25,
+      "avgDifficulty": 1.8,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "History",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/451283"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Young",
+      "avgRating": 2.9,
+      "numRatings": 43,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Philosophy",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/451276"
+    },
+    {
+      "firstName": "Malcolm",
+      "lastName": "Mafi",
+      "avgRating": 4.9,
+      "numRatings": 7,
+      "avgDifficulty": 2.9,
+      "wouldTakeAgainPercent": 86.0,
+      "department": "History",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2233457"
+    },
+    {
+      "firstName": "Rose",
+      "lastName": "Bertha",
+      "avgRating": 1.0,
+      "numRatings": 1,
+      "avgDifficulty": 5.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2264541"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Hamilton",
+      "avgRating": 4.8,
+      "numRatings": 16,
+      "avgDifficulty": 1.7,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Communication",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1939367"
+    },
+    {
+      "firstName": "Bahij",
+      "lastName": "Hanhan",
+      "avgRating": 4.8,
+      "numRatings": 5,
+      "avgDifficulty": 1.4,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1948299"
+    },
+    {
+      "firstName": "Melinda",
+      "lastName": "Ramzel",
+      "avgRating": 5.0,
+      "numRatings": 3,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Child Development",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2163778"
+    },
+    {
+      "firstName": "Anjana",
+      "lastName": "Joshi",
+      "avgRating": 2.0,
+      "numRatings": 1,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Interior Design",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2261913"
+    },
+    {
+      "firstName": "Yvette",
+      "lastName": "Butterworth",
+      "avgRating": 3.3,
+      "numRatings": 4,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1971178"
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Welles",
+      "avgRating": 3.0,
+      "numRatings": 3,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1825295"
+    },
+    {
+      "firstName": "Ginny",
+      "lastName": "Bowen",
+      "avgRating": 4.1,
+      "numRatings": 14,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Fine Arts",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/657574"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Smiley",
+      "avgRating": 4.6,
+      "numRatings": 19,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1008960"
+    },
+    {
+      "firstName": "Wanda",
+      "lastName": "Nalls",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Social Work",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2226721"
+    },
+    {
+      "firstName": "Jess",
+      "lastName": "Miller",
+      "avgRating": 4.3,
+      "numRatings": 2,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Humanities",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1822360"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Nagler",
+      "avgRating": 4.4,
+      "numRatings": 12,
+      "avgDifficulty": 1.7,
+      "wouldTakeAgainPercent": 50.0,
+      "department": "Literature",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/104681"
+    },
+    {
+      "firstName": "Muwafaqu",
+      "lastName": "Dr. Al Al-Asad",
+      "avgRating": 1.0,
+      "numRatings": 3,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Medical Assisting",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2117501"
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Amable",
+      "avgRating": 3.4,
+      "numRatings": 13,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Spanish",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1293563"
+    },
+    {
+      "firstName": "Victoria",
+      "lastName": "Clinton",
+      "avgRating": 2.3,
+      "numRatings": 19,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Medical Assisting",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1009674"
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Rohde",
+      "avgRating": 3.1,
+      "numRatings": 7,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Humanities",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1031669"
+    },
+    {
+      "firstName": "Nguyen",
+      "lastName": "Tai",
+      "avgRating": 3.3,
+      "numRatings": 5,
+      "avgDifficulty": 3.2,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Mathematics",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1141098"
+    },
+    {
+      "firstName": "Sondra",
+      "lastName": "Saterfield",
+      "avgRating": 1.5,
+      "numRatings": 78,
+      "avgDifficulty": 3.6,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Psychology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/308530"
+    },
+    {
+      "firstName": "Carolyn",
+      "lastName": "Jung",
+      "avgRating": 4.7,
+      "numRatings": 14,
+      "avgDifficulty": 1.3,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Business",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/489150"
+    },
+    {
+      "firstName": "Valerie",
+      "lastName": "Goines",
+      "avgRating": 4.4,
+      "numRatings": 22,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Child Development",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1008462"
+    },
+    {
+      "firstName": "Gigi",
+      "lastName": "Clark",
+      "avgRating": 4.8,
+      "numRatings": 3,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Computer Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1270608"
+    },
+    {
+      "firstName": "Gavin",
+      "lastName": "Deare",
+      "avgRating": 4.5,
+      "numRatings": 2,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "English",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2159570"
+    },
+    {
+      "firstName": "Gary",
+      "lastName": "Ciambrone",
+      "avgRating": 4.3,
+      "numRatings": 13,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Biology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/1688343"
+    },
+    {
+      "firstName": "Mona",
+      "lastName": "Abdoun",
+      "avgRating": 4.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Sociology",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2141704"
+    },
+    {
+      "firstName": "Anissa",
+      "lastName": "Gawad",
+      "avgRating": 5.0,
+      "numRatings": 5,
+      "avgDifficulty": 1.6,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Accounting",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/957543"
+    },
+    {
+      "firstName": "Blake",
+      "lastName": "Respini",
+      "avgRating": 2.9,
+      "numRatings": 3,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 0.0,
+      "department": "Political Science",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2042888"
+    },
+    {
+      "firstName": "Mallory",
+      "lastName": "Stevens",
+      "avgRating": 5.0,
+      "numRatings": 1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100.0,
+      "department": "Computer Information Systems",
+      "school": {
+        "name": "Ca\u00f1ada College",
+        "id": "2811"
+      },
+      "profileUrl": "https://www.ratemyprofessors.com/professor/2150070"
+    }
+  ]

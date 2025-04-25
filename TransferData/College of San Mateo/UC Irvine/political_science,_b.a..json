@@ -1,0 +1,621 @@
+{
+  "major_title": "Political Science, B.A.",
+  "sending_school": "College of San Mateo",
+  "receiving_school": "University of California, Irvine",
+  "options": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Select  4 courses from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 11A",
+              "title": "Introduction to Political Science: Political Analysis",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 100",
+                "title": "Introduction to Political Science",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 11B",
+              "title": "Introduction to Political Science: Macropolitics",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 11C",
+              "title": "Introduction to Political Science: Micropolitics",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 21A",
+              "title": "Introduction to American Government",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 200",
+                "title": "National, State and Local Governments",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "PLSC 210",
+                "title": "American Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 31A",
+              "title": "Introduction to Political Theory",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 150",
+                "title": "Introduction to Political Theory and Thought",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 41A",
+              "title": "Introduction to International Relations",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 130",
+                "title": "Introduction to International Relations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 51A",
+              "title": "Introduction to Politics Around the World",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 110",
+                "title": "Introduction to Comparative Government and Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 61A",
+              "title": "Introduction to Race and Ethnicity in Political Science",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "POL SCI 71A",
+              "title": "Introduction to Law",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Select  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Political Science not already used",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 110",
+                "title": "Introduction to Comparative Government and Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 130",
+                "title": "Introduction to International Relations",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 200",
+                "title": "National, State and Local Governments",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 210",
+                "title": "American Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 215",
+                "title": "Contemporary Issues in American Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "Select  1 course from   the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "Political Science or other Social Science discipline",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 110",
+                "title": "Cultural Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ANTH 180",
+                "title": "Magic, Science and Religion",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macroeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Microeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ETHN 101",
+                "title": "Latin America and Indigenous Peoples History and Culture",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ETHN 300",
+                "title": "Introduction to La Raza Studies",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "GEOG 100",
+                "title": "Physical Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "GEOG 110",
+                "title": "Cultural Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "GEOG 150",
+                "title": "World Regional Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 100",
+                "title": "Introduction to Political Science",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 110",
+                "title": "Introduction to Comparative Government and Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 200",
+                "title": "National, State and Local Governments",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 210",
+                "title": "American Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 215",
+                "title": "Contemporary Issues in American Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 200",
+                "title": "Developmental Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 201",
+                "title": "Child Development",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 220",
+                "title": "Introduction to Psychobiology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 225",
+                "title": "Theories of Personality",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 300",
+                "title": "Social Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 410",
+                "title": "Abnormal Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOCI 105",
+                "title": "Social Problems",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 110",
+                "title": "Courtship, Marriage and the Family",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOCI 141",
+                "title": "Race and Ethnic Relations",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ANTH 110",
+                "title": "Cultural Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ANTH 180",
+                "title": "Magic, Science and Religion",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macroeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Microeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ETHN 101",
+                "title": "Latin America and Indigenous Peoples History and Culture",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ETHN 300",
+                "title": "Introduction to La Raza Studies",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "GEOG 100",
+                "title": "Physical Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "GEOG 110",
+                "title": "Cultural Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "GEOG 150",
+                "title": "World Regional Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 100",
+                "title": "Introduction to Political Science",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 110",
+                "title": "Introduction to Comparative Government and Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 130",
+                "title": "Introduction to International Relations",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 200",
+                "title": "National, State and Local Governments",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 210",
+                "title": "American Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 215",
+                "title": "Contemporary Issues in American Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 100",
+                "title": "General Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 110",
+                "title": "Courtship, Marriage and the Family",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 200",
+                "title": "Developmental Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 201",
+                "title": "Child Development",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 220",
+                "title": "Introduction to Psychobiology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 225",
+                "title": "Theories of Personality",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 300",
+                "title": "Social Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 410",
+                "title": "Abnormal Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOCI 105",
+                "title": "Social Problems",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOCI 141",
+                "title": "Race and Ethnic Relations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ],
+    "MATHEMATICS REQUIREMENT": [
+      {
+        "label": "A",
+        "block_number": "4",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "School of Social Sciences Math Requirement",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability and Statistics",
+                "units": "4.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PSYC 121",
+                "title": "Basic Statistical Concepts",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "BUS. 123",
+                "title": "Business Statistics",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "4",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SOC SCI 10A",
+              "title": "Probability and Statistics in the Social Sciences I",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR REQUIREMENTS": [
+      {
+        "label": "A",
+        "block_number": "5",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "I&C SCI 31",
+              "title": "Introduction to Programming",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "5",
+        "instructions": "CompleteAorB",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SOC SCI 3A",
+              "title": "Computer-Based Research in the Social Sciences",
+              "units": "4.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

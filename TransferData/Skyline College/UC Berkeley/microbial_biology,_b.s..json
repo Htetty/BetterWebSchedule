@@ -1,0 +1,1138 @@
+{
+  "major_title": "Microbial Biology, B.S.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Berkeley",
+  "options": {
+    "major requirements": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ENGLISH R1A",
+              "title": "Reading and Composition",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGL 100",
+                "title": "Reading and Composition",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ENGL 105",
+                "title": "Reading and Composition with Support",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ENGLISH R1B",
+              "title": "Reading and Composition",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "ENGL 110",
+                "title": "Composition, Literature, and Critical Thinking",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "ENGL 165",
+                "title": "Composition, Argument and Critical Thinking",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHEM 1A",
+              "title": "General Chemistry",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 210",
+                "title": "General Chemistry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHEM 3A",
+              "title": "Chemical Structure and Reactivity",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 234",
+                "title": "Organic Chemistry I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 237",
+                "title": "Organic Chemistry Lab I",
+                "units": "2.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "CHEM 3B",
+              "title": "Chemical Structure and Reactivity",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHEM 235",
+                "title": "Organic Chemistry II",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHEM 238",
+                "title": "Organic Chemistry Lab II",
+                "units": "2.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "BIOLOGY 1A",
+              "title": "General Biology Lecture (Cells, Genetics, Animal Form & Function)",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 230",
+                "title": "Introduction to Cell Biology: Core II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "BIOLOGY 1B",
+              "title": "General Biology (Plant Form & Function, Ecology, Evolution)",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BIOL 215",
+                "title": "Organismal Biology: Core I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "1",
+        "instructions": "CompleteA,B,C,andD",
+        "attribute": "Please refer to additional important General Information section above",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "MATH 16A",
+              "title": "Analytic Geometry and Calculus",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 241",
+                "title": "Applied Calculus I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 16B",
+              "title": "Analytic Geometry and Calculus",
+              "units": "3.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 242",
+                "title": "Applied Calculus II",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 243",
+                "title": "Applied Calculus II with Trigonometry",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 1A",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 251",
+                "title": "Calculus with Analytic Geometry I",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 1B",
+              "title": "Calculus",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 252",
+                "title": "Calculus with Analytic Geometry II",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 10A",
+              "title": "Methods of Mathematics: Calculus, Statistics, and Combinatorics",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "MATH 10B",
+              "title": "Methods of Mathematics: Calculus, Statistics, and Combinatorics",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "HIGHLY RECOMMENDED": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "CompleteAandB",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "STAT 2",
+              "title": "Introduction to Statistics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "BUS. 123",
+                "title": "Statistics",
+                "units": "3.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "MATH 200",
+                "title": "Elementary Probability & Statistics",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "STAT C8",
+              "title": "Foundations of Data Science",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 211",
+                "title": "Introduction to Data Science",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "DATA C8",
+              "title": "Foundations of Data Science",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "MATH 211",
+                "title": "Introduction to Data Science",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "CompleteAandB",
+        "attribute": "Recommended to be completed prior to transfer",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PHYSICS 8A",
+              "title": "Introductory Physics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 210",
+                "title": "General Physics I",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 211",
+                "title": "General Physics I-Calculus Supplement",
+                "units": "1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYSICS 8B",
+              "title": "Introductory Physics",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 220",
+                "title": "General Physics II",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "PHYS 221",
+                "title": "General Physics II - Calculus Supplement",
+                "units": "1.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYSICS 7A",
+              "title": "Physics for Scientists and Engineers",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 250",
+                "title": "Physics with Calculus I",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PHYSICS 7B",
+              "title": "Physics for Scientists and Engineers",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHYS 260",
+                "title": "Physics with Calculus II",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "Recommended; Not required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "A&L-Arts and Literature",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "ART 101",
+                "title": "History of Western Art I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ART 102",
+                "title": "History of Western Art II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ART 105",
+                "title": "Asian Art and Architecture",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ART 115",
+                "title": "Art, Music and Ideas",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ART 117",
+                "title": "Arts of Africa and the African Diaspora",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ART 120",
+                "title": "Art of the Americas",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ART 130",
+                "title": "Art Appreciation",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ART 175",
+                "title": "Visual Theory and Practice: Ceramic Art",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ART 350",
+                "title": "Visual Perception Through Photography",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "DANC 100",
+                "title": "Dance Appreciation",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "DANC 102",
+                "title": "Hip Hop Dance Roots - A Survey of Black Dance in America",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "FILM 100",
+                "title": "Introduction to Film",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 101",
+                "title": "Contemporary Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 154",
+                "title": "Queer Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 155",
+                "title": "Comics and the Graphic Novel",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 201",
+                "title": "American Literature I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 202",
+                "title": "American Literature II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 220",
+                "title": "Introduction to World Literature I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 231",
+                "title": "Survey of British Literature I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 232",
+                "title": "Survey of British Literature II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 251",
+                "title": "Women in Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 265",
+                "title": "Asian American Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 266",
+                "title": "Black Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 267",
+                "title": "Filipino American Literature",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 370",
+                "title": "Readings in Literature of the Latino in the United States",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "LIT. 432",
+                "title": "Folklore",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "MUS. 100",
+                "title": "Fundamentals of Music",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "MUS. 115",
+                "title": "Music, Art and Ideas",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "MUS. 202",
+                "title": "Music Appreciation",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "MUS. 240",
+                "title": "Latin American Music",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "MUS. 250",
+                "title": "World Music",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "MUS. 275",
+                "title": "History of Jazz",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "MUS. 277",
+                "title": "African American Music",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "Recommended; Not required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "HS-Historical Studies",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 101",
+                "title": "History of Western Civilization II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 104",
+                "title": "World Civilizations I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 106",
+                "title": "World Civilizations II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 108",
+                "title": "Survey of American History",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 109",
+                "title": "Europe Since 1945",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 201",
+                "title": "United States History I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 202",
+                "title": "United States History II",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 203",
+                "title": "The United States Since 1945",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 235",
+                "title": "History of Ethnic Groups in the United States",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 240",
+                "title": "History of Ethnic Groups in California",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 244",
+                "title": "African American History",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 248",
+                "title": "Women and the American Experience",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 300",
+                "title": "History of San Francisco",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 310",
+                "title": "California History",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 335",
+                "title": "History and Politics of the Middle East",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 410",
+                "title": "The Holocaust",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 420",
+                "title": "Survey of Latin American History",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 429",
+                "title": "History of Latin@s/x in the United States",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 430",
+                "title": "Early Asian Civilizations",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 432",
+                "title": "Modern Asian Civilizations",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 435",
+                "title": "History of the Philippines",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 436",
+                "title": "Filipinos in America",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 444",
+                "title": "Survey of Sub-Saharan African History",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 453",
+                "title": "History of China",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 335",
+                "title": "History and Politics of the Middle East",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOSC 270",
+                "title": "The Civil Rights Movement",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "Recommended; Not required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "IS-International Studies",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "PLSC 130",
+                "title": "Introduction to International Relations",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "Recommended; Not required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "P&V-Philosophy and Values",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "PHIL 100",
+                "title": "Introduction to Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 160",
+                "title": "History of Ancient Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 240",
+                "title": "Introduction to Ethics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 280",
+                "title": "Introduction to Political Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 300",
+                "title": "Introduction to World Religions",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 312",
+                "title": "Introduction to Philosophy of Religion",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PHIL 320",
+                "title": "Asian Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 280",
+                "title": "Introduction to Political Philosophy",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "E",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "Recommended; Not required for admission",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "",
+              "title": "S&BS-Social and Behavioral Sciences",
+              "units": ""
+            },
+            "sending_courses": [
+              {
+                "prefix": "ANTH 110",
+                "title": "Cultural Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ANTH 125",
+                "title": "Biological Anthropology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ANTH 150",
+                "title": "Introduction to Archaeology: Bones, Beads and the Basics of Material Culture",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ANTH 155",
+                "title": "Human Prehistory: Discovering Ancient Civilizations",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ANTH 165",
+                "title": "Sex and Gender: Cross-Cultural Perspectives",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ANTH 170",
+                "title": "Anthropology of Death: Cross-Cultural Perspectives",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ANTH 360",
+                "title": "American Indians of North America",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ECE. 201",
+                "title": "Child Development",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ECON 100",
+                "title": "Principles of Macro Economics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ECON 102",
+                "title": "Principles of Microeconomics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "GEOG 110",
+                "title": "Cultural Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "GEOG 150",
+                "title": "World Regional Geography",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 100",
+                "title": "History of Western Civilization I",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "HIST 335",
+                "title": "History and Politics of the Middle East",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 115",
+                "title": "Introduction to Comparative Government and Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 130",
+                "title": "Introduction to International Relations",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 150",
+                "title": "Introduction to Political Theory",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 200",
+                "title": "National, State and Local Government",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 210",
+                "title": "American Politics",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PLSC 335",
+                "title": "History and Politics of the Middle East",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 100",
+                "title": "General Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 105",
+                "title": "Experimental Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 200",
+                "title": "Developmental Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 201",
+                "title": "Child Development",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 230",
+                "title": "Introduction to Cross-Cultural Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 268",
+                "title": "Black Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 300",
+                "title": "Social Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 390",
+                "title": "Psychology of Consciousness",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "PSYC 410",
+                "title": "Abnormal Psychology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOCI 100",
+                "title": "Introduction to Sociology",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOCI 105",
+                "title": "Social Problems",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOCI 141",
+                "title": "Race and Ethnicity",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "ETHN 142",
+                "title": "Filipina/o/x Community Issues",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOCI 143",
+                "title": "Sociology of Migration and Immigration",
+                "units": "3.00units",
+                "conjunction": ""
+              },
+              {
+                "prefix": "SOCI 160",
+                "title": "Sociology of Sex, Gender and Sexuality",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

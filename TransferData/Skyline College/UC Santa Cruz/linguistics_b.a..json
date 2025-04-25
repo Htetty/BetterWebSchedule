@@ -1,0 +1,267 @@
+{
+  "major_title": "Linguistics B.A.",
+  "sending_school": "Skyline College",
+  "receiving_school": "University of California, Santa Cruz",
+  "options": {
+    "RECOMMENDED PREPARATION": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "Complete the following",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "LING 50",
+              "title": "Introduction to Linguistics",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "LING 53",
+              "title": "Semantics I",
+              "units": "5.00units"
+            },
+            "sending_courses": [],
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "Select  1 series from   the following",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "CHIN 1",
+              "title": "First-Year Chinese",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "CHIN 111",
+                "title": "Elementary Chinese I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHIN 112",
+                "title": "Elementary Chinese II",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHIN 121",
+                "title": "Advanced Elementary Chinese I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "CHIN 122",
+                "title": "Advanced Elementary Chinese II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "Select  1 series from   the following",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "FREN 1",
+              "title": "First-Year French",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FREN 2",
+              "title": "First-Year French",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "FREN 3",
+              "title": "First-Year French",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "2",
+        "instructions": "Select  1 series from   the following",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "GERM 1",
+              "title": "First-Year German",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "GERM 2",
+              "title": "First-Year German",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "2",
+        "instructions": "Select  1 series from   the following",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "ITAL 1",
+              "title": "First-Year Italian",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "ITAL 2",
+              "title": "First-Year Italian",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "E",
+        "block_number": "2",
+        "instructions": "Select  1 series from   the following",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "JAPN 1",
+              "title": "First-Year Japanese",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "F",
+        "block_number": "2",
+        "instructions": "Select  1 series from   the following",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "PORT 1",
+              "title": "First-Year Portuguese",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "PORT 2",
+              "title": "First-Year Portuguese",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "G",
+        "block_number": "2",
+        "instructions": "Select  1 series from   the following",
+        "attribute": "**REFER TO TOP OF AGREEMENT**",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPAN 1",
+              "title": "First-Year Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 110",
+                "title": "Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "SPAN 120",
+                "title": "Advanced Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          },
+          {
+            "receiving_course": {
+              "prefix": "SPAN 2",
+              "title": "First-Year Spanish",
+              "units": "5.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 110",
+                "title": "Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "SPAN 120",
+                "title": "Advanced Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      }
+    ]
+  }
+}

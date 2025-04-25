@@ -1,0 +1,219 @@
+{
+  "major_title": "Spanish, B.A.",
+  "sending_school": "Canada College",
+  "receiving_school": "University of California, Santa Barbara",
+  "options": {
+    "PREPARATION FOR THE MAJOR - SECOND LANGUAGE LEARNERS": [
+      {
+        "label": "A",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPAN 1",
+              "title": "Elementary Spanish I",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 110",
+                "title": "Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "SPAN 120",
+                "title": "Advanced Elementary Spanish",
+                "units": "5.00units",
+                "conjunction": "Or"
+              },
+              {
+                "prefix": "SPAN 111",
+                "title": "Elementary Spanish I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "SPAN 112",
+                "title": "Elementary Spanish II",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "SPAN 121",
+                "title": "Advanced Elementary Spanish I",
+                "units": "3.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "SPAN 122",
+                "title": "Advanced Elementary Spanish II",
+                "units": "3.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPAN 4",
+              "title": "Intermediate Spanish I",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 130",
+                "title": "Intermediate Spanish",
+                "units": "4.00units",
+                "conjunction": "And"
+              },
+              {
+                "prefix": "SPAN 140",
+                "title": "Advanced Intermediate Spanish",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPAN 25",
+              "title": "Advanced Grammar and Composition",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "D",
+        "block_number": "1",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPAN 30",
+              "title": "Introduction to Hispanic Literature",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ],
+    "PREPARATION FOR THE MAJOR - HERITAGE SPEAKERS": [
+      {
+        "label": "A",
+        "block_number": "2",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPAN 16A",
+              "title": "Spanish for Heritage Speakers",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 220",
+                "title": "Spanish for Heritage Speakers I",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "B",
+        "block_number": "2",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPAN 16B",
+              "title": "Spanish for Heritage Speakers",
+              "units": "4.00units"
+            },
+            "sending_courses": [
+              {
+                "prefix": "SPAN 230",
+                "title": "Spanish for Heritage Speakers II",
+                "units": "4.00units",
+                "conjunction": ""
+              }
+            ],
+            "status": "articulated"
+          }
+        ]
+      },
+      {
+        "label": "C",
+        "block_number": "2",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPAN 30",
+              "title": "Introduction to Hispanic Literature",
+              "units": "5.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      },
+      {
+        "label": "A",
+        "block_number": "3",
+        "instructions": "",
+        "attribute": "",
+        "group_type": "",
+        "courses": [
+          {
+            "receiving_course": {
+              "prefix": "SPAN 15",
+              "title": "Intermediate Spanish for Heritage Speakers",
+              "units": "4.00units"
+            },
+            "sending_courses": null,
+            "status": "not_articulated"
+          }
+        ]
+      }
+    ]
+  }
+}
