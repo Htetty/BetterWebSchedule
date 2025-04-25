@@ -509,8 +509,8 @@ document.addEventListener('DOMContentLoaded', () => {
     chatBox.scrollTop = chatBox.scrollHeight;
 
     const endpoint = selectedMode === "articulation"
-      ? "https://betterwebschedule-ai-755120101240.us-west1.run.app/transfer-plan"
-      : "https://betterwebschedule-ai-755120101240.us-west1.run.app/professor-reccomendation";
+      ? "https://betterwebschedule-api-755120101240.us-west1.run.app/transfer-plan"
+      : "https://betterwebschedule-api-755120101240.us-west1.run.app/professor-reccomendation";
 
       fetch(endpoint, {
         method: "POST",
