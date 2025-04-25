@@ -85,8 +85,8 @@ _Powered by Google Cloud, Gemini AI, and Chrome Extensions_
 ### 1. Cloning and Loading the Repository
 
 - Open a terminal and run:
-  git clone https://github.com/Htetty/BetterWebSchedule.git
-  cd BetterWebSchedule
+  - git clone https://github.com/Htetty/BetterWebSchedule.git
+  - cd BetterWebSchedule
 
 - Open Google Chrome and go to:
   chrome://extensions/
