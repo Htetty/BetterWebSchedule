@@ -80,29 +80,6 @@ _Powered by Google Cloud, Gemini AI, and Chrome Extensions_
 
 ---
 
-## ⚙️ Technical Stack
-
-### Frontend
-
-- JavaScript
-- HTML, CSS
-- MapBox GL JS for map integrations
-
-### Backend
-
-- Python Flask server
-- Deployed on Google Cloud Run
-- Gemini AI (Google Generative AI) for NLP and smart responses
-
-### Data & Automation
-
-- Scraped RMP data from RateMyProfessors.com using Selenium
-- Scraped articulation agreements from ASSIST.org using Selenium
-- JSON-based local data storage
-- Chrome Storage API for user persistence
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Cloning and Loading the Repository
@@ -135,6 +112,30 @@ _Powered by Google Cloud, Gemini AI, and Chrome Extensions_
   - Export your class schedule as a .ics calendar file
   - Toggle Dark Mode for nighttime readability
 
+---
+
+## ⚙️ Technical Stack
+
+### Frontend
+
+- JavaScript
+- HTML, CSS
+- MapBox GL JS for map integrations
+
+### Backend
+
+- Python Flask server
+- Deployed on Google Cloud Run
+- Gemini AI (Google Generative AI) for NLP and smart responses
+
+### Data & Automation
+
+- Scraped RMP data from RateMyProfessors.com using Selenium
+- Scraped articulation agreements from ASSIST.org using Selenium
+- JSON-based local data storage
+- Chrome Storage API for user persistence
+
+---
 
 ## 🤝 Credits & Motivation
 
