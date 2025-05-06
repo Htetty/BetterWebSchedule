@@ -140,7 +140,6 @@ Promise.all([
         card.style.transform = "translateY(0)";
       });
     }
-
     if (prof) {
       console.log(`Match found for ${normalized}`);
 

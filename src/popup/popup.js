@@ -383,8 +383,7 @@ document.addEventListener('DOMContentLoaded', () => {
           createMessage("What school are you trying to transfer to?", "bot-message");
 
           createSelect([
-            "UC Berkeley", "UC Davis", "UC Irvine", "UCLA",
-            "UC Merced", "UC Riverside", "UC San Diego",
+            "UC Berkeley", "UC Davis", "UC Irvine", "UC Los Angeles", "UC San Diego",
             "UC Santa Barbara", "UC Santa Cruz"
           ], "Select target school", selectedUC => {
             storedTransferSchool = selectedUC;
