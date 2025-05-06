@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-  mapboxgl.accessToken = 'pk.eyJ1IjoiaHRldHR5IiwiYSI6ImNtOXV1YXVvcTBlMDcyanBzaG52a2hsaHMifQ.ErIkM4gjNKloGhsa8RGmWA';
+  mapboxgl.accessToken = 'pk.eyJ1IjoiaHRldHR5IiwiYSI6ImNtYTRreXRjdzA4ZTkycnB5bnFlZTVjNTAifQ.lNpc5t2USJrlL2wOrVRIAw';
   
   const map = new mapboxgl.Map({
     container: 'map',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
     ]
   };
 
-  const cananda = {
+  const canada = {
     center: [-122.2658, 37.4480],
     buildings: [
       { name: "Building 1", lat: 37.4469223508707, lng: -122.264653999981866, description: "Athletic Center" },
@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { name: "Building 6", lat: 37.447366791555744, lng: -122.26674706390561, description: "Dual Enrollment Program/Public Information Office" }, 
       { name: "Building 8", lat: 37.4477501989256, lng: -122.26611090363542, description: "Marketing Department/PRIE Office/President and VP's Office" },
       { name: "Building 9", lat: 37.448769578542496, lng: -122.26550518659754, description: "Admissions & Records / Counseling / Financial Aid / Learning Center / Library / STEM Center / Transfer Center / DRC (Disability Resource Center)" },
-      { name: "Building 13", lat: 37.44835590000375, lng: -122.2661000187428, description: "Library and HELLA SERVICES FROM THE LIBRARY" },
+      { name: "Building 13", lat: 37.44835590000375, lng: -122.2661000187428, description: "Library and Services" },
       { name: "Building 17", lat: 37.44903632697656, lng: -122.2663281840168, description: "Cultural Center" },
       { name: "Building 18", lat: 37.44931031471645, lng: -122.26614083360019, description: "Business Office/Business Skills Center/Middle College HS Program" },
       { name: "Building 22", lat: 37.4495925676783, lng: -122.2670141661921, description: "Lost & Found/Public Safety" }
@@ -94,28 +94,18 @@ document.addEventListener('DOMContentLoaded', function() {
       { name: "College Vista", lat: 37.53067193844908, lng: -122.33729070892248 }
     ],
     studentParking: [
-      { name: "Lot A", lat: 37.53314779310903, lng: -122.33773855662179 },
-      { name: "Lot B", lat: 37.532504337083516, lng: -122.3364566096643, description: "Student & Athletic Center Member" },
-      { name: "Lot C / 12", lat: 37.53366907306445, lng: -122.33420202781592 },
-      { name: "Lot D / 11", lat: 37.535668505268085, lng: -122.3325598767232 },
-      { name: "Lot E", lat: 37.53610898956998, lng: -122.3338782492951 },
-      { name: "Lot F", lat: 37.53727030872364, lng: -122.33434101291526 },
-      { name: "Lot G", lat: 37.53720531557481, lng: -122.33501219453824, description: "Visitor / Forum Lot" },
-      { name: "Lot H", lat: 37.53753819800402, lng: -122.33399387832361 },
-      { name: "Lot J", lat: 37.53782083244, lng: -122.33359405366005 },
-      { name: "Lot K", lat: 37.53808134671046, lng: -122.33322212374041 },
-      { name: "Lot L", lat: 37.538676810901535, lng: -122.33394263539485, description: "Staff" },
-      { name: "Lot M / Building 20", lat: 37.537649920164775, lng: -122.33646431774888 },
-      { name: "Lot N", lat: 37.53849503528913, lng: -122.3382200881747 },
-      { name: "Lot P", lat: 37.53895952979979, lng: -122.33939806666704 },
-      { name: "Lot Q", lat: 37.537896836118875, lng: -122.33886441361729 },
-      { name: "Lot R", lat: 37.53718609107683, lng: -122.3383850018671, description: "Staff & Visitor" },
-      { name: "Lot S", lat: 37.53692293892921, lng: -122.3381371263913, description: "Staff" },
-      { name: "Lot T", lat: 37.535717615140534, lng: -122.33700042555499, description: "Staff" },
-      { name: "Lot U / 3", lat: 37.53491509269447, lng: -122.33646643022006 },
-      { name: "Lot V", lat: 37.53330947508117, lng: -122.3391930914307 },
-      { name: "Lot W", lat: 37.53201387002562, lng: -122.33878562207792 },
-      { name: "Lot X", lat: 37.531670582873176, lng: -122.3397686287355, description: "Currently Unavailable" }
+      { name: "Lot A", lat: 37.53314779310903, lng: -122.33773855662179, description: "Student Parking"},
+      { name: "Lot B", lat: 37.532504337083516, lng: -122.3364566096643, description: "Student & Athletic Center Member Parking"},
+      { name: "Lot D", lat: 37.535668505268085, lng: -122.3325598767232, description: "Student Parking" },
+      { name: "Lot F", lat: 37.53727030872364, lng: -122.33434101291526, description: "Student Parking" },
+      { name: "Lot H", lat: 37.53753819800402, lng: -122.33399387832361, description: "Student Parking" },
+      { name: "Lot J", lat: 37.53782083244, lng: -122.33359405366005, description: "Student Parking" },
+      { name: "Lot K", lat: 37.53808134671046, lng: -122.33322212374041, description: "Student Parking" },
+      { name: "Lot N", lat: 37.53849503528913, lng: -122.3382200881747, description: "Student Parking" },
+      { name: "Lot P", lat: 37.53895952979979, lng: -122.33939806666704, description: "Student Parking" },
+      { name: "Lot Q", lat: 37.537896836118875, lng: -122.33886441361729, description: "Student Parking" },
+      { name: "Lot V", lat: 37.53330947508117, lng: -122.3391930914307, description: "Student Parking" },
+      { name: "Lot W", lat: 37.53201387002562, lng: -122.33878562207792, description: "Student Parking" }
     ]
   };
 
@@ -126,7 +116,16 @@ document.addEventListener('DOMContentLoaded', function() {
     currentMarkers = [];
   }
 
+  function setBounds(center, padding = 0.01) {
+    const bounds = [
+      [center[0] - padding, center[1] - padding],
+      [center[0] + padding, center[1] + padding]  
+    ];
+    map.setMaxBounds(bounds);
+  }
+
   function addMarkers(school, iconRed, iconCar) {
+    setBounds(school.center);
     map.flyTo({ center: school.center, zoom: 17 });
     school.buildings.forEach(loc => {
       const marker = createMarker(loc, iconRed);
@@ -161,7 +160,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   document.getElementById('canadaBtn').addEventListener('click', () => {
     clearMarkers();
-    addMarkers(cananda, 'redpin.png', 'car-park.png');
+    addMarkers(canada, 'redpin.png', 'car-park.png');
   });
 
   document.getElementById('csmBtn').addEventListener('click', () => {
@@ -170,6 +169,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   map.on('load', () => {
+    setBounds(skyline.center);
     addMarkers(skyline, 'redpin.png', 'car-park.png');
   });
 });

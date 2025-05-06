@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const starterButton = document.createElement("button");
   starterButton.className = "mode-btn";
-  starterButton.textContent = "Articulation Questions";
+  starterButton.textContent = "ASSIST Articulation Questions";
   starterButton.dataset.mode = "articulation";
   chatBox.appendChild(starterButton);
 
@@ -333,7 +333,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const starterButton = document.createElement("button");
     starterButton.className = "mode-btn";
-    starterButton.textContent = "Articulation Questions";
+    starterButton.textContent = "ASSIST Articulation Questions";
     starterButton.dataset.mode = "articulation";
     chatBox.appendChild(starterButton);
 

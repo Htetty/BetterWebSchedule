@@ -265,3 +265,7 @@ html, body {
   .list-view-crn-schedule, .list-view-subj-course-section {
     color: white !important;
   }
+
+  .ui-icon-closethick {
+    z-index: 9999 !important;
+  }

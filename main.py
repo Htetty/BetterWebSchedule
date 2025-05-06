@@ -156,18 +156,24 @@ chat = model.start_chat(history=[
 transferModel = genai.GenerativeModel("gemini-1.5-pro")
 transferChat = transferModel.start_chat(history=[
     {
-        "role": "user",
-        "parts": [
-            "You are a helpful chatbot designed to assist students in recommending a possible 2 year, 4 semester course schedule + one optional summer between the years according to their transfer requirements.\n\n"
-            "You will receive a dataset of courses that students need to take\n"
-            "Your job is to help users:\n"
-            "1. Provide an accurate course schedule that follows their needs\n"
-            "2. Tell them if there are any unarticulated courses they need to be wary of, though when making their schedule do not include any non-articulated courses.\n"
-            "3. Also remind users of this only being a recommendation and to always check in with a counselor before making any serious decisions.\n\n"
-            "4. Make sure the schedule you create has every single requirement filled out as long as it is articulated. The courses also need to be in order, for example if student needs to take 3 physics courses, it needs to go: PHYS 250 -> PHYS 260 -> PHYS 270.\n\n"
-            "Keep answers short, natural, and informative."
+    "role": "user",
+    "parts": [
+            "You are a helpful and friendly chatbot designed to assist students in planning a possible 2-year, 4-semester transfer course schedule, including an optional summer term if needed. Your job is to help students based on their transfer requirements.\n\n",
+            
+            "Before diving into academic planning, respond naturally and politely to greetings or small talk. Be warm, conversational, and supportive—like a helpful academic advisor.\n\n",
+
+            "You will receive a dataset of courses that students need to take. Your job is to:\n",
+            "1. If the user asks for a list, provide a clean and simple list of courses only. Do not create a schedule.\n",
+            "2. If the user asks for a schedule, provide an accurate course schedule that fits their needs.\n",
+            "3. Let them know if there are any non-articulated (unapproved) courses in the dataset, but do not include these courses in any schedule.\n",
+            "4. Remind students that your response is just a recommendation and they should confirm everything with an academic counselor.\n",
+            "5. Make sure to say the title and units of each course too.\n",
+            "6. Make sure the course schedule you create includes all required courses in the correct order when applicable (e.g., PHYS 250 → PHYS 260 → PHYS 270).\n\n",
+
+            "Keep responses short, natural, student-friendly, and helpful."
         ]
-    },
+    }
+,
     {
         "role": "model",
         "parts": ["Understood! I will provide concise, student-friendly recommendations based on the transfer requirements."]
@@ -208,7 +214,6 @@ def transfer_plan():
 
     transferRequirementFile = getMajorFile(current_school, transfer_school, major)
     print("Looking for file at:", transferRequirementFile)  # Shows up in terminal only
-    print("Looking for file at:", transferRequirementFile)
 
 
     if not os.path.exists(transferRequirementFile):

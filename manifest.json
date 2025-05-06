@@ -40,8 +40,7 @@
         "src/styles/lightmode.css",
         "ScrapedData/all_professors_Skyline.json",
         "ScrapedData/all_professors_CSM.json",
-        "ScrapedData/all_professors_Canada.json",
-        "image.png"
+        "ScrapedData/all_professors_Canada.json"
       ],
       "matches": ["*://phx-ban-apps.smccd.edu/*"]
     },
@@ -51,10 +50,8 @@
         "src/popup/mapbox/mapbox.html",
         "src/popup/mapbox/mapbox-gl.css",
         "src/popup/mapbox/mapbox-gl.js",
-        "src/popup/mapbox/map.js",
         "src/popup/mapbox/redpin.png",
-        "src/popup/mapbox/car-park.png",
-        "TransferData/**"
+        "src/popup/mapbox/car-park.png"
       ],
       "matches": ["<all_urls>"]
     }
