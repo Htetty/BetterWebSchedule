@@ -16,6 +16,17 @@
         const pillboxes = Array.from(meeting.querySelectorAll('.ui-pillbox'));
         const typeLabels = Array.from(meeting.querySelectorAll('span.bold')).filter(span => span.textContent.includes('Type:'));
 
+        const locationLabel = Array.from(meeting.querySelectorAll('span.bold')).find(span => span.textContent.includes('Location:'));
+        const location = locationLabel?.nextSibling?.textContent?.replace(/\u00a0/g, ' ').trim() || 'Unknown';
+
+        const buildingLabel = Array.from(meeting.querySelectorAll('span.bold')).find(span => span.textContent.includes('Building:'));
+        const building = buildingLabel?.nextSibling?.textContent?.replace(/\u00a0/g, ' ').trim() || 'Unknown';
+
+        const roomLabel = Array.from(meeting.querySelectorAll('span.bold')).find(span => span.textContent.includes('Room:'));
+        const room = roomLabel?.nextSibling?.textContent?.replace(/\u00a0/g, ' ').trim() || 'Unknown';
+
+        const fullLocation = `${location} ${building} ${room}`.replace(/\s+/g, ' ').trim();
+
         const rawSpans = Array.from(meeting.querySelectorAll('span'));
         const timeSpans = rawSpans.filter(span => /\d{1,2}:\d{2}\s*[AP]M/.test(span.textContent));
 
@@ -41,7 +52,15 @@
             days = Array.from(dayLis).map(li => li.getAttribute('data-abbreviation')).join('') || 'None';
           }
 
-          events.push({ courseName, type: typeText, days, time: timeText, startDate, endDate });
+          events.push({ 
+            courseName, 
+            type: typeText, 
+            days, 
+            time: timeText, 
+            startDate, 
+            endDate,
+            location: fullLocation
+           });
         }
       });
     });
@@ -117,6 +136,7 @@
         icsBody += `SUMMARY:${event.courseName} (${event.type})\n`;
         icsBody += `DTSTART;TZID=America/Los_Angeles:${startDate}T${startTime}00\n`;
         icsBody += `DTEND;TZID=America/Los_Angeles:${startDate}T${endTime}00\n`;
+        icsBody += `LOCATION:${event.location || 'TBD'}\n`;
         icsBody += `RRULE:FREQ=WEEKLY;BYDAY=${weekday};UNTIL=${endDate}T235900Z\n`;
         icsBody += `END:VEVENT\n`;
       }

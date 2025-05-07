@@ -1,0 +1,639 @@
+[
+  {
+    "category": "Accounting",
+    "major": "Accounting",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/accounting-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Accounting",
+    "major": "Accounting",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/accounting-ca.php",
+    "degree_type": "CA",
+    "total_units": "23.5 - 25.5 Units"
+  },
+  {
+    "category": "Accounting",
+    "major": "Accounting Clerk",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/accounting-clerk-cc.php",
+    "degree_type": "CC",
+    "total_units": "5.5 - 6.5 Units"
+  },
+  {
+    "category": "Accounting",
+    "major": "Accounting Clerk in Government Accounting",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/accounting-clerk-in-government-accounting-cs.php",
+    "degree_type": "CS",
+    "total_units": "14.5 Units"
+  },
+  {
+    "category": "Accounting",
+    "major": "Individual Tax Preparer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/individual-tax-preparer-cs.php",
+    "degree_type": "CS",
+    "total_units": "13 Units"
+  },
+  {
+    "category": "Administration of Justice",
+    "major": "Administration of Justice",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/administration-of-justice-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Administration of Justice",
+    "major": "Administration of Justice for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/administration-of-justice-for-transfer-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Administration of Justice",
+    "major": "Administration of Justice",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/administration-of-justice-ca.php",
+    "degree_type": "CA",
+    "total_units": "24 Units"
+  },
+  {
+    "category": "Anthropology",
+    "major": "Anthropology for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/anthropology-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Art",
+    "major": "Art",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/art-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Art",
+    "major": "Art History for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/art-history-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Art",
+    "major": "Studio Arts for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/studio-arts-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Automotive Technology",
+    "major": "Automotive Technician",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/automotive-technician-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Automotive Technology",
+    "major": "Automotive Technology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/automotive-technology-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Automotive Technology",
+    "major": "Asian Engine Performance Technology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/asian-engine-performance-technology-ca.php",
+    "degree_type": "CA",
+    "total_units": "19 - 20 Units"
+  },
+  {
+    "category": "Automotive Technology",
+    "major": "Automotive Advanced Engine Performance Technology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/automotive-advanced-engine-performance-technology-ca.php",
+    "degree_type": "CA",
+    "total_units": "19 - 20 Units"
+  },
+  {
+    "category": "Automotive Technology",
+    "major": "Automotive Chassis, Alignment and Brake Technology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/automotive-chassis-alignment-and-brake-technology-ca.php",
+    "degree_type": "CA",
+    "total_units": "19 - 20 Units"
+  },
+  {
+    "category": "Automotive Technology",
+    "major": "Automotive Drive Train Technology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/automotive-drive-train-technology-ca.php",
+    "degree_type": "CA",
+    "total_units": "19 - 20 Units"
+  },
+  {
+    "category": "Automotive Technology",
+    "major": "Automotive Electricity/Electronics",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/automotive-electricity-electronics-ca.php",
+    "degree_type": "CA",
+    "total_units": "19 - 20 Units"
+  },
+  {
+    "category": "Automotive Technology",
+    "major": "Automotive Engine Performance Technology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/automotive-engine-performance-technology-ca.php",
+    "degree_type": "CA",
+    "total_units": "19 - 20 Units"
+  },
+  {
+    "category": "Automotive Technology",
+    "major": "Automotive Engines Technology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/automotive-engines-technology-ca.php",
+    "degree_type": "CA",
+    "total_units": "19 - 20 Units"
+  },
+  {
+    "category": "Automotive Technology",
+    "major": "Automotive Technician - Entry Level",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/automotive-technician-entry-level-cs.php",
+    "degree_type": "CS",
+    "total_units": "7 Units"
+  },
+  {
+    "category": "Barbering",
+    "major": "Barbering",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/barbering-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Barbering",
+    "major": "Barbering",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/barbering-ca.php",
+    "degree_type": "CA",
+    "total_units": "31 Units"
+  },
+  {
+    "category": "Barbering",
+    "major": "Cosmetology To Barbering Crossover",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/cosmetology-to-barbering-crossover-cs.php",
+    "degree_type": "CS",
+    "total_units": "9 Units"
+  },
+  {
+    "category": "Biology",
+    "major": "Allied Health Science",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/allied-health-science-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Biology",
+    "major": "Biotechnology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/biotechnology-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Biology",
+    "major": "Natural Science",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/natural-science-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Biology",
+    "major": "Biology for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/biology-for-transfer-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Biotechnology",
+    "major": "Biotechnology Manufacturing Technician",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/biotechnology-manufacturing-technician-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Biotechnology",
+    "major": "Biotechnology Manufacturing Assistant",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/biotechnology-manufacturing-assistant-ca.php",
+    "degree_type": "CA",
+    "total_units": "17 - 19 Units"
+  },
+  {
+    "category": "Biotechnology",
+    "major": "Biotechnology Manufacturing Technician",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/biotechnology-manufacturing-technician-ca.php",
+    "degree_type": "CA",
+    "total_units": "33 Units"
+  },
+  {
+    "category": "Communication Studies",
+    "major": "Communication Studies for Transfer 2.0",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/communication-studies-for-transfer-2-0-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Computer Information Science",
+    "major": "Computer Science for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/computer-science-for-transfer-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Computer Information Science",
+    "major": "Junior Developer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/junior-developer-cs.php",
+    "degree_type": "CS",
+    "total_units": "9 - 10 Units"
+  },
+  {
+    "category": "Cosmetology",
+    "major": "Cosmetology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/cosmetology-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Cosmetology",
+    "major": "Cosmetology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/cosmetology-ca.php",
+    "degree_type": "CA",
+    "total_units": "31 Units"
+  },
+  {
+    "category": "Dance",
+    "major": "Dance",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/dance-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Digital Media and Design",
+    "major": "User Experience Design",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/user-experience-design-ca.php",
+    "degree_type": "CA",
+    "total_units": "15 Units"
+  },
+  {
+    "category": "Digital Media and Design",
+    "major": "Basic Digital Filmmaking",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/basic-digital-filmmaking-cs.php",
+    "degree_type": "CS",
+    "total_units": "12 Units"
+  },
+  {
+    "category": "Economics",
+    "major": "Economics for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/economics-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Electronics Technology",
+    "major": "Electronic Assembly and Fabrication",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/electronic-assembly-and-fabrication-cs.php",
+    "degree_type": "CS",
+    "total_units": "13 Units"
+  },
+  {
+    "category": "Engineering",
+    "major": "Electrical Engineering",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/electrical-engineering-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "English",
+    "major": "English",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/english-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "English",
+    "major": "English for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/english-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "English for Speakers of Other LanguagesEnglish for Speakers of Other Languages",
+    "major": "Proficiency In American Culture and English (PACE)",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/proficiency-in-american-culture-and-english-pace-ca.php",
+    "degree_type": "CA",
+    "total_units": "16 Units"
+  },
+  {
+    "category": "Environmental Science and Technology",
+    "major": "Environmental Science for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/environmental-science-for-transfer-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Esthetics",
+    "major": "Esthetics",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/esthetics-ca.php",
+    "degree_type": "CA",
+    "total_units": "27 Units"
+  },
+  {
+    "category": "Esthetics",
+    "major": "Cosmetology To Esthetician Crossover",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/cosmetology-to-esthetician-crossover-cs.php",
+    "degree_type": "CS",
+    "total_units": "9 Units"
+  },
+  {
+    "category": "Geography",
+    "major": "Geography for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/geography-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Geology",
+    "major": "Geology for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/geology-for-transfer-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Health Science",
+    "major": "Public Health Science for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/public-health-science-for-transfer-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "History",
+    "major": "International Studies",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/international-studies-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "History",
+    "major": "History for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/history-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interdisciplinary Studies",
+    "major": "Interdisciplinary Studies: Arts and Humanities",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/interdisciplinary-studies-arts-and-humanities-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interdisciplinary Studies",
+    "major": "Interdisciplinary Studies: Health and Physical Education",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/interdisciplinary-studies-health-and-physical-education-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interdisciplinary Studies",
+    "major": "Interdisciplinary Studies: Letters and Science",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/interdisciplinary-studies-letters-and-science-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interdisciplinary Studies",
+    "major": "Interdisciplinary Studies: Social and Behavioral Sciences",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/interdisciplinary-studies-social-and-behavioral-sciences-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interdisciplinary Studies",
+    "major": "Interdisciplinary Studies: Social and Natural Sciences",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/interdisciplinary-studies-social-and-natural-sciences-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Journalism",
+    "major": "Journalism",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/journalism-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Journalism",
+    "major": "Journalism for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/journalism-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Journalism",
+    "major": "Journalism",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/journalism-ca.php",
+    "degree_type": "CA",
+    "total_units": "18 Units"
+  },
+  {
+    "category": "Kinesiology",
+    "major": "Kinesiology for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/kinesiology-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Mathematics",
+    "major": "Mathematics",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/mathematics-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Mathematics",
+    "major": "Mathematics for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/mathematics-for-transfer-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Network Engineering Technologies",
+    "major": "Network Engineering",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/network-engineering-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Network Engineering Technologies",
+    "major": "Network Engineering",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/network-engineering-ca.php",
+    "degree_type": "CA",
+    "total_units": "36 Units"
+  },
+  {
+    "category": "Network Engineering Technologies",
+    "major": "Data Center Physical Infrastructure",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/data-center-physical-infrastructure-cs.php",
+    "degree_type": "CS",
+    "total_units": "12 Units"
+  },
+  {
+    "category": "Paralegal Studies",
+    "major": "Paralegal, Legal Assistant",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/paralegal-legal-assistant-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Paralegal Studies",
+    "major": "Paralegal, Legal Assistant",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/paralegal-legal-assistant-ca.php",
+    "degree_type": "CA",
+    "total_units": "21 Units"
+  },
+  {
+    "category": "Philosophy",
+    "major": "Philosophy for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/philosophy-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Physics",
+    "major": "Physics for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/physics-for-transfer-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Political Science",
+    "major": "Political Science for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/political-science-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Psychology",
+    "major": "Psychology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/psychology-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Psychology",
+    "major": "Psychology for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/psychology-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Respiratory Care",
+    "major": "Respiratory Care",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/respiratory-care-bs.php",
+    "degree_type": "BS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Respiratory Care",
+    "major": "Respiratory Care",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/respiratory-care-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Social Science",
+    "major": "Social Justice Studies for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/social-justice-studies-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Sociology",
+    "major": "Sociology for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/sociology-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Spanish",
+    "major": "Spanish",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/spanish-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Spanish",
+    "major": "Spanish for Transfer",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/spanish-for-transfer-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Surgical Careers",
+    "major": "Anesthesia Technology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/anesthesia-technology-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Surgical Careers",
+    "major": "Surgical Technology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/surgical-technology-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Surgical Careers",
+    "major": "Anesthesia Technology",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/anesthesia-technology-ca.php",
+    "degree_type": "CA",
+    "total_units": "32 Units"
+  },
+  {
+    "category": "Surgical Careers",
+    "major": "Sterile Processing Technology with Clinical Practice",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/sterile-processing-technology-with-clinical-practice-cs.php",
+    "degree_type": "CS",
+    "total_units": "18 Units"
+  },
+  {
+    "category": "University Transfer",
+    "major": "University Transfer - Option 1: California State University General Education",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/university-transfer-option-1-california-state-university-general-education-ca.php",
+    "degree_type": "CA",
+    "total_units": "39 Units"
+  },
+  {
+    "category": "University Transfer",
+    "major": "University Transfer - Option 2: Intersegmental General Education Transfer Curriculum for CSU (IGETC/CSU)",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/university-transfer-option-2-intersegmental-general-education-transfer-curriculum-for-csu-igetc-csu-ca.php",
+    "degree_type": "CA",
+    "total_units": "37 Units"
+  },
+  {
+    "category": "University Transfer",
+    "major": "University Transfer - Option 3: Intersegmental General Education Transfer Curriculum for UC (IGETC/UC)",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/university-transfer-option-3-intersegmental-general-education-transfer-curriculum-for-uc-igetc-uc-ca.php",
+    "degree_type": "CA",
+    "total_units": "34 - 36 Units"
+  },
+  {
+    "category": "University Transfer",
+    "major": "University Transfer-Option 4: Intersegmental General Education Transfer Curriculum for STEM (CSU)",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/university-transfer-option-4-intersegmental-general-education-transfer-curriculum-for-stem-csu-ca.php",
+    "degree_type": "CA",
+    "total_units": "31 Units"
+  },
+  {
+    "category": "Wellness",
+    "major": "Aromatherapy: Essential Oils for Health and Well-Being",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/aromatherapy-essential-oils-for-health-and-well-being-cs.php",
+    "degree_type": "CS",
+    "total_units": "7 Units"
+  },
+  {
+    "category": "Wellness",
+    "major": "Meditation & Mindfulness",
+    "program_link": "https://catalog.skylinecollege.edu/current/programs/meditation-mindfulness-cs.php",
+    "degree_type": "CS",
+    "total_units": "9 Units"
+  }
+]

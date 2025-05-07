@@ -21,6 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let articulationStep = null;
   let storedTransferSchool = "";
   let storedCurrentSchool = "";
+  let storedCurrentSchoolForMajorHelp = "";
   let storedMajor = "";
 
   const originalStatusText = statusEl?.textContent || 'Status';
@@ -43,6 +44,12 @@ document.addEventListener('DOMContentLoaded', () => {
   starterButton2.textContent = "Professor Questions";
   starterButton2.dataset.mode = "professor";
   chatBox.appendChild(starterButton2);
+  
+  const starterButton3 = document.createElement("button");
+  starterButton3.className = "mode-btn";
+  starterButton3.textContent = "Major Help";
+  starterButton3.dataset.mode = "major";
+  chatBox.appendChild(starterButton3);
 
   const modeButtons = document.querySelectorAll(".mode-btn");
 
@@ -165,6 +172,23 @@ document.addEventListener('DOMContentLoaded', () => {
     chatBox.scrollTop = chatBox.scrollHeight;
   };
   
+  if (chatInput) {
+    chatInput.addEventListener("input", () => {
+      chatInput.style.height = "auto";
+      chatInput.style.height = chatInput.scrollHeight + "px";
+    });
+  }
+
+  let char = document.getElementById('char');
+
+  chatInput.addEventListener('input', function () {
+
+    let content = this.value;
+    char.textContent = content.length;
+
+    content.trim();
+});
+
   const createMessage = (text, className) => {
     const msg = document.createElement("div");
     msg.className = className;
@@ -203,6 +227,13 @@ document.addEventListener('DOMContentLoaded', () => {
     return select;
   };
   
+  document.getElementById("chatInput").addEventListener("keydown", function (event) {
+    if (event.key === "Enter" && !event.shiftKey) {
+      event.preventDefault();
+      document.getElementById("sendButton").click(); 
+    }
+  });
+
   modeButtons.forEach(btn => {
     btn.addEventListener("click", () => {
       modeButtons.forEach(b => b.classList.remove("selected"));
@@ -212,6 +243,7 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById("welcome-screen")?.remove();
       starterButton?.remove();
       starterButton2?.remove();
+      starterButton3?.remove();
   
       createMessage(btn.textContent, "user-message");
   
@@ -219,6 +251,22 @@ document.addEventListener('DOMContentLoaded', () => {
         createMessage("Got it! I can help you with professor questions. What would you like to ask?", "bot-message");
         chatInput.readOnly = false;
         chatInput.placeholder = "Ask something like 'Who is the best for Math 251?'";
+      }
+
+      if (selectedMode === "major") {
+        createMessage("Got it! I can help you with picking your major. What school are you planning to attend?", "bot-message");
+        chatInput.readOnly = false;
+      
+        createSelect(
+          ["Skyline College", "College of San Mateo", "Canada College"],
+          "Select your school",
+          selectedSchoolForMajor => {
+            storedCurrentSchoolForMajorHelp = selectedSchoolForMajor;
+
+            createMessage("Great! How can I help?", "bot-message");
+            chatInput.placeholder = "Ask something like 'Can you help me pick a major?'";
+          }
+        );
       }
   
       if (selectedMode === "articulation") {
@@ -323,8 +371,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // === REFRESH BUTTON ===
   refreshButton?.addEventListener("click", () => {
-    chatInput.value = ""; 
-    chatBox.innerHTML = "";
+    if (chatInput) chatInput.placeholder = "Select a mode first!";  
+    if (chatInput) chatInput.value = "";
+    if (chatBox) chatBox.innerHTML = "";
 
     const starterMessage = document.createElement("div");
     starterMessage.className = "bot-message";
@@ -343,6 +392,12 @@ document.addEventListener('DOMContentLoaded', () => {
     starterButton2.dataset.mode = "professor";
     chatBox.appendChild(starterButton2);
 
+    const starterButton3 = document.createElement("button");
+    starterButton3.className = "mode-btn";
+    starterButton3.textContent = "Major Help";
+    starterButton3.dataset.mode = "major";
+    chatBox.appendChild(starterButton3);
+
     const welcomeScreen = document.createElement("div");
     welcomeScreen.className = "welcome-screen";
     welcomeScreen.id = "welcome-screen";
@@ -350,7 +405,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const title = document.createElement("h1");
     title.textContent = "BetterWebSchedule AI Assistant";
     const desc = document.createElement("p");
-    desc.textContent = "Ask the AI Assistant anything about articulation and your schedule. Pick a mode first!";
+    desc.textContent = "Ask the AI Assistant anything about articulation, professors, and major help. Pick a mode first!"
     welcomeScreen.appendChild(title);
     welcomeScreen.appendChild(desc);
     chatBox.prepend(welcomeScreen);
@@ -367,6 +422,7 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById("welcome-screen")?.remove();
         starterButton?.remove();
         starterButton2?.remove();
+        starterButton3?.remove();
 
         createMessage(btn.textContent, "user-message");
 
@@ -374,6 +430,22 @@ document.addEventListener('DOMContentLoaded', () => {
           createMessage("Got it! I can help you with professor questions. What would you like to ask?", "bot-message");
           chatInput.readOnly = false;
           chatInput.placeholder = "Ask something like 'Who is the best for Math 251?'";
+        }
+
+        if (selectedMode === "major") {
+          createMessage("Got it! I can help you with picking your major. What school are you planning to attend?", "bot-message");
+          chatInput.readOnly = false;
+        
+          createSelect(
+            ["Skyline College", "College of San Mateo", "Canada College"],
+            "Select your school",
+            selectedSchoolForMajor => {
+              storedCurrentSchoolForMajorHelp = selectedSchoolForMajor;
+  
+              createMessage("Great! How can I help?", "bot-message");
+              chatInput.placeholder = "Ask something like 'Can you help me pick a major?'";
+            }
+          );
         }
 
         if (selectedMode === "articulation") {
@@ -507,19 +579,33 @@ document.addEventListener('DOMContentLoaded', () => {
     chatBox.appendChild(loading);
     chatBox.scrollTop = chatBox.scrollHeight;
 
-    const endpoint = selectedMode === "articulation"
-      ? "https://betterwebschedule-api-755120101240.us-west1.run.app/transfer-plan"
-      : "https://betterwebschedule-api-755120101240.us-west1.run.app/professor-reccomendation";
+    let bodyData;
+
+    if (selectedMode === "articulation") {
+      endpoint = "https://betterwebschedule-api-755120101240.us-west1.run.app/transfer-plan";
+      bodyData = {
+        currentSchool: storedCurrentSchool,
+        transferSchool: storedTransferSchool,
+        major: storedMajor,
+        question: message
+      };
+    } else if (selectedMode === "professor") {
+      endpoint = "https://betterwebschedule-api-755120101240.us-west1.run.app/professor-reccomendation";
+      bodyData = {
+        question: message
+      };
+    } else if (selectedMode === "major") {
+      endpoint = "https://betterwebschedule-api-755120101240.us-west1.run.app/major-helper";
+      bodyData = {
+        storedCurrentSchoolForMajorHelp: storedCurrentSchoolForMajorHelp,
+        question: message
+      };
+    }
 
       fetch(endpoint, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          currentSchool: storedCurrentSchool,
-          transferSchool: storedTransferSchool,
-          major: storedMajor,
-          question: message
-        })
+        body: JSON.stringify(bodyData)
       })
       .then(async res => {
         if (!res.ok) {
@@ -550,7 +636,7 @@ document.addEventListener('DOMContentLoaded', () => {
         loading.remove();
         const errorMsg = document.createElement("div");
         errorMsg.className = "bot-message";
-        errorMsg.textContent = "Failed to connect to AI.";
+        errorMsg.textContent = "Failed to connect to AI. Press the Refresh Button and try again!";
         chatBox.appendChild(errorMsg);
         console.error("API error:", err);
       });
@@ -576,6 +662,10 @@ document.addEventListener('DOMContentLoaded', () => {
     } else {
       if (statusEl) {
         statusEl.textContent = "Must be in 'Register for Classes'";
+        setTimeout(() => {
+          statusEl.textContent = originalStatusText;
+          statusEl.style.cssText = originalStatusStyle;
+        }, 3000);
       }
     }
   }

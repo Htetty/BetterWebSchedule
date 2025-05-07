@@ -26,27 +26,29 @@
       <div class="chat-box" id="chatBox">
         <div class="welcome-screen" id="welcome-screen">
           <h1>BetterWebSchedule AI Assistant</h1>
-          <p>Ask the AI Assistant anything about articulation and your schedule. Pick a mode first!;</p>
+          <p>Ask the AI Assistant anything about articulation, professors, and major help. Pick a mode first!</p>
         </div>
       </div>
 
       <form class="chat-input-area" id="chatForm">
         <div class="input-with-buttons">
-          <input type="text" id="chatInput" placeholder="Select a mode first!" autocomplete="off" readonly/>
-          
-          <button type="button" id="refreshButton" aria-label="Refresh">
-            <i class="material-icons refresh-icon">refresh</i>
-          </button>
-      
-          <button type="submit" id="sendButton" aria-label="Send">
-            <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24"
-                 stroke-linecap="round" stroke-linejoin="round"
-                 height="20" width="20" xmlns="http://www.w3.org/2000/svg" class="send-icon">
-              <line x1="22" y1="2" x2="11" y2="13"></line>
-              <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
-            </svg>
-          </button>
+          <textarea maxlength="250" type="text" id="chatInput" placeholder="Select a mode first!" autocomplete="off" readonly></textarea>
         </div>
+
+        <button type="button" id="refreshButton" aria-label="Refresh">
+          <i class="material-icons refresh-icon">refresh</i>
+        </button>
+        
+        <p class="charcounter"><span id="char">0</span>/250</p>
+
+        <button type="submit" id="sendButton" aria-label="Send">
+          <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24"
+               stroke-linecap="round" stroke-linejoin="round"
+               height="20" width="20" xmlns="http://www.w3.org/2000/svg" class="send-icon">
+            <line x1="22" y1="2" x2="11" y2="13"></line>
+            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+          </svg>
+        </button>
       </form>
       
     </div>

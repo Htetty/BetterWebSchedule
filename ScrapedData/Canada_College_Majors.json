@@ -1,0 +1,933 @@
+[
+  {
+    "category": "Accounting",
+    "major": "Accounting",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/accounting-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Accounting",
+    "major": "Accounting",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/accounting-ca.php",
+    "degree_type": "CA",
+    "total_units": "27.5 Units"
+  },
+  {
+    "category": "Accounting",
+    "major": "Entry Level Bookkeeper",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/entry-level-bookkeeper-ca.php",
+    "degree_type": "CA",
+    "total_units": "12 Units"
+  },
+  {
+    "category": "Accounting",
+    "major": "Payroll Specialist",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/payroll-specialist-ca.php",
+    "degree_type": "CA",
+    "total_units": "18 Units"
+  },
+  {
+    "category": "Anthropology",
+    "major": "Anthropology",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/anthropology-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Anthropology",
+    "major": "Anthropology",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/anthropology-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Art",
+    "major": "Art History",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/art-history-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Art",
+    "major": "Art History",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/art-history-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Art",
+    "major": "Studio Arts",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/studio-arts-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Biological Sciences",
+    "major": "Allied Health",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/allied-health-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Biological Sciences",
+    "major": "Biological Sciences",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/biological-sciences-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Biological Sciences",
+    "major": "Biology",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/biology-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Biological Sciences",
+    "major": "Nutrition and Dietetics",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/nutrition-and-dietetics-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Biological Sciences",
+    "major": "Professional School Preparation: Pre-Dental, Pre-Medicine, Pre-Pharmacy, Pre-Veterinary, Pre-Optometry",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/professional-school-preparation-pre-dental-pre-medicine-pre-pharmacy-pre-veterinary-pre-optometry-.php",
+    "degree_type": "",
+    "total_units": "N/A Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Business Administration",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/business-administration-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Business Assistant",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/business-assistant-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Business Management",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/business-management-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Entrepreneurship and Small Business Management",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/entrepreneurship-and-small-business-management-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Marketing",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/marketing-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Business Administration 2.0",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/business-administration-2-0-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Business Administration",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/business-administration-ca.php",
+    "degree_type": "CA",
+    "total_units": "19 Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Business Assistant",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/business-assistant-ca.php",
+    "degree_type": "CA",
+    "total_units": "18 - 19 Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Business Information Worker",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/business-information-worker-ca.php",
+    "degree_type": "CA",
+    "total_units": "18 Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Business Management",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/business-management-ca.php",
+    "degree_type": "CA",
+    "total_units": "19 Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Entrepreneurship and Small Business Management",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/entrepreneurship-and-small-business-management-ca.php",
+    "degree_type": "CA",
+    "total_units": "21 - 22 Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Human Relations in the Workplace",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/human-relations-in-the-workplace-ca.php",
+    "degree_type": "CA",
+    "total_units": "18 Units"
+  },
+  {
+    "category": "Business Administration/Management",
+    "major": "Marketing",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/marketing-ca.php",
+    "degree_type": "CA",
+    "total_units": "18 Units"
+  },
+  {
+    "category": "Chemistry",
+    "major": "Chemistry",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/chemistry-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Communication Studies",
+    "major": "Communication Studies",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/communication-studies-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Communication Studies",
+    "major": "Communication Studies 2.0",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/communication-studies-2-0-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Computer Business Office Technology",
+    "major": "Administrative Assistant",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/administrative-assistant-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Computer Business Office Technology",
+    "major": "Administrative Support Assistant",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/administrative-support-assistant-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Computer Business Office Technology",
+    "major": "Administrative Assistant",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/administrative-assistant-ca.php",
+    "degree_type": "CA",
+    "total_units": "27 Units"
+  },
+  {
+    "category": "Computer Business Office Technology",
+    "major": "Administrative Support Assistant",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/administrative-support-assistant-ca.php",
+    "degree_type": "CA",
+    "total_units": "23.5 Units"
+  },
+  {
+    "category": "Computer Business Office Technology",
+    "major": "General Office",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/general-office-ca.php",
+    "degree_type": "CA",
+    "total_units": "12 Units"
+  },
+  {
+    "category": "Computer Science",
+    "major": "Computer Science",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/computer-science-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Computer Science",
+    "major": "Cloud Computing",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/cloud-computing-ca.php",
+    "degree_type": "CA",
+    "total_units": "15 Units"
+  },
+  {
+    "category": "Computer Science",
+    "major": "Computer Science - C++",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/computer-science-c-ca.php",
+    "degree_type": "CA",
+    "total_units": "16 Units"
+  },
+  {
+    "category": "Computer Science",
+    "major": "Computer Science - Java",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/computer-science-java-ca.php",
+    "degree_type": "CA",
+    "total_units": "16 Units"
+  },
+  {
+    "category": "Computer Science",
+    "major": "Computer Science - Swift",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/computer-science-swift-ca.php",
+    "degree_type": "CA",
+    "total_units": "16 Units"
+  },
+  {
+    "category": "Digital Art and Animation",
+    "major": "3D Animation and Videogame Art",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/3d-animation-and-videogame-art-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Digital Art and Animation",
+    "major": "Digital Art and Animation",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/digital-art-and-animation-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Digital Art and Animation",
+    "major": "3D Animation and Videogame Art",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/3d-animation-and-videogame-art-ca.php",
+    "degree_type": "CA",
+    "total_units": "42 Units"
+  },
+  {
+    "category": "Digital Art and Animation",
+    "major": "Digital Art and Animation",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/digital-art-and-animation-ca.php",
+    "degree_type": "CA",
+    "total_units": "27 Units"
+  },
+  {
+    "category": "Digital Art and Animation",
+    "major": "Graphic Design",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/graphic-design-ca.php",
+    "degree_type": "CA",
+    "total_units": "19.5 Units"
+  },
+  {
+    "category": "Digital Art and Animation",
+    "major": "Video Game Design",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/video-game-design-ca.php",
+    "degree_type": "CA",
+    "total_units": "33 Units"
+  },
+  {
+    "category": "Earth Science",
+    "major": "Earth Science",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/earth-science-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Economics",
+    "major": "Economics",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/economics-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Economics",
+    "major": "Economics",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/economics-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Education and Human Development: Early Childhood Education/Education",
+    "major": "Child and Adolescent Development",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/child-and-adolescent-development-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Education and Human Development: Early Childhood Education/Education",
+    "major": "Elementary Teacher Education",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/elementary-teacher-education-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Education and Human Development: Early Childhood Education/Education",
+    "major": "Early Childhood Education",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/early-childhood-education-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Education and Human Development: Early Childhood Education/Education",
+    "major": "Early Childhood Education",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/early-childhood-education-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Education and Human Development: Early Childhood Education/Education",
+    "major": "Early Childhood Education",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/early-childhood-education-ca.php",
+    "degree_type": "CA",
+    "total_units": "27 Units"
+  },
+  {
+    "category": "Education and Human Development: Early Childhood Education/Education",
+    "major": "Inclusion Support",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/inclusion-support-ca.php",
+    "degree_type": "CA",
+    "total_units": "10 Units"
+  },
+  {
+    "category": "Education and Human Development: Early Childhood Education/Education",
+    "major": "Multilingual Learner Teaching",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/multilingual-learner-teaching-ca.php",
+    "degree_type": "CA",
+    "total_units": "10 Units"
+  },
+  {
+    "category": "Education and Human Development: Early Childhood Education/Education",
+    "major": "Youth and After School",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/youth-and-after-school-ca.php",
+    "degree_type": "CA",
+    "total_units": "27 Units"
+  },
+  {
+    "category": "Education and Human Development: Early Childhood Education/Education",
+    "major": "Child Development Permits and Areas of Specialization",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/child-development-permits-and-areas-of-specialization-.php",
+    "degree_type": "",
+    "total_units": "N/A Units"
+  },
+  {
+    "category": "Engineering",
+    "major": "Engineering",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/engineering-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Engineering",
+    "major": "Engineering",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/engineering-ca.php",
+    "degree_type": "CA",
+    "total_units": "32 - 36 Units"
+  },
+  {
+    "category": "Engineering",
+    "major": "Math for Surveying and Computer-Aided Design",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/math-for-surveying-and-computer-aided-design-ca.php",
+    "degree_type": "CA",
+    "total_units": "23 Units"
+  },
+  {
+    "category": "English",
+    "major": "English",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/english-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "English",
+    "major": "English",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/english-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Environmental Science and Technology",
+    "major": "Environmental Science",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/environmental-science-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Environmental Science and Technology",
+    "major": "Environmental Science",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/environmental-science-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Ethnic Studies",
+    "major": "Ethnic Studies",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/ethnic-studies-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Fashion Design and Merchandising",
+    "major": "Custom Dressmaking/Small Business Oriented",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/custom-dressmaking-small-business-oriented-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Fashion Design and Merchandising",
+    "major": "Fashion Design Merchandising",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/fashion-design-merchandising-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Fashion Design and Merchandising",
+    "major": "Technical (Apparel Industry Oriented)",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/technical-apparel-industry-oriented-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Fashion Design and Merchandising",
+    "major": "Theater Costuming",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/theater-costuming-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Fashion Design and Merchandising",
+    "major": "Custom Dressmaking/Small Business Oriented",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/custom-dressmaking-small-business-oriented-ca.php",
+    "degree_type": "CA",
+    "total_units": "34 Units"
+  },
+  {
+    "category": "Fashion Design and Merchandising",
+    "major": "Fashion Design Merchandising",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/fashion-design-merchandising-ca.php",
+    "degree_type": "CA",
+    "total_units": "18 Units"
+  },
+  {
+    "category": "Fashion Design and Merchandising",
+    "major": "Technical (Apparel Industry Oriented)",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/technical-apparel-industry-oriented-ca.php",
+    "degree_type": "CA",
+    "total_units": "33 Units"
+  },
+  {
+    "category": "Fashion Design and Merchandising",
+    "major": "Theater Costuming",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/theater-costuming-ca.php",
+    "degree_type": "CA",
+    "total_units": "28 Units"
+  },
+  {
+    "category": "Funeral Services Education",
+    "major": "Funeral Service Education",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/funeral-service-education-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Funeral Services Education",
+    "major": "Funeral Service Arranger Certificate",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/funeral-service-arranger-certificate-cs.php",
+    "degree_type": "CS",
+    "total_units": "9 Units"
+  },
+  {
+    "category": "Funeral Services Education",
+    "major": "Funeral Service Attendant Certificate",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/funeral-service-attendant-certificate-cs.php",
+    "degree_type": "CS",
+    "total_units": "8 Units"
+  },
+  {
+    "category": "General Studies",
+    "major": "Pathways to Student Success",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/pathways-to-student-success-ca.php",
+    "degree_type": "CA",
+    "total_units": "16 Units"
+  },
+  {
+    "category": "General Studies",
+    "major": "Preparation for Academic Scholarship and Success (PASS)",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/preparation-for-academic-scholarship-and-success-pass-ca.php",
+    "degree_type": "CA",
+    "total_units": "12 Units"
+  },
+  {
+    "category": "Geography",
+    "major": "Geography",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/geography-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Geography",
+    "major": "Geography",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/geography-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "History",
+    "major": "History",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/history-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "History",
+    "major": "History",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/history-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Human Services",
+    "major": "Social Work and Human Services",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/social-work-and-human-services-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interdisciplinary Studies with Areas of Emphasis",
+    "major": "Interdisciplinary Studies, Option 1, Ca\u00f1ada College Pattern: Arts and Humanities",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/interdisciplinary-studies-option-1-ca-ada-college-pattern-arts-and-humanities-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interdisciplinary Studies with Areas of Emphasis",
+    "major": "Interdisciplinary Studies, Option 1, Ca\u00f1ada College Pattern: Natural Science and Mathematics",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/interdisciplinary-studies-option-1-ca-ada-college-pattern-natural-science-and-mathematics-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interdisciplinary Studies with Areas of Emphasis",
+    "major": "Interdisciplinary Studies, Option 1, Ca\u00f1ada College Pattern: Social and Behavioral Sciences",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/interdisciplinary-studies-option-1-ca-ada-college-pattern-social-and-behavioral-sciences-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interdisciplinary Studies with Areas of Emphasis",
+    "major": "Interdisciplinary Studies, Option 2, Transfer Pattern: Arts and Humanities",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/interdisciplinary-studies-option-2-transfer-pattern-arts-and-humanities-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interdisciplinary Studies with Areas of Emphasis",
+    "major": "Interdisciplinary Studies, Option 2, Transfer Pattern: Natural Science and Mathematics",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/interdisciplinary-studies-option-2-transfer-pattern-natural-science-and-mathematics-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interdisciplinary Studies with Areas of Emphasis",
+    "major": "Interdisciplinary Studies, Option 2, Transfer Pattern: Social and Behavioral Sciences",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/interdisciplinary-studies-option-2-transfer-pattern-social-and-behavioral-sciences-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interior Design",
+    "major": "Interior Design",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/interior-design-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Interior Design",
+    "major": "Home Staging",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/home-staging-ca.php",
+    "degree_type": "CA",
+    "total_units": "24 Units"
+  },
+  {
+    "category": "Interior Design",
+    "major": "Interior Design",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/interior-design-ca.php",
+    "degree_type": "CA",
+    "total_units": "41 Units"
+  },
+  {
+    "category": "Interior Design",
+    "major": "Kitchen and Bath Design (Affiliated with NKBA, National Kitchen & Bath Association)",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/kitchen-and-bath-design-affiliated-with-nkba-national-kitchen-bath-association-ca.php",
+    "degree_type": "CA",
+    "total_units": "42 Units"
+  },
+  {
+    "category": "Kinesiology, Athletics and Dance",
+    "major": "Dance",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/dance-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Kinesiology, Athletics and Dance",
+    "major": "Kinesiology",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/kinesiology-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Kinesiology, Athletics and Dance",
+    "major": "Kinesiology",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/kinesiology-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Latin American and Latino/a Studies",
+    "major": "Latin American and Latino/a Studies",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/latin-american-and-latino-a-studies-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Latin American and Latino/a Studies",
+    "major": "Latin American and Latino/a Studies",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/latin-american-and-latino-a-studies-ca.php",
+    "degree_type": "CA",
+    "total_units": "18 - 23 Units"
+  },
+  {
+    "category": "Mathematics",
+    "major": "Mathematics",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/mathematics-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Medical Assisting",
+    "major": "Medical Assisting",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/medical-assisting-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Medical Assisting",
+    "major": "Medical Billing Specialist",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/medical-billing-specialist-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Medical Assisting",
+    "major": "Medical Administrative Assistant",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/medical-administrative-assistant-ca.php",
+    "degree_type": "CA",
+    "total_units": "21 Units"
+  },
+  {
+    "category": "Medical Assisting",
+    "major": "Medical Assisting",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/medical-assisting-ca.php",
+    "degree_type": "CA",
+    "total_units": "35 Units"
+  },
+  {
+    "category": "Medical Assisting",
+    "major": "Medical Billing Specialist",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/medical-billing-specialist-ca.php",
+    "degree_type": "CA",
+    "total_units": "21 Units"
+  },
+  {
+    "category": "Medical Assisting",
+    "major": "Medical Coding Specialist",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/medical-coding-specialist-ca.php",
+    "degree_type": "CA",
+    "total_units": "18 Units"
+  },
+  {
+    "category": "Music",
+    "major": "Music",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/music-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Paralegal Studies",
+    "major": "Paralegal",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/paralegal-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Paralegal Studies",
+    "major": "Litigation",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/litigation-ca.php",
+    "degree_type": "CA",
+    "total_units": "18 Units"
+  },
+  {
+    "category": "Paralegal Studies",
+    "major": "Paralegal",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/paralegal-ca.php",
+    "degree_type": "CA",
+    "total_units": "27 Units"
+  },
+  {
+    "category": "Philosophy",
+    "major": "Philosophy",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/philosophy-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Philosophy",
+    "major": "Philosophy",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/philosophy-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Photonics and Laser Technology",
+    "major": "Photonics and Laser Technology",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/photonics-and-laser-technology-ca.php",
+    "degree_type": "CA",
+    "total_units": "18 Units"
+  },
+  {
+    "category": "Photonics and Laser Technology",
+    "major": "Advanced Optics and Photonics Technology",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/advanced-optics-and-photonics-technology-ca.php",
+    "degree_type": "CA",
+    "total_units": "27 Units"
+  },
+  {
+    "category": "Physics",
+    "major": "Physics",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/physics-as.php",
+    "degree_type": "AS",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Physics",
+    "major": "Physics",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/physics-as-t.php",
+    "degree_type": "AS-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Political Science",
+    "major": "Political Science",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/political-science-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Political Science",
+    "major": "Law, Public Policy, and Society",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/law-public-policy-and-society-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Political Science",
+    "major": "Political Science",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/political-science-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Psychology",
+    "major": "Psychology",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/psychology-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Psychology",
+    "major": "Psychology",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/psychology-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Radiologic Technology",
+    "major": "Radiologic Technology",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/radiologic-technology-as.php",
+    "degree_type": "AS",
+    "total_units": "70.5 Units"
+  },
+  {
+    "category": "Social Sciences",
+    "major": "International Studies",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/international-studies-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Sociology",
+    "major": "Sociology",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/sociology-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Sociology",
+    "major": "Sociology",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/sociology-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Spanish",
+    "major": "Spanish",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/spanish-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Spanish",
+    "major": "Spanish",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/spanish-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Spanish",
+    "major": "Bilingualism and Biliteracy in English/Spanish",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/bilingualism-and-biliteracy-in-english-spanish-ca.php",
+    "degree_type": "CA",
+    "total_units": "13 - 15 Units"
+  },
+  {
+    "category": "Theatre Arts",
+    "major": "Theatre Arts",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/theatre-arts-aa.php",
+    "degree_type": "AA",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "Theatre Arts",
+    "major": "Theatre Arts",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/theatre-arts-aa-t.php",
+    "degree_type": "AA-T",
+    "total_units": "60 Units"
+  },
+  {
+    "category": "University Transfer",
+    "major": "Option 1: CSU General Education (CSU GE)",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/option-1-csu-general-education-csu-ge-ca.php",
+    "degree_type": "CA",
+    "total_units": "39 Units"
+  },
+  {
+    "category": "University Transfer",
+    "major": "Option 2: Intersegmental General Education Transfer Curriculum (IGETC) - CSU",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/option-2-intersegmental-general-education-transfer-curriculum-igetc-csu-ca.php",
+    "degree_type": "CA",
+    "total_units": "37 Units"
+  },
+  {
+    "category": "University Transfer",
+    "major": "Option 3: Intersegmental General Education Transfer Curriculum (IGETC) - UC",
+    "program_link": "https://catalog.canadacollege.edu/current/programs/option-3-intersegmental-general-education-transfer-curriculum-igetc-uc-ca.php",
+    "degree_type": "CA",
+    "total_units": "34 Units"
+  }
+]

@@ -172,11 +172,41 @@ transferChat = transferModel.start_chat(history=[
 
             "Keep responses short, natural, student-friendly, and helpful."
         ]
-    }
-,
+    },
     {
         "role": "model",
         "parts": ["Understood! I will provide concise, student-friendly recommendations based on the transfer requirements."]
+    }
+])
+
+majorHelper = genai.GenerativeModel("gemini-1.5-pro")
+majorChat = majorHelper.start_chat(history=[
+    {
+        "role": "user",
+        "parts": [
+            "You are a helpful and friendly chatbot designed to assist students in choosing a college major.\n\n"
+            "First, say the name of the college the student is attending that was selected.\n"
+            "Then, ask thoughtful follow-up questions if the student is vague — such as:\n"
+            "- What subjects do you enjoy?\n"
+            "- Do you have any hobbies, career goals, or dream jobs?\n"
+            "- Are you planning to transfer to a university or enter the workforce after this?\n\n"
+            "Use only the list of programs provided in the prompt to make suggestions. Recommend a few possible majors and briefly explain why they might be a good fit.\n\n"
+            "If the student asks about program types, here are the meanings:\n"
+            "- AS = Associate in Science: A 2-year degree for technical careers or further study.\n"
+            "- AA = Associate in Arts: A 2-year degree in liberal arts or social sciences.\n"
+            "- AS-T = Associate in Science for Transfer: Guarantees CSU transfer in a STEM/technical field.\n"
+            "- AA-T = Associate in Arts for Transfer: Guarantees CSU transfer in an arts/social science major.\n"
+            "- CA = Certificate of Achievement: Focused, shorter than a degree, job-oriented.\n"
+            "- CS = Certificate of Specialization: Very short, niche skills.\n"
+            "- SC = Skills Certificate: Hands-on, not always transcripted.\n"
+            "- BS = Bachelor of Science: A 4-year degree in STEM fields."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Got it! I’ll be supportive, clear, and ask helpful questions when needed. Ready to help students choose a great major."
+        ]
     }
 ])
 
@@ -213,8 +243,6 @@ def transfer_plan():
     major = data.get('major')
 
     transferRequirementFile = getMajorFile(current_school, transfer_school, major)
-    print("Looking for file at:", transferRequirementFile)  # Shows up in terminal only
-
 
     if not os.path.exists(transferRequirementFile):
         return jsonify({"error": f"Transfer requirement file not found at {transferRequirementFile}"}), 404
@@ -228,8 +256,34 @@ def transfer_plan():
 
     return jsonify({"response": output })
 
+@app.route("/major-helper", methods=["POST"])
+def major_helper():
+    data = request.get_json()
 
-# Function to get the major file (you might already have this defined)
+    current_school_for_major = data.get('storedCurrentSchoolForMajorHelp')
+
+    Programs = getCollegeMajorFile(current_school_for_major)
+
+    if not os.path.exists(Programs):
+        return jsonify({"error": "Programs file not found"}), 404
+    
+    with open(Programs, 'r') as f:
+        programs = json.load(f)
+
+    prompt = f"Here are the list of Programs: {json.dumps(programs)}\n\nUser question: {data.get('question')}"
+    response = majorChat.send_message(prompt)
+    output = response.text.strip()
+
+    return jsonify({"response": output })
+
+def getCollegeMajorFile(storedCurrentSchoolForMajorHelp):
+    file_map = {
+        "Skyline College": "ScrapedData/Skyline_College_Majors.json",
+        "College of San Mateo": "ScrapedData/College_Of_San_Mateo_Majors.json",
+        "Canada College": "ScrapedData/Canada_College_Majors.json"
+    }
+    return file_map.get(storedCurrentSchoolForMajorHelp)
+    
 def getMajorFile(currentSchool, transferSchool, major):
     majorFormatted = major.replace(" ", "_")
     filePath = f"./TransferData/{currentSchool}/{transferSchool}/{majorFormatted}.json"
