@@ -231,6 +231,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (event.key === "Enter" && !event.shiftKey) {
       event.preventDefault();
       document.getElementById("sendButton").click(); 
+      chatInput.style.height = "60px";
     }
   });
 
@@ -255,7 +256,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (selectedMode === "major") {
         createMessage("Got it! I can help you with picking your major. What school are you planning to attend?", "bot-message");
-        chatInput.readOnly = false;
+        chatInput.readOnly = true;
       
         createSelect(
           ["Skyline College", "College of San Mateo", "Canada College"],
@@ -373,6 +374,7 @@ document.addEventListener('DOMContentLoaded', () => {
   refreshButton?.addEventListener("click", () => {
     if (chatInput) chatInput.placeholder = "Select a mode first!";  
     if (chatInput) chatInput.value = "";
+    if (chatBox) chatInput.style.height = "60px";
     if (chatBox) chatBox.innerHTML = "";
 
     const starterMessage = document.createElement("div");
@@ -434,7 +436,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (selectedMode === "major") {
           createMessage("Got it! I can help you with picking your major. What school are you planning to attend?", "bot-message");
-          chatInput.readOnly = false;
+          chatInput.readOnly = true;
         
           createSelect(
             ["Skyline College", "College of San Mateo", "Canada College"],
@@ -562,6 +564,8 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!selectedMode) {
       return;
     }
+
+    if (chatBox) chatInput.style.height = "60px";
 
     const placeholder = chatBox.querySelector(".placeholder-text");
     if (placeholder) placeholder.remove();
