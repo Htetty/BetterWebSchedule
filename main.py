@@ -286,7 +286,11 @@ def getCollegeMajorFile(storedCurrentSchoolForMajorHelp):
     
 def getMajorFile(currentSchool, transferSchool, major):
     majorFormatted = major.replace(" ", "_")
-    filePath = f"./TransferData/{currentSchool}/{transferSchool}/{majorFormatted}.json"
+    base_path = os.path.dirname(__file__)
+    filePath = os.path.join(base_path, "TransferData", currentSchool, transferSchool, f"{majorFormatted}.json")
+    if (major == "undeclared"):
+        filePath = os.path.join(base_path, "TransferData", currentSchool, transferSchool, "undeclared.json")
+    
     return filePath
 
 if __name__ == "__main__":
