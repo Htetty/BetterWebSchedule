@@ -254,7 +254,6 @@ document.addEventListener('DOMContentLoaded', () => {
         chatInput.readOnly = false;
         chatInput.placeholder = "Ask something like 'Who is the best for Math 251?'";
       }
-      const majorNeed = ""
       if (selectedMode === "major") {
         createMessage("Would you like course reccommendations based on IGETC requirements or guidance in choosing a major?", "bot-message");
         createSelect(
@@ -262,14 +261,12 @@ document.addEventListener('DOMContentLoaded', () => {
           "Select your need", selectedMajorMode =>{
             majorMode = selectedMajorMode
             if (majorMode === "Create a schedule") {
-              selectedMode = "articulation"
-              storedMajor = "undeclared"
-              storedCurrentSchool = "Skyline College"
-              storedTransferSchool = "UC Davis"
+              selectedMode = "undeclared"
               createMessage("Great! Any specifications you want to add for your schedule?", "bot-message");
               chatInput.readOnly = false;
+              chatInput.placeholder = "Create a 2-semester schedule that allows me to explore various classes.";
             }
-            else{
+            else if (majorMode === "Major guidance"){
               createMessage("Got it! I can help you with picking your major. What school are you planning to attend?", "bot-message");
               chatInput.readOnly = false;
           
@@ -453,20 +450,35 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         if (selectedMode === "major") {
-          createMessage("Got it! I can help you with picking your major. What school are you planning to attend?", "bot-message");
-          chatInput.readOnly = true;
-        
+          createMessage("Would you like course reccommendations based on IGETC requirements or guidance in choosing a major?", "bot-message");
           createSelect(
-            ["Skyline College", "College of San Mateo", "Canada College"],
-            "Select your school",
-            selectedSchoolForMajor => {
-              storedCurrentSchoolForMajorHelp = selectedSchoolForMajor;
+            ["Create a schedule", "Major guidance"],
+            "Select your need", selectedMajorMode =>{
+              majorMode = selectedMajorMode
+              if (majorMode === "Create a schedule") {
+                selectedMode = "undeclared"
+                createMessage("Great! Any specifications you want to add for your schedule?", "bot-message");
+                chatInput.readOnly = false;
+                chatInput.placeholder = "Create a 2-semester schedule that allows me to explore various classes.";
+              }
+              else if (majorMode === "Major guidance"){
+                createMessage("Got it! I can help you with picking your major. What school are you planning to attend?", "bot-message");
+                chatInput.readOnly = false;
+            
+                createSelect(
+                  ["Skyline College", "College of San Mateo", "Canada College"],
+                  "Select your school",
+                  selectedSchoolForMajor => {
+                    storedCurrentSchoolForMajorHelp = selectedSchoolForMajor;
   
-              createMessage("Great! How can I help?", "bot-message");
-              chatInput.placeholder = "Ask something like 'Can you help me pick a major?'";
+                    createMessage("Great! How can I help?", "bot-message");
+                    chatInput.placeholder = "Ask something like 'Can you help me pick a major?'";
+                }
+              );
             }
-          );
-        }
+          }
+        )
+      }
 
         if (selectedMode === "articulation") {
           chatInput.readOnly = true;
@@ -626,6 +638,11 @@ document.addEventListener('DOMContentLoaded', () => {
         storedCurrentSchoolForMajorHelp: storedCurrentSchoolForMajorHelp,
         question: message
       };
+    } else if (selectedMode === "undeclared"){
+      endpoint = "https://betterwebschedule-api-755120101240.us-west1.run.app/undeclared-schedule";
+      bodyData = {
+        question: message
+      }
     }
 
       fetch(endpoint, {

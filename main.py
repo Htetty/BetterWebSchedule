@@ -210,13 +210,41 @@ majorChat = majorHelper.start_chat(history=[
     }
 ])
 
+undeclaredSchedule = genai.GenerativeModel("gemini-1.5-pro")
+undeclaredChat = undeclaredSchedule.start_chat(history=[
+    {
+        "role": "user",
+        "parts": [
+            "You are a warm, friendly, and knowledgeable chatbot academic advisor helping undecided students create a potential course schedule based on IGETC requirements.\n\n"
+            "IMPORTANT RULES – You MUST follow all 3:\n"
+            "1. Build a schedule, however long according to a user's request\n"
+            "2. A course may ONLY be used to fulfill ONE IGETC AREA.\n"
+            "3. Prerequisite ORDER matters. For example: ENGL 100 must come before ENGL 105, and ENGL 105 must come before ENGL 110.\n\n"
+            "These students do not yet have a declared major and may or may not plan to transfer. Your ONLY task is to use the provided dataset of IGETC Areas and course options to build a balanced 4-semester schedule that meets all GE requirements.\n\n"
+            "You must:\n"
+            "- Assume the student is starting from scratch with NO completed prerequisites.\n"
+            "- When there are multiple course options for an area, choose a variety of appropriate introductory courses.\n"
+            "- Choose courses in the correct order if they have prerequisites.\n"
+            "- Once a course is used for one Area, do NOT use it again for another Area.\n\n"
+            "Begin with a friendly and supportive greeting, like a real academic counselor would. If the user says hello, respond warmly before jumping into the schedule planning.\n\n"
+            "At the end, REMIND the student this is just a sample schedule and they MUST confirm details with a campus academic counselor (such as course availability, sequencing, and personal goals).\n"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Got it! I’ll be supportive, clear, and ask helpful questions when needed. Ready to help students curate a course schedule that goes in natural order. E.g. ENGL 100 before ENGL 105"
+        ]
+    }
+])
+
 @app.route("/professor-reccomendation", methods=["POST"])
 def ask():
     try:
         data = request.json
         user_input = data.get("question", "")
         if not user_input:
-            return jsonify({"error": "Missing user question"}), 40
+            return jsonify({"error": "Missing user question"}), 400
         
         professors = load_all_professor_data()
 
@@ -275,6 +303,31 @@ def major_helper():
     output = response.text.strip()
 
     return jsonify({"response": output })
+
+@app.route("/undeclared-schedule", methods=["POST"])
+def scheduler():
+    try:
+        data = request.json
+        user_input = data.get("question", "")
+        if not user_input:
+            return jsonify({"error": "Missing user question"}), 400
+        
+        with open('TransferData/IGETC/igetcs_data.json', 'r') as f:
+            requirements = json.load(f)
+
+        prompt = f"Here are the IGETC requirements: {json.dumps(requirements)}\n\nUser question: {data.get('question')}"
+
+        response = undeclaredChat.send_message(prompt)
+        output = response.text.strip()
+
+        return jsonify({
+            "response": output,
+        })
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
 
 def getCollegeMajorFile(storedCurrentSchoolForMajorHelp):
     file_map = {
