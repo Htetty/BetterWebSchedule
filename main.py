@@ -12,6 +12,7 @@ genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 app = Flask(__name__)
 CORS(app)
 
+app.config["MAX_CONTENT_LENGTH"] = 1 * 1024 * 1024
 
 def load_all_professor_data():
     base_path = os.path.join(os.path.dirname(__file__), "ScrapedData")
@@ -215,25 +216,31 @@ undeclaredChat = undeclaredSchedule.start_chat(history=[
     {
         "role": "user",
         "parts": [
-            "You are a warm, friendly, and knowledgeable chatbot academic advisor helping undecided students create a potential course schedule based on IGETC requirements.\n\n"
-            "IMPORTANT RULES – You MUST follow all 3:\n"
-            "1. Build a schedule, however long according to a user's request\n"
-            "2. A course may ONLY be used to fulfill ONE IGETC AREA.\n"
-            "3. Prerequisite ORDER matters. For example: ENGL 100 must come before ENGL 105, and ENGL 105 must come before ENGL 110.\n\n"
-            "These students do not yet have a declared major and may or may not plan to transfer. Your ONLY task is to use the provided dataset of IGETC Areas and course options to build a balanced 4-semester schedule that meets all GE requirements.\n\n"
-            "You must:\n"
-            "- Assume the student is starting from scratch with NO completed prerequisites.\n"
-            "- When there are multiple course options for an area, choose a variety of appropriate introductory courses.\n"
-            "- Choose courses in the correct order if they have prerequisites.\n"
-            "- Once a course is used for one Area, do NOT use it again for another Area.\n\n"
-            "Begin with a friendly and supportive greeting, like a real academic counselor would. If the user says hello, respond warmly before jumping into the schedule planning.\n\n"
-            "At the end, REMIND the student this is just a sample schedule and they MUST confirm details with a campus academic counselor (such as course availability, sequencing, and personal goals).\n"
+            "You are a smart, friendly, and helpful academic counselor for California community college students who want to transfer to UC or CSU schools.\n\n"
+
+            "You can receive:\n"
+            "- Parsed transcripts (completed courses)\n"
+            "- IGETC general ed requirements\n"
+            "- Major prep requirements from articulation agreements\n"
+            "- A planning window (e.g., Fall 2024 to Spring 2026)\n\n"
+
+            "Always:\n"
+            "1. Exclude completed courses from recommendations, but summarize them briefly.\n"
+            "2. Follow prerequisites in order.\n"
+            "3. Do not double-count courses unless IGETC allows it.\n"
+            "4. Label each course with its purpose (e.g., IGETC 3A, UC Davis major requirement).\n"
+            "5. Spread out the schedule evenly across semesters.\n"
+            "6. If no major is given, build a schedule to fully complete IGETC.\n"
+            "7. End by encouraging the student to meet with a real counselor.\n"
+            "8. If the student replies with 'change plan', start a new schedule using the latest data.\n\n"
+
+            "Make your tone warm, human, and empowering — you're not just a chatbot; you're an academic mentor."
         ]
     },
     {
         "role": "model",
         "parts": [
-            "Got it! I’ll be supportive, clear, and ask helpful questions when needed. Ready to help students curate a course schedule that goes in natural order. E.g. ENGL 100 before ENGL 105"
+            "Understood! I'll guide students through clear, helpful schedules, follow all rules, and keep things supportive and accurate. Let’s help them feel confident in their path!"
         ]
     }
 ])
@@ -284,6 +291,107 @@ def transfer_plan():
 
     return jsonify({"response": output })
 
+@app.route("/upload-transcript", methods=["POST"])
+def upload_transcript():
+    if "file" not in request.files:
+        return jsonify({"error": "No file uploaded"}), 400
+
+    file = request.files["file"]
+    file.seek(0)
+    file_start = file.read(4)
+    file.seek(0)
+
+    if not (
+        file.filename.lower().endswith(".pdf") and
+        file.mimetype == "application/pdf" and
+        file_start.startswith(b"%PDF")
+    ):
+        return jsonify({"error": "Only valid PDF files are accepted."}), 400
+
+    try:
+        doc_data = file.read()
+
+        prompt = (
+            "Extract all courses as a JSON array with fields: "
+            "term, subject, course number, and title. "
+            "Make sure it's valid JSON."
+        )
+
+        response = model.generate_content([
+            {"mime_type": "application/pdf", "data": doc_data},
+            prompt
+        ])
+
+        return jsonify({
+            "success": True,
+            "parsedTranscript": response.text.strip()
+        })
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route("/undeclared-schedule", methods=["POST"])
+def scheduler():
+    try:
+        data = request.json
+        user_input = data.get("question", "")
+        parsed_transcript = data.get("parsedTranscript", {})
+        current_school = data.get("currentSchool", "")
+        transfer_school = data.get("transferSchool", "")
+        major = data.get("major", "").strip().lower()
+        start_semester = data.get("startSemester", "")
+        end_semester = data.get("endSemester", "")
+
+        if not user_input:
+            return jsonify({"error": "Missing user question"}), 400
+
+        with open('TransferData/IGETC/igetcs_data.json', 'r') as f:
+            igetc = json.load(f)
+
+        if current_school and transfer_school and major and major != "undeclared":
+            major_path = getMajorFile(current_school, transfer_school, major)
+            if not os.path.exists(major_path):
+                return jsonify({"error": "Transfer requirement file not found"}), 404
+
+            with open(major_path, 'r') as f:
+                requirements = json.load(f)
+
+            prompt = f"""
+                The student is asking: {user_input}
+
+                Start semester: {start_semester or "Not specified"}
+                End semester: {end_semester or "Not specified"}
+
+                {f"Here is their parsed transcript (courses they have already completed):\n{json.dumps(parsed_transcript)}" if parsed_transcript else ""}
+
+                Here are the transfer requirements for their chosen major:
+                {json.dumps(requirements)}
+
+                Here are the general education (IGETC) requirements:
+                {json.dumps(igetc)}
+
+                Please consider what they've already taken (if available), the GE requirements, and their major to build a smart, multi-semester plan that respects prerequisites.
+            """
+        else:
+            prompt = f"""
+                The student is asking: {user_input}
+
+                Start semester: {start_semester or "Not specified"}
+                End semester: {end_semester or "Not specified"}
+
+                Here are the general education (IGETC) requirements:
+                {json.dumps(igetc)}
+
+                Please build a GE-based schedule for an undecided student starting from scratch.
+            """
+
+        response = undeclaredChat.send_message(prompt)
+        output = response.text.strip()
+        return jsonify({ "response": output })
+
+    except Exception as e:
+        return jsonify({ "error": str(e) }), 500
+    
 @app.route("/major-helper", methods=["POST"])
 def major_helper():
     data = request.get_json()
@@ -303,31 +411,6 @@ def major_helper():
     output = response.text.strip()
 
     return jsonify({"response": output })
-
-@app.route("/undeclared-schedule", methods=["POST"])
-def scheduler():
-    try:
-        data = request.json
-        user_input = data.get("question", "")
-        if not user_input:
-            return jsonify({"error": "Missing user question"}), 400
-        
-        with open('TransferData/IGETC/igetcs_data.json', 'r') as f:
-            requirements = json.load(f)
-
-        prompt = f"Here are the IGETC requirements: {json.dumps(requirements)}\n\nUser question: {data.get('question')}"
-
-        response = undeclaredChat.send_message(prompt)
-        output = response.text.strip()
-
-        return jsonify({
-            "response": output,
-        })
-
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-
-
 
 def getCollegeMajorFile(storedCurrentSchoolForMajorHelp):
     file_map = {

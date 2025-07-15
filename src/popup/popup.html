@@ -9,28 +9,37 @@
   <div class="popup-wrapper">
     <!-- HEADER -->
     <div class="popup-header">
-      <div class="popup-header-row">
+
+      <button id="collapseToggle" class="collapse-toggle">
+        <svg viewBox="0 0 24 24" class="chevron-icon">
+          <polyline points="6 15 12 9 18 15" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+
+      <div id="collapsibleSection" class="collapsible-section">
+        <div class="popup-header-row">
         <img src="popupicon/logo.png" alt="Calendar Icon" class="popup-icon">
         <div class="popup-title-container">
           <h1>BetterWebSchedule</h1>
           <p class="subtitle">Enhance Your WebSchedule Experience</p>
         </div>
+      </div>
+        <button id="webschedule">Go To WebSchedule</button>
         <button id="settingsBtn" class="settings-button"><img src="popupicon/settingicon.png" alt="Settings"></button>
         <button id="mapBtn" class="map-button"><img src="popupicon/mapicon.png" alt="Map"></button>
         <button id="calendarBtn" class="calendar-button"><img src="popupicon/calendar-icon.png" alt="Calendar"></button>
       </div>
-      <button id="webschedule">Go To WebSchedule</button>
     </div>
 
     <div class="chat-container">
       <div class="chat-box" id="chatBox">
         <div class="welcome-screen" id="welcome-screen">
-          <h1>BetterWebSchedule AI Assistant</h1>
-          <p>Ask the AI Assistant anything about articulation, professors, and major help. Pick a mode first!</p>
+          <h1>Hi! How can we help?</h1>
+          <!--<p>Ask anything about articulation, professors, and major help. Pick a mode first!</p>-->
         </div>
       </div>
 
-      <form class="chat-input-area" id="chatForm">
+      <form class="chat-input-wrapper chat-input-area" id="chatForm">
         <div class="input-with-buttons">
           <textarea maxlength="250" type="text" id="chatInput" placeholder="Select a mode first!" autocomplete="off" readonly></textarea>
         </div>
@@ -38,9 +47,9 @@
         <button type="button" id="refreshButton" aria-label="Refresh">
           <i class="material-icons refresh-icon">refresh</i>
         </button>
-        
+      
         <p class="charcounter"><span id="char">0</span>/250</p>
-
+      
         <button type="submit" id="sendButton" aria-label="Send">
           <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24"
                stroke-linecap="round" stroke-linejoin="round"

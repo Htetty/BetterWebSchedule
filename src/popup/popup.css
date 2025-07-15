@@ -53,6 +53,7 @@ body {
   color: white;
   padding: 16px;
   display: flex;
+  position: relative;
   flex-direction: column;
   align-items: flex-start;
 }
@@ -259,12 +260,21 @@ input[type="checkbox"]:checked + .slider::before {
   overflow-y: auto;
   border: 1px solid #ddd;
   border-radius: 8px;
+  position: relative;
   padding: 12px;
   background-color: #fefefe;
   display: flex;
   flex-direction: column;
   margin-bottom: 0;
   max-height: none;
+}
+
+.chat-input-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px;
+  background-color: #fff;
 }
 
 .chat-input-area {
@@ -306,7 +316,7 @@ input[type="checkbox"]:checked + .slider::before {
 
 .charcounter {
   position: absolute;
-  bottom: 6px;
+  bottom: 0px;
   right: 20px;
   font-size: 12px;
   color: #999;
@@ -315,7 +325,7 @@ input[type="checkbox"]:checked + .slider::before {
 #sendButton,
 #refreshButton {
   position: absolute;
-  top: 94%;
+  top: 92%;
   transform: translateY(-50%);
   background: none;
   border: none;
@@ -325,6 +335,34 @@ input[type="checkbox"]:checked + .slider::before {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.upload-button {
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-size: 14px;
+  cursor: pointer;
+  margin-top: 10px;
+  width: fit-content;
+  transition: background-color 0.2s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+.upload-button:hover {
+  background-color: #357bd8;
+}
+
+.upload-button:active {
+  background-color: #2f6ebf;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.upload-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.4);
 }
 
 #refreshButton {
@@ -380,7 +418,7 @@ input[type="checkbox"]:checked + .slider::before {
   padding: 10px 14px;
   border-radius: 16px 16px 1px 16px;
   margin: 6px 0px 6px 24px; 
-  font-size: 15px;
+  font-size: 14px;
   text-align: left;
   max-width: 650px;
   width: fit-content;
@@ -389,33 +427,81 @@ input[type="checkbox"]:checked + .slider::before {
 }
 
 .bot-message {
-  align-self: flex-start;
-  background-color: #A6CEFC;
+  background-color: #f5f5f5;
   color: #333;
   padding: 10px 14px;
-  border-radius: 16px 16px 16px 1px;
-  margin: 6px 24px 6px 0px; 
-  font-size: 15px;
-  text-align: left;
-  max-width: 650px;
+  border-radius: 16px;
+  max-width: 400px;
+  font-size: 14px;
   width: fit-content;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
+  margin: 8px 0;
+  font-family: 'Segoe UI', sans-serif;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.06);
+}
+
+.bot-message,
+.user-message {
+  opacity: 0;
+  transform: translateY(10px);
+  animation: fadeInUp 0.4s ease forwards;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.assistant-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.assistant-avatar {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+}
+
+.assistant-name {
+  font-weight: 600;
+  font-size: 13px;
+  color: #111;
+}
+
+.assistant-text {
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.mode-button-wrapper {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  z-index: 10;
 }
 
 .mode-btn {
-  flex: 0 1 auto;
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
   padding: 10px 14px;
   font-size: 14px;
   border: 1px solid #ccc;
-  border-radius: 10px;
+  border-radius: 15px;
   background-color: #625B71;
   color: white;
   cursor: pointer;
   transition: background-color 0.2s ease;
-  text-align: left;
-  width: auto;
-  max-width: 200px;
+  width: fit-content;
+  max-width: 240px;
+  text-align: right;
 }
 
 .mode-btn:hover {
@@ -475,22 +561,63 @@ input[type="checkbox"]:checked + .slider::before {
 
 /* === WELCOME SCREEN === */
 .welcome-screen {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
+  display: block;
   text-align: center;
-  padding: 20px;
+  margin-bottom: 10px;
 }
 
 .welcome-screen h1 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
+  font-size: 1rem;
+  font-weight: 50;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 0.5px;
+  color: #D3D3D3;
 }
 
 .welcome-screen p {
   color: var(--text-color);
   opacity: 0.8;
   max-width: 600px;
+}
+
+/* === COLLAPSIBLE SECTION === */
+.collapsible-section {
+  overflow: hidden;
+  transition: max-height 0.4s ease, opacity 0.3s ease, padding 0.3s ease;
+  max-height: 500px;
+  opacity: 1;
+  padding-top: 12px;
+}
+
+.collapsible-section.collapsed {
+  max-height: 0;
+  opacity: 0;
+  padding-top: 0;
+}
+
+.collapse-toggle {
+  position: absolute;
+  bottom: -18px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #1e1e2e;
+  border: 2px solid #ccc;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+  z-index: 10;
+  transition: transform 0.3s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+}
+
+.collapse-toggle:hover {
+  background-color: #2a2a3a;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.collapse-toggle.rotate {
+  transform: translateX(-50%) rotate(180deg);
 }
